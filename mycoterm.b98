@@ -1,0 +1,57 @@
+a".deneppah evah dluohs tahw fo noitpircsed dna desu dnammoc eht fo yltsom"v
+v   $_,#! #:<"All these tests are purely I/O related: output will consist "<
+
+> "MRET"4#v(na"...eunitnoc ot retne sserP"a".dedaol MRET">:#,_~$#vCv
+v"loaded."<      v                           "BAD: C reflected"an<
+>" ton MR"v      v "C was called, the screen should have cleared."a<
+v     "TE"<      >:#,_a"...D-20 gnillaC"a>:#,_02-#vDa"enil D-20 eht evoba "v
+>:#,_$v                v_,#! #:<;#"It reflected"an< ;"This should be right"<
+v   ,a<                >a"...D1 gnillaC"a>:#,_1#vDa"siht evoba enil knalb "v
+                v_,#! #:<;#"BAD: it reflected"an<      ;"There should be a"<
+                >a"...G4f gnillaC">:#,_f3#vGaaaa"enil D1 eht fo thgir eht "v
+         va_,#! #:<;#"BAD: it reflected"an<;"This should be placed by G to"<
+         >"...eunitnoc ot retne sserp ,SU5 htiw hpargarap dnoces eht r"v
+         v"second paragraph was"aa   Sv#Uv#5$~_,#! #:<a"Trying to clea"<
+               v  "BAD: 5U reflected"an  <
+               >;# "BAD: S reflected"a<  ;v
+         >" eht erehw eb won dluohs sihT" >:#,_a"...eunitnoc ot retne sserp"v
+         vaaaaaaaaLv#Hv#$~_,#! #:<"Trying to clear the first line with HL, "<
+                      >na"detcelfer H :DAB"            v
+                   >   na"detcelfer L :DAB"            v
+         >"saw enil tsrif eht erehw eb won dluohs sihT">:#,_v
+v                                                           <
+> "SRCN"4#v(na".dedaol SRCN">:#,_a"...eunitnoc ot retne sserp ,I1 gnillaC"a".nees eb lliw gnihton"v
+v"loaded."<               v", might not work after I: using S instead, so if R and S don't work, "<
+>" ton SR"v               >:#,_~$                    1#vIa"...S gnitseT"#@Sa"...gniunitnoc"v
+v     "NC"< v"BAD: 1I reflected, can't test the rest"an<          v   S"S didn't reflect, "<
+>           >:#,_a,@                                              >a"...R gnitseT"S#@Ra"tuptuo eb "v
+                                >na"stcelfer P :DAB"  v
+  vPPPPPPPPPPPPPPPPPPPPPPPPPPPPP^#"If this is visible, P works."aRS"R didn't reflect, there should"<
+  >na".krow t'nseod P ,deraeppa P tuoba egassem on fI">S           v
+
+   v"Some sort of beep should have resulted."aRBv# S"Testing B..."a<
+   v                      "BAD: B reflected"an  <
+
+   >SR0#vE  0#vN              >a"neercs eht ot deohce eb t'ndluohs yek eht dna retne sserp ot deen"v
+        >na"stcelfer E0 :DAB"S^S   <v"Press any key to continue... if 0E and 0N worked, you don't "<
+              >na"stcelfer N0 :DAB"^>SR#vG a\ >:!#v_:a%'0+\v
+                   v"BAD: G reflected"an<     ^     /a     <  <- . might not work: int to string
+   v             RS<                       "Got "$<              also used below
+
+   >'x#vU #vG 'x-#v_a"021 si GUx' :DOOG"  >SR 1#vK                    >a"...eunitnoc ot yek noitcn"v
+       >   na"detcelfer  Ux' :DAB"        ^     >na"stcelfer K1 :DAB"S^        vGv#RS"Press any fu"<
+           >a"detcelfer GUx' :DAB"        ^                 v"BAD: G reflected"an<
+                  >na"021 t'nsi GUx' :DAB"^                                    >\ >:!#v_:a%'0+\v
+  vMv#00G  RS"Going to test M, press enter to continue..."RS<"Got "$             ;^  ;<;/a     <
+    >na"C tset t'nac ,stcelfer M :DAB"                 v
+  >a"neercs eht fo pot eht ta eb dluohs sihT"SR  2#vCa"deraelc evah dluohs neercs eht fo tser ehT"v
+                                                       #
+   v"changed"aCv#1M22GRSa"Trying to overwrite above with M and C, press any key to continue..."aRS<
+               #                                       # 
+   >" evah dluohs enil si"SRa"eunitnoc ot yek yna sserP"SR0#vCa"deraelc evah dluohs neercs elohw "v
+                                                   v        <           v                    "The"<
+                                                       >                v
+               >              >                    >na"detcelfer C :DAB"v
+                        v"Press any key to try to end curses mode..."aRS<                     
+                        >SRGn#vIa"dekrow I0 :DOOG">:#,_@
+       @RS"BAD: 0I reflects"an<

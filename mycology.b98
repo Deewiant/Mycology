@@ -1,0 +1,768 @@
+0#@>. 1#@v>#@,55+"skrow , :DOOG",,,,,,,,,,,,,,1#v:$v>"pud t'nseod : DAB",,,,,,,v>                                                                  v        >" 1 naht erom spiks "v
+v"@.4"@#<.+@,,,,,,,,,,,,,,,,"BAD: : reflects"+55<v _^          @,+55,,,,,,,,,,,< v+---<vfv#< < vdv#< <     v<v": a doesn't push 10"+55_v#   -+91av#< v "BAD: # across left edge"  <
+>$#v5#.< #5   >:#,_$v#"GGGOOD: : duplicates"+730$<>"OOG">:#,_22#v-#v_19+"0 = 2"v >9-v ^< < ^e^#< <     vbv#<^># #< "DAB">:#,_@#"BBAD: a reflects"># 0# 5# 5# +# <
+>3.#@$ .^@5v"ro"+820_28+"orez spop kcats ytpme :D"^v"-2 != 0"+550  <v"GOOD: 2-"< v a_a"51-11 h"v   ^c^#< <  >:#,_^#"GGOOD: a pushes 10"># 0# 5# 5# +# <     "
+^ 0@# 4.2< >"eznon spop kcats ytpme :DAB"v  "BAD: - reflects"+55<   >:#,_v  >v   >")seod a taht gnitseretni( krow t'nod f-b :DAB">:#,_@#:        <   >     vc     >055+"llec tsom"v
+v.6_5.@>7.^>+"stcelfer \">" :DAB">:#,_@#:< "BAD: 2"<   v"GOOD: | works"+<>#v|>0v v"OD: b-f pus"<>a"tfel snrut [ :DOOG">:#,_v                     "          e      v"kips eastern"<
+>80#@+#^_@ ^55>#0<  >:#,_ v#:"GOOD: 8*0 = 0"+5<v ># $< >:#,_v           ^550<  5 >"OG">:#,_   #v[                        > #a"thgir snrut ] :DOOG">:#,_v    l      >"s dnuoraparw"v
+v"D: # < jumps into <"+5<^     "8*0 != 0"+55< 5v"BAD: | goes the wrong way"5#+5< v"[ reflects"a<>0a    v                   >a"stcelfer ] :DAB"   ^          l     @_,#! #:<"BAD: "<
+>"OOG">:#,_12#^\1-#v_8+v5^ "* reflects"+550<^_^>:#,_@#:<"BAD: | reflects"+5<     >" :DAB">:#,_@#>#:<                     ^a]a"tfel snrut ] :DAB" ^          "     #
+v   "GOOD: \ swaps"0#  <^ ># <46+"< rev"v>#^*^>" :DAB">:#,_@>#v!1-#v_55+"1 = "v  ^      "[ turns right"<                 @_,#! #:<"BAD: ; reflects"a0< a    a
+>:#,_1#v`v >"r `"  5> $  ^ "# < jumps o"<^8<> ^"! reflects"+64<v550<  v"D: 0!"<  v"are skipped";^ "BAD: instructions between "+*873" are processed" ;^#<v     <
+v68+55<>055+"stce"v>5+"paws t'nseod "v>:#,_^^"7! != 0"+_v#!773<>+"1 =! !0 :DAB"v >" ; neewteb snoitcurtsni :DOOG">:#,_         g:!#v_                    1-#^_^
+*   v_^#$< ^"23fl"]>^   $<0  "BAD: \"<^  "GOOD: 7! = 0"+<>:#,_^#"GGOO"<>:#,_@#:<
+    >055+"0 =! `10"^>1\`1-#v_55+"1 = `01 :DOOG">:#,_900#vp#vg9-v       ^"BAD: "<                                                    v                      <
+>" = `10 :DOOG">:#,_^      >55+"1 =! `01 :DAB"  0^      >055+    "stcelfer p"  ^                      v               >#           #<                                 2v0$$$$$$$$$<
+v"difies space"+># 5# <  ^00      "900pg doesn't get 9"+55<>5+0 \"stcelfer g"  ^^                                                  $                                p00<1$$$$$$$$$$<
+>"om p :DOOG"vv5 5p:+88"^"_,#! #:<"GOOD: 900pg gets 9"+55_^#!  <                v_,#! #:<             <                             #v                 #<         ^             <
+     $_,#! #:<>+"ecaps yfidom t'nseod p :DAB">:#,_@v"GOOD: wraparound works"v###                                                $_,#! #:<"Befunge-98 detected."+550             ^###
+#                          " column 80",:+55_,#! #:<v"p skips column 80"+550< vv >"el ssorca # :FEDNU"^               ^$$$$$$$$$$                                                 ^^
+v         "GOOD: Funge-93 spaces"+55<               >"arw :DAB">:#,_@ v"skips"<  ^"ft edge skips easternmost cell in file"a        <        The above must be the easternmost cells
+v "BAD: SGML spaces in Funge-93"+55_^#$\`"  !"_,#! #:<"UNDEF: edge # "<  "hits"< ^"ft edge  hits easternmost cell in file"a          <      in the file because else the # might
+>:#,_55+"...gnittiuQ"55+".enod si etius tset ygolocyM eht fo noisrev 39-egnufe"v>                                                        v  (depending on how smart the interpreter
+@,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"The B"<v_,#! #:<                                                 < is) jump over a space to their east, and
+                                                                                                                                            the IP would always hit the easternmost
+      v$_,#! #:<"f"<   >0a"lasrever desuac )1- 1-( ot gnittup :DAB"      >      #                                                    v      cell. The other case is tested below.
+      >    >   501-01-#^p01-01-#vg                                          5-#v_ a"ecapS-egnuF evitagen gnikrow gnimussa ,dekrow )1- 1-(  gnitteg dna ot gnittup :DOOG"v
+>"evael 4k3 :DAB">:#,_$.a"kcat"v>0a"lasrever desuac )1- 1-( gnitteg :DAB"^     >    0a"eulav gnorw ni stluser ereht gnittup retfa )1- 1-(  gnitteg :DAB"v               <
+^"s"<v2        $$$<^"ours on s"<       >" 3 naht erom sevael 4k3 :DAB"v
+>" "^v1    $$$< v ;>$v;                           _,#! #:<            <                                    v                 $_,#! #:<                  <
+^0p00<0$$$<^    <  $>a"kcats no sruof 3 sevael 4k3 :DOOG"^
+>       4-|>4-|>4-|| > "kcats no sruof"^     v
+4         >^  >^  >[^            v"eft at ["a    <                         >a    "^" v
+k  >      v                                                                 >a   "k" >" ta ^ setuc" v
+3  ^"fours on stack"a.g<             >:#,_v#:<                              a>  "stcelfer k :DAB"    >:#,_@
+^ $_,#! #:<"GOOD: ak47k$ leave"< >"l snrut"v>^$$"^<"                        #a#""    "BAD: 0k^ exe" <
+>"ael $k74ka :DAB">:#,_^    v   "BAD: 1k[ "<^"GOOD: 0k^ doesn't execute ^"a^k^#0<
+^"ves "< >a"kcats no sruof 3 s"^                 >         v  >$$$$$                          v    >$$ a "k ta stcelfer # k1 :FEDNU"v
+>00g3-#^_^                  >            ">1#v # k["$$$$$$">a"^"$"k morf tfel snrut [k1 :DOOG">:#,_  vv    #                        <
+^$$$$$$$$$$  <                               >a"gnisrever ,eciwt tfel snrut [k1 :DAB"   #v #< ^#      <"UNDEF: 1k # does nothing at k"<
+v;       v             <         ;p_,#! #:< "BAD: 2k# jumps twice from #"avv#k2 $$_,#! #:<  "vv# k1^#<
+> ak47 k$>4-#^_00g1+00p^                  ^"GOOD: 2k# jumps twice from k"a< v"xecutes # at k"a<            #
+                                          ^ "BAD: 2k# jumps once from k"a  <>"e # k1 :FEDNU"^>"# tsap evom t'nseod dna k ta spmuj ro "^
+v    >fkf#vn#v_a"skrow ti gnimussa :"v                         > a"89-egnuF ni secaps 39-egnuF :DAB">
+>:#,_^#:  0               ;v         <;   "GOOD: SGML spaces"a_^#$\`"  !"    ;v$<                          <;                                   $_,#! #:<
+v"flects"a<                >"kcats llec-51 sraelc n :DOOG"      >:#,_ v>v     >92#v/4-#v_a"4 = 2 / 9 :DOOG">:#,_v                         ^    "UNDEF"<<^   "GOOD: 1 % 0 = 0"<
+>"er n :DAB";>a"kcats llec-51 raelc ton seod n :DAB"#;>:#,_@           "'         >    0a"stcelfer / :DAB"    >  >:#,_@                  >           v"">"DOOG">:#,_10#v%#v_a^
+v;>a"stcelfer r :DOOG">:#,_      21v>na"stcelfer w :DAB"v            ;< o     v       ;>2-"4 =! 2 / 9 :DAB"   ^;<                                     ::^": 1 / 0 = 0"<a  >a"0 =! "v
+>#^ra"tcelfer t'nseod r :DAB" >      >:#,_@#:           <  <           ^>"tn"v>92#v%1-#v_a"1 = 2 % 9 :DOOG">:#,_a"...orez yb noisivid tset ot tuobA"    >:#,_10#v/#v_a^>"det"v>v> v"
+ >v       >na"stcelfer ' :DAB"^    #   >  v>;#_,#! #:<"BAD: 1j ^ jump"<" ;v  >'iv >    0a"stcelfer % :DAB"    ^                                      ###v      a<  >a  v     """"  0
+vw     ;>#^' " "#;<                >^  ;  >                  v >"vo s"^a  >    v       >a"1 =! 2 % 9 :DAB"    ^                                "BAD: "                < <   ;cfe%;<
+av >:#,_^#:"GOOD: 21w turns right"awna"tfel snrut w12 :DAB"^ [;^"er ^"a^ j^#1<  >" spmuj ^ j1 :DOOG">:#,_;;# <;v                                      aa>"detcelfer /"^      elr   %
+'n>a"02 naht retaerg"v             >na"nrut t'nseod w12 :DAB"[            ^  ; #         f1+>"nseod sv' :DAB" v                                       ccv              <     """"
+0>a"02 naht ressel"  >" eulav a sehsup  ' :DAB">:#,_@        >a"pu seog ^sv' :DAB"      v   ^"'t place v"a << >>  >:#,_v#:        <                   rr>"0 =! 0 / 1" ^      >^>^  "
+>"2 sehsup  ' :DOOG">:#,_              ;  ;               'vs^a"hguorht seog ^sv' :DOOG">:#,_16a*+35a*+g'v w a"v secalp sv' :DOOG"^                   oo                ^       "1"<
+#vza"tcelfer t'nseod z :DOOG">:#,_v    ^"BAD: s reflects"a$< >a"nwod seog ^sv' :DAB"    ^                  >^          >                             ;ss;
+ >a"stcelfer z :DAB">:#,_@   >>v  >3#vjvvva"sllec 3 revo spmuj j3 :DOOG">:#,_ v$    >"htron seog x01 :DAB"             v                              ss
+        >        >$ ^        ^xv#1-1;> na"stcelfer j :DAB"              ^          >a"tsew seog x01 ro stcelfer x :DAB">:#,_ @ ;<
+v"GOOD: 1-1x goes southwest"a<>>a"tse"v>na"gnihtyna od t'nseod j3 :DAB" ^    ; >10#^xa"tsae seog x01 :DOOG">:#,_               0^                     ll
+>d2*k,v ^"BAD: 1-1x doesn't go southw"< >a"llec 1 revo spmuj j3 :DAB"   ^    ^ ;    >a"htuos seog x01 :DAB"            ^    ;,k<          -\*d4<      ee
+>>>>>>3>>>>>>>v<< <<<<<<<<<<<<<<<<<<<<<<<>na"sllec 2 revo spmuj j3 :DAB"^     > 4-#v;vvvv;jvvvvv;# <                                                  ff
+^^^^^^2^^^^^^^n^^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>:#,_           ^     n >> v<<>>>>>a"drawrof spmuj j-40 :DAB"64*  ^                      tt
+^^^^^^#^^^^^^^a^^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^"BAD: 04-j reflects"a<   >a"sllec fo rebmun thgir eht drawkcab spmuj j-40 :DOOG"0^
+^^^^^^<^^^^^^^#^^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>"sllec fo rebmun gnorw eht drawkcab spmuj j-40 :DAB"1 ^      ee
+^^^^^^x^^^^^^^<^^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                                                              dd
+^^^^^^^^^^^^^^^^^^                                   <                                                                                                gg
+^^^^^^^^^ ^^^^>")2 ,3( ot atled tes t'nseod x23 :DAB"^vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv                                   ee
+^^^^^^^^^^^^^^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+vvvvvvvvvvvv>a"...x tsurt nac ew gnimussA"a")2 ,3( ot atled stes x23 :DOOG">:#,_c0 x                                                                  s
+v<<<<<<<<<<>a"krow ot sraeppa atled lanidrac-non htiw dnuoraparw :DOOG">:#,_v                                                                         kh
+>>>>>>>>>>>a"krow t'nseod atled lanidrac-non htiw dnuoraparw :DAB"     ^     >"} :DAB">:#,_@ >na"yromem fo tuo nar ebyam ,detcelfer { :DAB">:#,_@     ii
+         >;#"BAD: { transfers cells incorrectly"an< < < < < <<v{v#5123456789<^" doesn't reset storage offset"a<                         ;  >:#,_    v pt    >0a"yltcerroc sllec s"v
+v780>'_,#! #:<"GOOD: { transfers cells correctly"aw0w5w4w3w2w1< >                            ^   <             <     >:#,_@   v"upt stack stack"...a< ss    v"tive count transfer"<
+>*-2p va"ti sesu p dna ,yltcerroc tesffo egarots";> > > > > >^;" stes { :DOOG">:#,_$542#v} 'v 6aa*+ 6c* p >  n^^              [            #        v       >"isop a htiw u :DOOG"v
+      >a"ti esu t'nseod p ro ,yltcerroc tesffo egarots tes t'nseod { :DAB">:#,_@        >         na"stcelfer } :DAB"^"Stopping due to fear of corr"< ee    x b -*ac       _,#! #:<
+      "egarots steser } :DOOG">:#,_$v>> > > > > >na"yltcerrocni sllec srefsnart } :DAB";                >v>$0a"tesffo "       #           ;^;        ;aa;
+                    v_,#! #:<       >4w5w6w7w8w9wa"yltcerroc sllec srefsnart } :DOOG">:#,_  101-#^{}#v_1w v                                           ss
+                   ;>    v; ^"BAD: ";^< < < < < <;"{ with a negative argument doesn't push zeroes"a< > v<<>a"skrow tnemugra evitagen htiw { :DOOG"   ;tt;
+v     _v#-f}-50{v#0abcdef<  ^                 "BAD: 101-{} doesn't leave stack top as 0 and next as 1"a<                      #                       ee
+                >;                                        >a"kcats eno ylno sah kcats kcats nehw stcelfer } :DOOG">:#,_$  v  ;^                       rr
+       >  a"skrow tnemugra evitagen htiw } :DOOG">:#,_   #^}a"kcats eno ylno sah kcats kcats nehw tcelfer t'nseod } :DAB"                  ^          nn
+>na"kcats no 51 evael t'nseod }-50{0abcdef :DAB" ^     @,k-1*68"Stopping due to fear of corrupt stack stack..."a<          >" tnuoc orez htiw u :"v   mm
+v;   >   a"kcats eno ylno sah kcats kcats nehw tcelfer t'nseod u :DAB" 0b-1x      > > >   > > >v        >57*k,# ^        ;<^"reflects"n}n<            oo
+> #vu^  >a"kcats eno ylno sah kcats kcats nehw stcelfer u :DOOG">:#,_1230{4560#vu6w5w4w0}3w2w1wn"gnihton seod tnuoc orez htiw u :DOOG" v    v"BAD"<   ss
+  v>    ^       > > > > > >v<                    > >v<                         >; > > >   > > >>"gnihtemos seod tnuoc orez htiw u :DAB">;^; >:#,_a,$ ;tt;
+  >1230{4564#vu2w3w0w0w6w5w4wbb*0e-x>4560002-#vu6w5w4w0}                                                                   v >v      > > v
+v"reflects"an<  > > > > > > >         v       < ;> >>>;na"yltcerrocni sllec srefsnart tnuoc evitisop a htiw u :DAB">:#,_nav>1w  0{2u0w0w}  v;v        cc
+>" tnuoc evitisop a htiw u :DAB"    ;> "evitagen a htiw u :DAB"                  ;]#; >:#,_;#      "CCan't test negative."<  >>{v ;v > > >   v        ee
+ "yltcerrocni sllec srefsnart tnuoc "^> na"stcelfer tnuoc evitagen a htiw u :DAB" [>:#,_n}v}}nu2{nu2                           ;>; <        ;>na     ;ll;
+   "yltcerroc sllec srefsnart tnuoc evitagen a htiw u :DOOG">:#,_$ v     <                >na"tpurroc eb yam noitautis ,kcats kcats fo"v   >a        ;ll;
+va3 '_v#!%2:/2_v#!%2:$_,#! #:<"y claims all of the following:"a0y>#<a"st"]                     $_,#! #:< "WARNING: attempted recovery "<
+>*4+vv> 2c*0x !>0a"detnemelpmi si"v >     3a*9a*1+g:'ov > ;>;$'iv;  'ov  >"celfer y :DAB"82*k,@x50<"to interpret with a";>0"margorp nwonknu n"#;<     oo
+vp+;>0$29a*#;<^_,#! #:<9"That t " <x-10-*a20p+1*a9*a3;>\w    $'=>   #;<  >"pretni eht tahT"9v>'B  ^"unavailable"0$<  >1-#^_0")(metsys C o"v           nn
+>84v >a"desu gnieb si O/I dereffubnu "v>"tyb fo rebm"vv <>-|>;#"reter" <;^    v0:,a.$_,#! #:<^"AD: nonstandard"0$<w:3wv> #;"t tnelaviuqe";<;v
+v7*<v0            _v# $_,#! #:<9"That"< v"hat the nu"<>'=^ >'< 69a*p 0^^"'s "<>" si = fo ruoivaheb eht tahT"9>:#,_^  >$00d-01-x     2-+1*3a0<         ll
+>5*v>        a"51"v>>0" si llec rep se"^>'T9>:#,_$.a,v>:#,_$.a,0" si noisrev"^v"ions"a<v"terpret with the host shell"0<v '0:$_,#! #:<9"That" <        ii
+v92<  v"ter than "<^$_,#! #:<"BAD: a"<v"ndprint is "0<^9"That"<v_,#! #:<"dim"<>'s v>\.^>"ni ot">:#,_$a,0\a\" si rotarapes htap s'metsys eht "^        nn
+>a*+p^>"aerg si llec pot eht y retf" ^>"ah s'reterpretni eht "^>$2-#v_v      ^"en"<^_,#! #:<9"That this Funge ha"++1*aa<                              ee
+v >;#$_,#! #:<"BAD: should be 2, or we wouldn't have got this far"a0<;>0" si PI tnerruc eht fo DI eht tahT"9>:#,_\.a," si PI tnerruc eht"             ""
+>" fo rebmun maet eht tahT"9>:#,_$.a,0" ( saw PI eht fo noitisop eht tahT"9>:#,_$\:.\:.a'),, ; vx2-20<>#< v;9a*1-038*-0x                              aa
+#                                                            ;>$#;                           ;vw>    ^w>^;                v#                         <^^
+v                   $_,#! #:<"BAD: the position should have been ( 64 89 )"a0                $<>88*   ^   >            ;v< ;
+>0" ( saw PI eht fo atled eht tahT"9>:#,_$\:.\:.a'),,#v_1+#v_;^"BAD: should have been ( 180 768 )"a0                   $< #;v>a*a9v                                      >        v
+0" ( saw PI eht fo tesffo eht tahT"9>:#,_$\:.\:.a'),,v>$   >               0a") 0 1- ( neeb evah dluohs atled eht :DAB">:#,_>a$  #+
+>#;"BAD: the offset should have been ( 0 0 )"a0      >#<_#<_v$_,#! #:<;# <       >9>:#,_$\:.\:.a'),,v         >$    >   :^>v ^/**<*
+  9"That the least point containing a non-space cell is ( "0<> #;"rg eht tahT";<;^v"h is "0%**884:<;> c88**   w495**w   #;<>:#,_v8+          >" tsael ta eb dluohs :DAB">:#,_$ $1v v
+  \:.\:.a'),,1+#v_1+#v_> #;0" ( si ,tniop taht ot evitaler ,tniop tsetae"   ;<;^  >"tnom eht fo "v^          <>$    >   ^v     $<80    v,0'< ^"1, assuming 1"a0          #     <  >
+               ;>;v;$>0a") 1- 1- ( neeb evah dluohs tniop tsael :DAB">:#,_$  ^v_,#! #:<9"That t";>"yad eh"#;<^           < >$.a,4^>" si raey eht tahT"
+v#  /*:+1f\%*:+1; >   9>:#,_$.a,:f1+:*%0" si emit eht tahT"9>:#,_$\f1+:*/:f#;<>$.a,884**/:884**%0" si htnom eht tahT"9>:#,_^     >;# '.<  _^#`a:;#<
+>':,,:a\`#v_  >." :",,:a\`#v_  >.a,0" si kcats kcats eht fo ezis eht tahT"9>:#,_$:.a,:!#v_ >0" [ era sezis kcats eht tahT"9>:#,_$ > #;\.1-:#;_  a"mottob ot pot morf ]">:#,_v
+>:#v_$   ;>'0,^            >'0,^;   :#v_$                   :#v_$" llun",,,,,v         ;> #^;       x        0 -*aa   _,#! #:<   9"That the command-line arguments were: [ "< ;^#<
+v  >'",>:#,_' '",,2d*-01- x           >" llun",,,,,06a*-01- x >              >a'],,0a":era selbairav tnemnorivne eht tahT"9>:#,_$                                        #
+>:#v_a".tcerroc eb ot deifirev yllaunam era smialc evoba eht taht tseB">:#,_$y1#vyv>>a"sehsup y1 tahw ot lauqe t'nsi y retfa kcats eht fo pot eht :DAB"88*k,@
+   >99>:#,_a,2a*-01-xv" work"<>"mialc y1 :DAB"6a*1-k,  @,k+2f"BAD: 1y reflects"a< >w0a"skrow y1 :DOOG">:#,_$$$$ 5y v >0a"skrow y5 :DOOG">:#,_$$$$$$$$dy-#v_>0a"skrow yd :DOOG"v
+v"f testing: assume"<>'=v>a's^^ "s = is implemented, 5y says = is unavailable"a_v#<>^@,k*73"BAD: 5y doesn't work"a<w# <v"x component of the IP's delta)"a<  ^ ,k*c6<  v_,#! #:<
+>"o dohtem mroftal"v^*48<^_,#! #:<"GOOD: 1y and 5y do not disagree about ="a0<_v#_^#                     \%2/8y1y5;> ^ >" eht hsup dluohs ti( krow t'nseod yd :DAB"^;n<
+v"reliable cross-p"]6a*789+* 0 0"fb.dnarocym" #vi 0a                          v>a"seod ti tahw wonk ot smialc y5 tey ,detnemelpminu si = smialc y1 :DAB"7a*k,@           ^ $_,#! #:<
+>" oN">:#,_$1y2/2%#^_a"ti tset tonnac - y1 ot gnidrocca detnemelpmi ton i :";^  <;"FEDNU"   v>"cerrocni gnitibihxe era {p? fo eno ro retcarahc ecaps a htiw nettirwrevo saw noitcu"v
+v" system isn't giving permission to read it."a<>aa"...dnaRo"v>$v             >".ruoivaheb t"^v"inite loop occurs or the program terminates afterward, most likely either an instr"<
+>"eht spahrep ,seo"v--mycorand.bf loaded here--v"ntering Myc"<^;>6a*\789+*                 #"v>"fni na fI"a".i htiw 'fb.dnarocym' dedaoL">:#,_a,#;<                  >")61 ,09( bV"v
+v"exist."a"If it d"<--v should be overwritten-->'E>:#,_   >{v                               : >$$>>0a"aV sa )911 ,06( dehsup evah dluohs";  ;" i :DAB"v    v       <<av"d correct "<
+>" dluohs dna ygolocyM fo trap si elif ehT"avv"ot reflect"a}<                               #>w w  0a")911 ,06( aV tcerroc dehsup i :DOO";  ;'G       >:#,_$9a*\88+ww^>"ehsup i :D"v
+v "BAD: opening 'mycorand.bf' with i failed"<>"n did i tub "v                               , >$$>^v"BAD: i should have pushed (90, 16) ";  ;"as Vb"a     n<       <<v_,#! #:<"GOO"<
+v "BAD: MycoRand was not loaded correctly,"                 <                               |      >:#,_$> #;7a*-05-  x                     ;                       $<
+:>v                                                                                         >0357**-a9+  x
+#"a
+,Sv                    Hope the following isn't overwritten,                                            p6+1*36*-1*a62
+|u:                    or we hit an @ and exit
+$c#                                                                            > v
+ c,
+ e|
+ s$
+ s
+ f
+ u
+ "#                                                                              >n}a"ed"v > 19f*+ p0d8*-2x >"mtocym ot gnitirw :DAB"                                  09b* -6v
+ ^"lly exited MycoRand. Rerun a few times to ensure ? works."a"GOOD: i works in text mo" < ^*4a p +*f91  c:<^"p"g +*f91 c".tmp with o failed"an<
+> >" ...pmt.0pmtocym gninepO">:#,_ "pmt.0pmtocym"#vina"...etirwrevo t'noW .dedeeccus">:#,_$c 19f*+ g1+:':-#^_$a"o tset t'nac ,seman elif yraro"  "pmet fo tuo nar :DAB"09b* -6x
+" pmt."c 19f*+ g"pmtocym ot etorW">:#,_a-:00"pmt"v>na"...o htiw ti ot etirw ot gniyrT"a".deliaf" >:#,_$ a6 00 0 0"pmt."c 19f*+ g"pmtocym"     #^oa"...i htiw kcab gnidaeR"a".o htiw"
+                                                 >'.c 19f*+ g"pmtocym"#vina")01- ,01-( ot atad nettirw daer :DOOG">:#,_a-2+:1-g'@v>>a"@ eb dluohs )9- ,8-( :DAB"v
+x 3*5f"BAD: couldn't read mycotmp"g+*f91 c ".tmp to (-10, 10) with i"an<v"r') or 10 (0xa, '\n')"a_v#-3_v#;>:#,_0a-ga-:#;<        >w a"@ si )9- ,8-( :DOOG"      >:#,_a-:10"pmt."c 1v
+ >" i :edom txet raenil "vv_,#! #:<"BAD: (0, -10) should be 13 (0xd, '\"<v"GOOD: (0, -10) is "0  d<   a<  ^"GOOD: read data in b";>^;"inary mode to (-10, -10)"aniv#"mycotmp"g +*f9<
+ ^ x1*c6"Can't test o in"<>;                                             >:#,_$.a,#;a".elif ot tuptuo era yeht rehtehw 89-egnuF dradnats nihtiw morf wonk ot yaw on ,secaps serongi"
+>a"elif gnitsixe emos etirwrevo yam ,i gnikrow tuohtiw o tset t'nac :FEDNU">:#,_1y2%!#v_a"89-egnuF tnerrucnoC si siht syas y1"87x >'<v >"tiuq ot gniyrt ,pu dessem yrev eb thgim n"v
+v          ;>>v;  $_,#! #:<"1y says this is not Concurrent Funge-98, won't test t..."a<                      v       *a6<>na"q htiw "#v^#"or concurrency is very broken"a"Situatio"<
+;v"differ"a wg5\,a.:y8_,#! #><"Child IP: ID "p+*cc1*5d '_,#!  #:<     "BAD: reflected IP didn't copy stack"a<w# <       >^  <<<<<<<<<<>" PI wen a gnitaerc tuohtiw stcelfer t :DAB"v
+ >" dluohs"v>>>'va2v><p5 p*cc*47:',a.:y8_,#! #:<"Parent IP: ID " ><p*cc*ac^'_,#!  #:<"GOOD: basic concurrency seems to work"ap*cc*bb<tv"o other IP or @ is implemented as q"aq,k*cb<
+v"AD: IDs "<v+1*cc*<v           >v                              ^          "GOOD: reflected IP copied stack"a<    >898+*k,@@@@@@@>@<^<>"n s'ereht yllufepoh ,@ gniyrT"a"tniop siht"v
+>'B>:#,_$'vv        >"$"$>>>>>>>>a"PI dlihc ot roirp detucexe PI tnerap :DAB"v                                    ^"BAD: q doesn't quit"a"Suggest manually killing the process at "<
+>;#+1*cc*2a<>#;>>>p$>"^"48*9c+7*p$><4a*-3x                                   >:#,_'>75*af*2-p>>b9*-2x
+;                                >a"PI tnerap erofeb detucexe PI dlihc :DOOG"^                                                          >:#,_aa".1 ekat dluohs a' ,skcit 5 ekat dl"v
+ >"v"c1fa*+p 'v 6b* 1fa*+                             ><        p  '^  297**  2b7**                                    ><>p        v    v"urrency is concerned: "+2" a b"+2:" shou"<
+ >"$"$>>>>> >a"skcit 0 sekat ecaps elgnis :DOOG">:#,_$' b5*>fa*>p>>a"kcit eno naht erom ekat secaps elpitlum :DAB">:#,_$'>ac* af* v     >"cnoc erehw yltcerroc krow tsum sgnirts o"v
+            >a"kcit 1 sekat ecaps elgnis :DAB"  ^                 >a"skcit 0 ekat secaps elpitlum :DOOG"          ^                     v"ll continue to produce textual output, s"<
+ >a"skcit owt naht erom sekat <k3 :DAB"v                                v2*a6v'p<><**72b1$<            v"GOOD: z takes 1 tick"<         >"iW"a".kcit eno ekat ,#<v>^ sa hcus ,ruoi"v
+ v<kp+3*fa*99<'3_,#! #:<         "GOOD: jumping over code with ; takes 0 ticks"av<p+e+c++ab:l';'_,#! #:<"BAD: z takes 0 ticks"<zap<     v"any particular concurrency-related behav"<
+ >a"skcit owt sekat <"v^"BAD: jumping over code with ; takes more than 1 tick"a<<         ^^'           pp;<><+J':++aa:<'+L':-'':v'<    >" tuohtiw snoitcurtsni taht gnimussA"a".s"v
+                      v^          "BAD: jumping over code with ; takes 1 tick"a<                         >:#,_na".noitucexe tnerrucnoc"vv"g to test concurrent execution with 2 IP"<
+                      >"k3 :DOOG">:#,_:]                                >-fcc*+'v6a*3-ecc>><*+>>p>>p@61 x v   $_,#! #:<a"Done testing "<>"nioG"a>:#,_d2*-0f-x
+v                                     ;>'>7d*dcc*+p"a  b"> 0a"skcit 5 naht ssel sekat "'""b ":'a'"" :DAB"^>#;<>a".tpurroc yrev eb thgim noitautis ,yllanretxe margorp gnillik tseg"v
+                                                         >>0a"skcit 5 sekat "'""b ":'a'"" :DOOG"         ^>:#,_v#:"VERY BAD: @ doesn't kill IP"a"Trying multiple @ and q..."a0"Sug"<
+                                                          >0a"skcit 5 naht erom sekat "'""b ":'a'"" :DAB"^     >@@@@@@#vqqqqq@@@@                                                 v<
+                           >>0"ezi"v                              >>      v                                            >a"stcelfer q ,deliaf @ :ESROW NEVE">:#,_>@@@@@@@@@@<      -2
+                   >>0"ezis kcat"  >"s kcats gnorw sehsup y0 :DAB"       ;>0"tnemugra hguone egral nevig fi noitcurtsni kcip sa tca t'nseod y :DAB"#;>:#,_$a,n0fa+-1x             #y
+>n12340 yaa 1++k$ 1w      4w# ny0yaa 2++k$ 00p n1234 00 g3+y     2w 0a"tnemugra hguone egral nevig fi noitcurtsni kcip sa stca y :DOOG">:#,_f\02-2xv<<<<<<<      >a"PI gniylf "v v<+
+                   >^      >^                                     >^v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>a"thgir PI gniylf"v  "|8
+v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<xv<< <<<<<<<<<<^v "GOOD: ] turns "<  y"f
+v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  v"BAD: ] reflects"<  y\
+v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<]<<<<<<<<<<<<                      s n
+v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   >a"tfel PI gniylf"vy ,
+v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<xv<<<<<<<<< v<^# "BAD: ] turns "<aoa
+v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 0                    st|
+v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< a                      ,
+v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< b                    ,g#
+v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< *                    2n!
+v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< -                    "i
+v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<v "BAD: \ on empty stack doesn"$"1't make stack size "<"#
+v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<v,a,a$_,#! #:<"GOOD: \ on empty stack makes"$"x stack size 2 accord"<:
+>na"PI gniylf htiw lla ta krow t'nseod ] :DAB">:#,_n:f8+#vy2-                                                ; >aa,,v;#v_"y ot gnidrocca 2 ezis kcats sekam kcats ytpme no : :DOOG"^
+                       >;#n_,#! #:<"BAD: f8+y reflects"an<;                                                    ;v   <  >"y syas ,2 ezis kcats ekam t'nseod kcats ytpme no : :DAB"#;^
+                                                                              v<                              >d0#v(0a"0 tnirpregnif tnetsixenon daol ot gniyrt detcelfer evah dlu"v
+                                                                          >d-!#^_0a"yltcerroc gnippop tuohtiw ";>vd;"stcelfer"                                     vv         "sho"<
+  >;#"should have reflected trying to unload nonexistent fingerprint 0"a0)^#0dn_,#! #:<"GOOD: ( pops correctly"aw <                                    ;]           >" ( :DAB">:#,_@
+                                            v_,#! #:<"GOOD: ) pops correctly"a<                                 >>0a"yltcerroc gnippop tuohtiw stcelfer"[          > " ) :DAB"^
+                                            >                                                                 v
+v_,#! #:<"Here's how your interpreter deals with some possibilities unmentioned in the specification..."a,a   <
+>" tnemugra evitagen a htiw k :FEDNU">:#,_1-#vk1v         >"tnemugra eht fo eulav etulosba eht naht netfo erom" >" setucexe"v
+ v>1>  \v                        v"reflects"n< v_"tnemugra eht fo eulav etulosba eht naht netfo ssel ro semit 0"^          v<                                          >'"0a-6cf*+p"
+ >| ^ +1_:0" sniatnoc">:#,_0p.v  >            ;>          |               >a"ereht eb dluohs 1 tsom ta"v     ;>:#,_v_,#! #:<                                           ^  _,#! #:<
+  >a"ytpme si"             ;v <                           >  "tnemugra eht fo eulav etulosba eht sesu"   ;v;  ^    >a," ecaps fo egde eht dnuora depparw gnirts ytpme eht :FEDNU"^
+                            >")secaps yllufepoh( )s(retcarahc">:#,_a,00g1\w                             > >:#,_" tnuoc evitagen a htiw ( :FEDNU">:#,_fe01-#v("tcelfer t'nseod["3a*1v
+                                                                          >a"rorre ygolocyM lanretni"  > " :D" v                         v"reflects">#     ] ,,,,,,,,,,,,,,,p*+9aa+<
+                                                                                                        ^ "BA" <                         > ,,,,,,,, ^ v< v$e<
+                                                  >937**:')\9f*\p')\cd*5*p ']3a*1+aa9+*p                      ^               v                       nwf< w^
+    v                                            _^#-('g**937*9f_,#! #:<"the absolute value of the count"a_,#! #:<" and pops "<           "more than "<<
+                                                                                                                              ^"0 times or less than "n    <
+
+[  a<   v"d for each fingerprint tested for, whether or not the interpreter supports it."a"If the interpreter loads the fingerprint, subsequent lines will be GOOD or BAD depending"
+[a".yltnelis liaf lliw ti ,krow ton seod ) fI .detset gnieb retfa dedaolnu eb lliw stnirpregniF"a".noitacificeps s'tnirpregnif eht ot gnidrocca sevaheb reterpretni eht rehtehw no "
+v;      >$"ettime eb lliw )hcus sa dekram ton hguoht ,FEDNU ti redisnoc( enil A"a".stnirpregnif ot no gnivoM"a".detset yletelpmoc neeb sah eroc 89-egnufeB ehT"a>:#,_#;$<
+
+
+
+
+  ONLY FINGERPRINTS BELOW (and q, which obviously has to come last)
+
+
+
+
+                                                                                  get fingerprint from storage and see how many chars it is (between 1 and 4)
+                                                 v, <                                  >$v      >$v      >$v         >     ".dedaol ton">:#,_$a, 0b53**- \  3ef* - + x
+ >0" tnirpregnif gnitseT">:#,_00p410p310p210p110p>:;^p1p00:+1g00:;# _ " ...",,,, 41g:!#^_>31g:!#^_>21g:!#^_>11g 00g #^(22p33pv>".dedaol">:#,_$a, 0655**- \   ef*   - x
+     x -10*bb _v# !- _ #;\884***+1#;<x0-+6a0!:g14 _ #;\884***+1#;<x0-+6a0!:g13 _ #;\884***+1#;<x0-+6a0!:g12 g11 _v#!-1g22g33 <
+  stack is [y, fingerprint]   zero out storage      print fingerprint and store it       v"BAD: ( did not push 1"0<
+n              >$0"tnirpregnif tcerroc hsup ton did ( :DAB"                              >a,>:#,_a,@                  try loading fingerprint,
+> e2aa**+v     >#vA;>29*2aa**g:'Z-!#v_1+29*2aa**pv;29*774**g" :DAB",,,,,,"tcelfer ton did "v                          if succeeded store what ( pushed and go to (15, y)
+ ^"NULL"0<     ^ >  ^               >#          #<$           a"detcelfer Z-A fo lla :DOOG"v                             but first check that ( pushed correctly (that messy line)
+v  )g22g33                                                                       ,a$_,#! #:<                          else go to (0, y+2)
+
+                                                                                   >0a"M retfa detcelfer T :DAB" >#;v
+n                >na"stcelfer G :DAB";   >0a"detcelfer TTM :DAB"a                    #;>:#,_ 08b*- 4x4 -*b80 _,#! #:<;#"BAD: S reflects"a0<   ;<<     "BAD: M reflects"a0<
+>  2ab** v     >#^G0" sa ytiralunarg kcolc sevig G :FEDNU">:#,_$.0a"sdnocesorcim">:#,_$#vT0a"M erofeb dellac nehw detcelfer evah dluohs T :DAB"^$
+ ^"HRTI"0<                           v nyk*ff.$_,#! #:<"UNDEF: T after M pushed "0T^#  ;>  a"M erofeb dellac nehw detcelfer T :DOOG">:#,_#^S0" dehsup S :FEDNU">:#,_$.a,#^M#;<
+v                                    >#vT 0" dehsup ,nyk*ff retfa ,T dnoces a dna">:#,_$.a,#vE #vT0a"tcelfer t'nseod TE :DAB"                   ^
+v )g22g33,a <                         ;>n^;                  $_,#! #:<"GOOD: ET reflected"a0># #<0a"stcelfer E :DAB"                            ^
+                                                                 v
+                                                               H >0a"tsaehtron seog v< >H retfa ^ :DAB"v             vv  $_,#! #:<H"GOOD: |_ seem to work in hovermode"av
+n                                                            >0a"pu thgiarts seog v< >H retfa ^ :DAB"  v            _0a"thgir seog _0H :DAB"      v"BAD: H1_ goes left"a0_  >"domh"v
+> 72ab**+vvv;>#v#vH   >v   v<     #; #<                     vHH             v   "BAD: H1| goes straight up"a0      <0 ' " v>#                 #<v#                       <  ev"itc"<
+ ^"MODE"0<>      >0a"stcelfer H :DAB" ^              >:#,_$vH^a"edomrevoh ni krow ot mees v^<> :DOOG" H >:#,_ H |  H< :  ^;^"BAD: S reflects"a0<>:#,_$v;               1^   '>"ws "v
+v  v;>$a,    ^ >":edo"v>0a H"nwod seog v>H :DAB"     ^      >0a"nwod seog v< >H :DAB"                  v        H^1|  >"edomhctiwS">:#,_$     #^S  ] ;<           > vv     <av" in"<
+     ^_,#! #:<"Hoverm"< H H>0a"nwod seog <v  >H :DAB"^                      <                          <;       >0a"nwod thgiarts seog |0H :DAB"#;<[773**:4ff*+g'[w5ff*+g']w^>"kro"v
+   >       >         v >;  >0a"tsaehtuos seog v>H :DAB";0a"v ta tsewhtuos seog <v  >H :DAB"#;          ^                  ;v    $_,#! #:<"BAD: ] did not switch"a0<$<      <v"to w"<
+v )g22g33,a;#$_,#! #:<"Hopefully turning H off worked..."a0<          ;>:#,_"EDOM"4   v;                    p+7*ff-1*76S'S<<;#  $_,#! #:<"BAD: [ did not switch"a0 $ <v"em "<;<
+  v"m to work in switchmode"a _v#!-('g\+*6a2_v#!-)'g\*79:+8*ff)(     < ^"GOOD: {} seem to work in switchmode"a _v#!-{'g\-1*cc_v#!-}'g\*cc:+8*ff}{_,#! #:<"GOOD: [] se"<
+  >"ees )( :DOOG">:#,_$S a':  v>0a"hctiws ton did ) :DAB"           #^ >#            #<                        ;>0a"hctiws ton did } :DAB"            #;>:#,_$                ^
+  v$_,#! #:<"Invert/queuemode"<              >0a"hctiws ton did ( :DAB"^                      vQ;            > v      > v     >0a"hctiws ton did { :DAB"^;"BAD: IQ10| goes up"a0I<
+  >#vI1'a0               #v_  I0a"0 sevig edomtrevni ni 0a'1 retfa pop tsrif  eht :DAB"       v>#vQ11'a0     w        |v_a"krow ot sraeppa edomeueuq cisab :DOOG"Q>:#,_$IQ10     |
+    >0a"stcelfer I :DAB" v>#v_I0a"0 sevig edomtrevni ni 0a'1 retfa pop dnoces eht :DAB"       v  >0a"stcelfer Q :DAB"v>0a"0 sevig edomeueuq ni 0a' retfa pop tsrif :DAB" QvQ    <
+v )g22g33      ,a$_,#! #:<; >#v_I0a"krow ot sraeppa edomtrevni cisab :DOOG">:#,_$              ^               Q    ;< >a"0 evig t'nseod edomeueuq ni 0a' retfa pop dnoces :DAB"^
+                              >I0a"0 evig tn'seod edomtrevni ni 0a'1 retfa pop driht eht :DAB"v              >Q>0a"edomeueuq ni w0a'11 hguorht ssap t'ndid PI :DAB"       >:#,_v
+            >            ^                       "Hopefully turning I off worked..."a;#_,#! #:<;p  +*ff1  -2*7a Q';#_,#! #:<         "BAD: IQ10| followed by _ goes right"a0QI;<; <
+  v005432                                                                                                      $_,#! #:<Q"GOOD: queuemode and invertmode seem to work together"aI_^
+            ^;>v >  >0a"...revocer ot deganam yllufepoH"a"{QI005432 retfa kcats elbissopmi :DAB">:#,_n}n#;<
+  >    IQ{QI 4w 3w0a"sedom eht ot gnidrocca"      >" gnihsup dna gnippop yb SSOT ot SSOS morf sllec sevom {QI :FEDNU">:#,_$IQ{QI}}!#v_a"edomtrevni yb detceffanu"v
+                 >0a"edomtrevni ni ylno hguoht sa"^                                                                                 > a"edomtrevni yb detceffa"  v
+  v             ;>> ^;                                                                                                       n_,#! #:<"UNDEF: stack stack seems "<
+               >4w 0a"edomeueuq ni ylno hguoht sa"^
+                >>^                                                        after IQ{ we have either [ [], [newy, newx], [y,x,(3|5)] ] or [ [y,x,(3|5)], [newy, newx], [] ]
+              >4w 0a"edom rehtie ni ton hguoht sa"^                        }: offsetx = newy, offsety = newx (note x and y), then we have [ [], [] ] or [ [y,x,(3|5)], [] ]
+                >^                                                         }: offset is (0, 0) (since x = y = 0), stack is either [ [] ] or [ [ 3|5 ] ]
+
+   This is a tricky case.
+   Possibilities after 2345IQ{ are:
+    	[ [y,x,5], [3,4] ] { moved by popping and pushing*
+    	[ [y,x,5], [4,3] ] { moved by popping and pushing as though only queuemode were active
+    	[ [y,x,3], [4,5] ] { moved by popping and pushing as though neither were active
+    	[ [y,x,3], [5,4] ] { moved by popping and pushing as though only invertmode were active
+   	[ [3,4], [y,x,5] ]
+   	[ [4,3], [y,x,5] ] same as above 4, but with stack stack
+   	[ [4,5], [y,x,3] ] having been affected by invertmode
+   	[ [5,4], [y,x,3] ]
+   Where x and y are the storage offset coordinates and should both be 0 here.
+
+   *
+   Normally:   [b,c,d,2] { -> [b,c,d] -> pop d and c, stack now [ [b], [] ] -> push c and d, stack now [ [b], [c, d] ], next pop gets d
+   Invertmode: [b,c,d,2] { -> [b,c,d] -> pop d and c, stack now [ [b], [] ] -> push c and d, stack now [ [b], [d, c] ], next pop gets c
+   Queuemode:  [2,b,c,d] { -> [b,c,d] -> pop b and c, stack now [ [d], [] ] -> push c and b, stack now [ [d], [c, b] ], next pop gets c
+   Both:       [2,b,c,d] { -> [b,c,d] -> pop b and c, stack now [ [d], [] ] -> push c and b, stack now [ [d], [b, c] ], next pop gets b
+                                                                                                                                       >:#,_@#"BBAD: u didn't work either"a0<
+  >10{0000{Q}Q0} #v_a"edomeueuq yb detceffa smees kcats kcats :FEDNU">:#,_n 00{Q}Q#v_0a"}Q{00 htiw tesffo egarots revocer ot deliaf ,ruoivaheb tnetsisnocni :DAB">:#,_{02-#^uv
+                  > a"edomeueuq yb detceffanu smees kcats kcats :FEDNU">:#,_nv     > #;0a"...)0 ,0( ot tesffo egarots teser ot deganam yllufepoH">:#,_nv               ;}n<|!<
+v )g22g33 ,a                                                                 <                                                                         <                  ^<
+
+   10{0000{:     3 stacks, [ [1, 0, 0], [0, 0, 0, 0, offsetx, offsety], [] ]
+   queuemode}:   offset = (0, 0), 2 stacks, [ [1, 0, 0], [0, 0, offsetx, offsety] ] or [ [0, 0, offsetx, offsety], [] ]
+   normalmode0}: offset = (0, 0) or (offsetx, offsety), 1 stack, [[1]] or [[0, 0]]
+
+   if top is zero, stack stack is affected by queuemode and we have the wrong offset, so:
+
+   00{: [ [0, 0, offsetx, offsety], [] ]
+   Q}:  offset = (0, 0), stack is [ [offsetx, offsety] ] or [ [] ]
+
+   if stack is now [], try u with a negative argument:
+
+   00{:  [ [0, 0, offsetx, offsety], [] ]
+   02-u: [ [0, 0], [offsetx, offsety] ]  <- if the stack top contains zero, quit: our storage offset is unknown and incorrect
+   n}:   [ [] ]
+
+n                                        >v                 >                                                                 v  ;>    >na"2 hsup t'nseod R-40a :DAB"#;<
+> a7+:*  v     >a04-#vM          #v #;02-w a"2- sehsup M-40a :DOOG"       >:#,_$a04-#vR0a"...denifednu eb ot desu ti ,C 99C ot srefer "           '""redniamer regetni egau"v;" pu"<
+ ^"MODU"0<         vn]a"stcelfer M :DAB";>>a"2- hsup t'nseod M-40a :DAB"#;^          >na"stcelfer R :DAB"#v       #<          > >:#,_vvw2$_,#! #:<"Assuming that ""'"C-lang"< >'h's^
+v                  > ^            >"t'nseod R-40-a0 :DAB"   ^          v"BAD: ";#"0a-04-U doesn't push 2"a<;"U reflects"    an< ^;^    <;          "GOOD: 0a-04-R pushes -2"a<^ '-'<
+v )g22g33 ,a                                                   $_,#! #:<                 "GOOD: 0a-04-U pushes 2"a_^#!-2     U^#-40-a<>a"2 sehsup R-40a :DOOG">:#,_a-04-R2+!#^_a'2 ^
+
+n                                                                                                                     >2b*0G-;                      >    v"BAD: G gets like g";# #<v
+> 3aa**5-v     >56#vA     4-#v_a"4 sehsup A65 :DOOG"     >:#,_$56#vE     3-#v_a"3 sehsup E65 :DOOG"     >:#,_$56#vO;  ^;7-#v_a"7 sehsup O65 :DOOG" >   >:#,_2b*g2b*0g2b*0#vG-#;_na^
+ ^"ORTH"0<         >na"stcelfer A :DAB"                  ^        >na"stcelfer E :DAB"                  ^        >na"stcelfer O :DAB"              ^^B' "AD: G reflects"an<        v
+v                            >$a"4 hsup t'nseod A65 :DAB"^                  >$a"3 hsup t'nseod E65 :DAB"^                  >$a"7 hsup t'nseod O65 :DAB"^>>:#,_v#"GGOOD: G works"a[_]
+              v                                                            "BAD: S reflects"an<                v                    "BAD: P reflects"an<^"BAD:   G doesn't work"a] <
+   v  $_,#! #:<"Cannot test S reliably. If this line begins with ""'"GOOD: ""'", it worked."aS^#"GOOD: "_,#! #:<   ;#"GOOD: P works"a_v#!-cgba_v#-cgabP^# abc$<     ;<
+   >f#vX>>>>v<< v>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>v^"BAD: P doesn't work"a<        >a"p ekil stup P :DAB"^
+      >na"stcelfer X :DAB"                    >:#,_v#:             ;>:#,_$;            "BAD: X went too far"a]>a"krow ot smees Y :DOOG"#;>:#,_3]0a"stcelfer V :DAB"                v
+            >$  a"tegrat fo trohs tnew X :DAB"^    >;               ^"BAD: Y reflects"a;#         n 13aa**+   Y>a"krow t'nseod Y :DAB"   ^vvvvv vv<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                >\$"krow ot smees X :DOOG"    ^                                       >;                      >^<                        vvvvvv vv<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<;v
+         x90                      "BAD: W reflects"a0[3_,#! #:<"BAD: V doesn't work"a<^  "BAD: V changes both deltas in wrong direction"a<vvvvv vv<<<<<<<<<>                       v
+  v"work"a<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<#vv<<<<<<<<<^"BAD: V changes both "<
+  >" t'n"v^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<#<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< ^                 "BAD: V changes dy in wrong direction"a<vv>a"noitcerid gnorw ni y ,satled"^
+  v"es"<v     "BAD: W changes dy in wrong direction"a<^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<vv#vv<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+  >"od"] <^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<#^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<vv^vv<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+  v"W "<  ^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ ^"BAD: V changes dx in wrong direction and zeroes dy"a<vvVvv>a"yd seorez V :DAB"             v
+  >" :"vv;#"BAD: W changes dx in wrong direction"a<^^W^^>a"xd segnahc W :DAB"#;<^^^^^ ^              "BAD: V changes dx in wrong direction"a<<<<<<>a"yltcerroc xd segnahc V :DOOG" v
+  v"AD"<>v^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^^^^^^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+  >'B    v^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^^^^^ ^                                    "BAD: V changes dy"a<^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+         >:#,_v#:     "GOOD: W changes dy correctly"a<^<<<<<<<<<<<<<<<<<<<<<<<<<^^^^^^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<x-90-+*aa60<
+v <           >                         #vZv a"spmar Z0 :DOOG"      >:#,_1Zv a"spmar Z1 :DAB"        v
+n ^)g22g33,a;#_,#! #:<"BAD: Z reflects"an< >na"pmar t'nseod Z0 :DAB"^      >na"pmar t'nseod Z1 :DOOG">:#,_#;<
+> 8a*1-4*v     >#vS0"si lreP taht smialc S :FEDNU">:#,_$:#v_    $ ' , >a"dedaol ydaerla">:#,_$:#v_                                           $>10"1-5"#vE                     v
+ ^"PERL"0<       >0a"stcelfer S :DAB"               ;v << :>" t'n",,,,^;                ^     v;>0" dehsup S :DAB">:#,_$.a"1 fo daetsni">:#,_$^        >0a"stcelfer E :DAB"#;<
+v    > ]na"detanimret-orez neeb evah t'ndluohs t"v>;#<$ w1<^0;# <v"erl, or then it should be";>:#,_;" 52, the ASCII value of 4."a0,a.$_,#! #:<"UNDEF: 0""'"5-1""'" E pushed "0<;v
+                                       v "BAD: i"<     ^<        >"P dnuof gnivah ton rof edoc rorre )deifignirts( eht eb dluoc ti os ,dellatsni eb ton thgim lreP">:#,_$#v_v   $
+  v_,#! #:<"Again, it could be an error code or 4."a0,a.$_,#! #:<"UNDEF: 0""'"5-1""'" I pushed "0Iv#"5-1"01n;#_,#! #:<"BAD: the string should have been zero-terminated"an<;<   <
+  >$#^_[;                              >:#,_#;nv                                                  >0a"stcelfer I :DAB"#;<
+v  )g22g33 ,a                                  <
+n                                                                                                      >v
+>  994** v     >12#vR34#vR56#vR0" [ sralacs eht dehsup R65R43R21 :FEDNU">:#,_0p\:.\:.00g.a'],,:01p\:01gw    ;>v>#;   >0a"tnereffid eb dluohs eerht lla :DAB">:#,_$v>>$>0a"rotcev t"v
+ ^"REFC"0<         >    >    >0a"stcelfer R :DAB"                                                     ;>>\00gw ^   > :>#vD                                 ;^;     2w1wvv"ong firs"<
+v  )g22g33 ,a                                                           <                                   ;>>:00gw ^: >0a"stcelfer D :DAB"                ^;    <#>$v#>"rw denru"v
+                v"BAD: D returned wrong third vector"a0<<$<           v"BAD: D returned wrong second vector"a0<<$< >  ^              v                          B';^  <;"AD: D ret"<
+      vD$_,#! #:<     "GOOD: D returned third vector"a0 w5w6Dg0_,#! #:< #   "GOOD: D returned second vector"a0 w3w4    D^#g10$_,#! #:<"GOOD: D returned first vector"a0<
+        >$>v                                           ^<$<                                                   ^<$<
+      >2w1w 0a"emit dnoces eht rotcev tsrif denruter D :DOOG"     >:#,_n^
+        >$>>0a"emit dnoces eht rotcev tsrif gnorw denruter D :DAB"^
+n                                                                                                                                      v <
+> 973a*+*v     >100p>#vI                               :00g-#v_0" sehsup "da+973a*+*g" :DOOG">:#,_$.                    >a,da+973a*+*g:'Lw$  #L aa*'Cv
+ ^"ROMA"0<            >0astcelfer "da+973a*+*g" :DAB">:#,_n; >0" sehsup "da+973a*+*g" :DAB">:#,_$." fo daetsni">:#,_g.#;^  vV'    5 I#<D    >#M n      v                  >":DAB" v
+v                   ^                                                                                      p00p*+*a379+ad;#<M'**aaa D#w< >'Vw#V a'X#;<                    ^" I ref"<
+v  )g22g33 ,a                                                                                                             ;^D'**5aa C#<     >#X 5a*'L^;<                  >n"stcel"^
+n                                                                          v                        <
+>  2dd** v     >32#vA 3-#v_3-#v_   3-!#v_"skrow A :DOOG">:#,_a,$     f12#vB>0" [ sa kcats sevael B21 :FEDNU">:#,_$>:f-#v_$a")mottob ot pot morf( ]">:#,_n3#vDDD#v_"orez si DDD3 :D"v
+ ^"TOYS"0<         >n"stcelfer A :DAB"                  ^"BBAD: 32A did"<>0a"stcelfer B :DAB">:#,_$ ^             ^   .<             >;#<"BAD: D reflects"n<   ;>:#,_v_,#! #:<"GOO"<
+v                        >$   >        >n"seerht owt sa kcats evael t'n"^      v                       "BAD: E reflects" an<            ^"BAD: 3DDD isn't zero"n<    >na,#^IIDD#v_ v
+  v1*880Nv#-1*288$,a_,#! #:<"GOOD: 112345P is 120"n_v#!- *ac Pv#543211 n_,#! #:<  "GOOD: 123456789abcdefE is 120"a_v#!-*acE^#fedcba987654321,a$_,#! #:<;#"BAD: IIDD isn't zero"n<;<
+  >--v   >n"stcelfer N"    ]           ;#"BAD: P re" "flects"n< ;"BAD: " <     ^"BAD: 123456789abcdefE isn't 120"an<                                  ^ "GOOD: IIDD is    zero"n   <
+  >#vwn"721- t'nsi N-1*288">" :DAB"v                >n"021 t'nsi P543211"^                                           v   "BAD: C reflects"               <
+  ] <>"721- si N-1*288 :DOOG"      >:#,_a,$64#vHc8*-              #v_a"69 si H46 :DOOG"    >:#,_$b7*03-#vH                                     9-#v_"9 si H-30*7b :DOOG"  >:#,_a,$
+  >0f-03-#vH :  2+v                           >na"stcelfer H :DAB";>na"69 t'nsi H46 :DAB"#;^            >n"stcelfer tfihs evitagen a htiw H :DAB";>n"9 t'nsi H-30*7b :DAB"^;# <
+          >n"stcelfer stnemugra evitagen htiw H :DAB"                              >:#,_$a,ac* 3aa**4a*6++ 0872**-6x !  >dc* 3aa**4a*6++ 0ae*-6x            >16a*+184b**+33d5*84b**v
+                  >$ #v_$"tfihs thgir dengis a did H gninaem ,2- si H-30-f0 :FEDNU"^                      <                  <   x    *2b-*9e0*+*2a9c*adC^#                        <
+                      >65*3a*1-*4a*3+*aa*d+*884**1-* -#v_"tfihs thgir dengisnu na did H gninaem ,019078635 si H-30-f0 :FEDNU"^ v;v_aa7+*e55**2- 0fa*- 93*x   v" area"    n_v;"BAD:"<
+                                                       >n"019078635 ron 2- rehtien si H-30-f0 :DAB"       ^          >#v_,#! #:<;>n "yltcerroc ypoc t'nseod C :DAB"#;<   > #; ' #; [
+                                                                                              xe -*d70 -4**e55-3*a9<v< >$         1v                         >"lanigiro seifidom C"^
+   the resetter of the starting area                  the area used for copying and moving                        v,awK'g**777-3*ad_,#! #:<"GOOD: C works as a basic copy" <
+   >56a*:5\84b**p1+:5\84b**p1+:5\84b**pv                    555                                                    #>>'K:ad*3-777**p:8a9+*55e**3-p:cd*55e**1-p:ed*4-55e**p237a*+*39v
+   v                       -2          <                    5134                                                  $^ $                                                         p**d<
+   >184b**+p184b**+:1\16a*+\p:3\26a*+\pv                    5332                                              >   >;reset both;af* 66a*1-* 0cc*-02-x  >af*517a*+*0bf*- ax
+   v                      :+1  p\*97\4:<                     222                              xe -*d70 +**b844*8e;check both;Mv#**b48*5d33+**b481+*a61< do the move
+   >5\6a*\p:3\16a*+\p:3\26a*+\p:2\97*\pv                                                                      #v_9f* 448b**+ 0ad*-38*xv_a"evom cisab a sa skrow "555**348b**+g" :D"v
+   v                      :+1          <                                                                      ^         p+**b843\V'_v#  -V'g+**b843:**555_,#! #:<             "GOO"<
+   >2\16a*+\p:2\26a*+\p2\97*\p895**-\76*-\v            We'll be moving the 3x3 area starting at the 1       v x-60-+7*aa0-2**598*c9$< >a"secaps sa aera lanigiro evael t'nseod "555v
+                                                       one cell to the northwest to test overlapping        $                 >na"stcelfer "555**348b**+g" :DAB"^ "BAD: "g+**b843**<
+                                          x            moves and copies.  +-------------------+             1  >a"yltcerroc evom t'nseod "555**348b**+g" :DAB"  ^
+                                                       Expected results:  | C    K    M    V  |             6                                v<         <         <         <
+                                                                          |134  224  134  224 /             [a*+184b**+336a*84b**C84b**:6a*\g1w:16a*+\g3w:26a*+\g4w1+:6a*\g3w:16a*+v
+   the resetter of the area moved/copied to for the non-overlapping tests |3324 2224 332  2  /   >         >           >    v  <         <   <<    <    <    <    <  <      <  <
+   >84b**>:0\d5*\p:0\6b*\p:0\76a*+\p1+:384b**+-v                          |2222 2222 222  2 /v*79w2g\+*a62:w2g\+*a61:+1w2g\*97:w2g\+*a62:w2g\+*a61:w2g\*a6:+1w4g\*97:w2g\+*a62:w3g\<
+         ^                                     _$537a*+*-\97*-\x          | 222  222       / \  >>         >>          >    v  <         <         <         <       <         <
+                                                                          +---------------/  >g2wa"skrow C htiw ypoc gnippa" "lrevo :DOOG"v
+   the checker of the area moved/copied to for the non-overlapping tests                        >                           v             >:#,_39a*+ 2aa9+** 0ce*- 0f-     x
+                >       >         >         >       >         >         >       >       $>#v                 v#        <    n                                            >v
+   >84b**:d5*\g1w:6b*\g3w:76a*+\g4w1+:d5*\g3w:6b*\g3w:76a*+\g2w1+:d5*\g2w:6b*\g2w76a*+\g2w;>914a*+*-\ c9*-\ x ;00p0\00g^    a             ^"BAD: overlapp"<              *-
+                >       >         >         >       >         >         >       >       $>;^      g00\1p00;# <              >"krow t'ndid C htiw ypoc gni"^              *\
+                                                                                                                                                                         f7
+   the checker of the original area, for the non-overlapping copies                                                                                                      55
+   checks the whole 4x4 area just in case                                                                                                                                55
+                >         >         >        >         >         >         >       >         >         >         >       >          >         >         >     $>0>0p1\00g^*
+   >84b**:6a*\g5w:16a*+\g5w:26a*+\g5w:97*\g' w1+:6a*\g5w:16a*+\g1w:26a*+\g3w:97*\g4w1+:6a*\g5w:16a*+\g3w:26a*+\g3w:97*\g2w1+:6a*\g' w:16a*+\g2w:26a*+\g2w97*\g2w00p0\00g ^>*-\ x
+                >         >         >        >         >         >         >       >         >         >         >       >          >         >         >     $> ^
+   checks the original 3x3 area is spaces, for the non-overlapping moves
+                                                                                             overlap testing continued below...
+                      >          >       >>$00p1\00g            vv     <                             v               <           <         <         <         <         <
+   >1b48**+>:16a*+\g' w:26a*+\g' w:97*\g' w1+:4b48**+-v         > ad*3-^                     >16a*+184b**+336a*84b**#^K84b**:6a*\g2w:16a*+\g2w:26a*+\g4w1+:6a*\g2w:16a*+\g2w:26a*+\v
+           ^;         >          >       ^<          ;_$00p0\00g^>3*-\f5*-\x                        v<      <         <        <  <      <<        <<        <<        <<       <
+                                                                                                   v w2g\*79w2g\+*a62:w2g\+*a61:+1w2g\*97:w2g\+*a62:w2g\+*a61:w2g\*a6:+1w4g\*97:w2g<
+   >        >         >         >         >         >         >v                                   #>v      <         <           <       <         <         <         <       <
+  vw 'g\*97:w2g\+*a62:w3g\+*a61:w3g\*a6:+1w4g\+*a62:w3g\+*a61:w1g\*a6:**b48Mv#**b48*a633+**b481+*a61<>na"krow t'ndid K htiw ypoc gnippalrevo :DAB"v
+   >        >         >         >        >>         > >       >> >      v<  <                      >a"skrow K htiw ypoc gnippalrevo :DOOG"        >:#,_aa*886** 0ce*- 03b*-x
+  >1+:6a*\g2w:16a*+\g2w:26a*+\g2w:97*\g' w1+:16a*+\g' w:26a*+\g' w97*\g' w a"skrow M htiw evom gnippalrevo :DOOG"    >:#,_                             2fd2**1-0ce*-043a*+-x
+            >         >         >        >            >          >      >na"krow t'ndid M htiw evom gnippalrevo :DAB"^
+                          >             >         >         >         >          >          >        >         >          >          >        >            >          >       >v
+  >16a*+184b**+336a*84b**#^V84b**:6a*\g2w:16a*+\g2w:26a*+\g4w1+:6a*\g2w:16a*+\g' w:26a*+\g' w:97*\g' w1+:6a*\g2w:16a*+\g' w:26a*+\g' w:97*\g' w1+:16a*+\g' w:26a*+\g' w97*\g' w v
+                                        >         >         >         >          >          >        >         >          >          >        >            >          >       v
+                                                          >aa*v                                                                  v"BAD: overlapping move with V didn't work"an<<
+  v                                         ;>v       >v  ^d< +>v;                                                        _,#! #:<        "GOOD: overlapping move with V works"a<
+  >c3'p'o2#vS              baa*+00p2 >:00g\gcw1+:daa*+w 00g:^ >w $$a"skrow S :DOOG">:#,_$fedcba 2344#vFv    >    >v   >v                                    >    >    >v
+           >na"stcelfer S :DAB">:#,_;^                <<2$p00+1<<                 ;^        v"ects"an< >44gaw54gbw64gcwa"i erofeb j spop F :FEDNU">:#,_$45gdw55gew65gfw     v
+  v"e row"< <                                >>na"krow t'nseod S :DAB"             ^        > "lfer F :DAB"v>    >>#;na  "krow t'nseod F :DAB">:#,_v      ;<<   <<   <<<  << ;<
+  >"no h"va a      v      <                   >              v                                             <          >>"i retfa j spop F :FEDNU">:#,_$45gcw55gdw46gew56gfw v ^
+  v      <n n      ;      ^"BAD: 1J reflects"an <         v   _,#! #:<                 v< < < < < <        v        "BAD: can't test G without F"a[[       >    >    >    >^
+           vwJ'g-2**aa4-3*a5_v#-J'g-1**aa4-3*a5J^#1  $_,#! #:<        "GOOD: G works"a  wfwewdwcwbwa                                       Gv#4432]]_,#! #:<"GOOD: F works"a<
+        v;^ <;               <         > #;1-#^        v ;<  ^;#"BAD: G doesn't work"an<< < < < < <       ;<             "BAD: G reflects"an<
+           >na       "lla ta flesti evom        t'nseod J1 :DAB"v                                            >>na"noitautis evloser t'ndid J-10 :DAB"v              @_,#! #:<"BAD:"<
+        >    a"wor eno htuos flesti sevom J1    :DOOG";>        #   ;^;v              >    >na"detcelfer J-10 :DAB"                      >           >:#,_a"ecapS-egnuF detpurroc "^
+  >"tuos flesti evom t'nseod J1 :DAB">:#,_      a"...kcab ti sevom J-10 yllufepoH">:#,_01-#^J5a*3-4aa**2-g 'Jw# a".lamron ot kcab eb dluohs ecapS-egnuF"v
+                   ;  >:#,_v#:;#                                <                      > v                   >^                          #             ;<
+  v                ># ^#   <                                           >5a*3-4aa**2-g'Jwa "wor eno htron flesti sevom J-10 :DOOG">:#,_$
+       >na"stcelfer O-10 :DAB"                                      >  v               > >na"wor eno htron flesti evom t'nseod J-10 :DAB"^        > >na"tsae eht ot nmuloc eno w"v
+  >01-#^O#vna"tsew eht ot nmuloc eno wor sti evom t'nseod O-10 :DAB"^v<>:#,_$1#vO8a*64aa**+g'O-#v_a"tsae eht ot nmuloc eno wor sti sevom O1 :DOOG" v  v"ed only a part of its r"<<<
+ #       > na"tsew eht ot nmuloc eno wor sti sevom O-10 :DOOG"        ^       v                <<<                                                ^ ^>>>"vom O1 :DAB"v
+          >                                                         >>>na"tsew eht ot nmuloc eno wor sti fo trap a ylno devom O-10 :DAB"           v                 <
+      v                                          <                             >na"stcelfer O1 :DAB"                                               v
+  v   >]a"llec gniwollof revo spiks L :DAB">:#,_$^                            >na"tsae eht ot nmuloc eno wor sti evom t'nseod O1 :DAB"             >:#,_$
+  >#vL#[:'    -#v_$a"ecaps dnah-tfel steg L :DOOG"     >:#,_$v
+    >na"stcelfer L :DAB"                              >    >;LL;                                              >:#,_v
+                           >na"dnah-thgir steg L :DAB"^         >v                                                     v                            $_,#! #:<                  >v
+                >'--:#v_na"ecaps tsap sehcaer L :DAB"  ^     >'Lw a"llec lamron dnah-tfel steg L :DOOG"       ^    $  F>]a"llec gniwollof revo spiks R :DAB"^              >R'Rw v
+                      >'A-#^_na"lla ta krow t'nseod L :DAB"^    >>na"llec lamron dnah-tfel teg t'nseod L :DAB"^    >#vR#[:'  -#v_$a"ecaps dnah-thgir steg R :DOOG"   >:#,_$^R  >v
+                                               v                                                                     > na"stcelfer R :DAB"                          >     >
+  a"llec lamron dnah-thgir steg R :DOOG"       >:#,_v                        >na"krow t'nseod Q :DAB"v                D        $          >na"dnah-tfel steg R :DAB"^            >
+  na"llec lamron dnah-thgir teg t'nseod R :DAB"^    >a'Q#vQ#]9+:b2**\3*\g'Q-#^_na"skrow Q :DOOG"     >:#,_11x                  >'D-:#v_na"ecaps tsap sehcaer R :DAB" ^          >
+                                                         > na"stcelfer Q :DAB"                       ^       # >a"pu seog T00 :DAB"v >2 -#^_na"lla ta krow t'nseod R :DAB"^
+                                                        > #;[n"llec gniwollof revo spiks Q :DAB">:#,_#;<      >na"stcelfer T :DAB" > >      ;>na"pu seog T10 :DAB"     v;v
+  211x                                 v20 <                                                                  vTa"thgir seog T00 :DOOG">:#,_1Tna"hguorht seog T10 :DAB"> >:#,_
+      # >a"pu seog T20 :DAB"          v>000v     >a"stcelfer U :DAB"  v>      ;BAD;vv              p*+*a479<  > a"tfel seog T00 :DAB"# ^   < >a"nwod seog T10 :DOOG"   ^
+       >na"stcelfer T20 :FEDNU"       v    #  v12n<<                >'vw    ;was v;  00g:3-!#v_1+00p'v48a*+^     >na"hguorht seog T00 :DAB"^
+       vTa"thgir seog T20 :DAB"       >:#,_^>1-11x^                    >      ;BAD;vv              p**+a755<   >a"nwod seog T00 :DAB" ^
+       > a"tfel seog T20 :DAB"        ^v11p<0 1  vU^>5a*55a7+**g:'^\w       ;was ^;  00g:3-!#v_1+00p'v48a*+^                        v                                    <
+  v       >na"hguorht seog T20 :FEDNU"^>p0p0^    nvv                : # >     ;BAD;>  na"v^<> fo eno neeb evah dluohs ,'"5a*55a7+**g"' otni detumsnart U :DAB"v         >
+  ;     >a"nwod seog T20 :DAB"        ^  v_v#!g11 n<                >'>\w$  ;was >;  00g:3-!#v_1+00p'v48a*+716a*+*pv           >>na "...gnivael ,snoitareti DAB 02 :DAB" ^
+   v"'t execute itself after transmuting"< #^   n11  p**+7a55*a5U'        ;>  "BAD"^>#;<                         < <    p20+1 <]w*2a            :g20  $_,#! #:<
+  v"U executes itself after transmuting"_v#!  <g1<<                     >'<w;was <;  00g:3-!#v_1+00p'^48a*+3bd**p^            ^ <   >v>;#"BAD: 000p000W reflects"ap$$$<;^
+  >""        >" :FEDNU">:#,_a,$111p      > >  >     ^                      >  ;BAD;^         >na"v^<> fo lla otni detumsnart U :DOOG">:#,_1y2%!#v_p'@faf*+689**000#vt#^Wpa"hguorht"v
+  v>"nseod U"^                                                        >                                                              ^                           v<<   <           >
+  " stiaw W000p000 :DABvv"deb*+25ef*+*p83a*+689**p@     v                                  "Cannot test W without Concurrent Funge-98 support."a<                >>>na"yletinifedni"
+  "                               v$$$<                         >$$$pna"stcelfer W001p000 :DAB"                v                           >$$$pa"stcelfer W00-10p000 :DOOG"    v
+  >" seog W000p000 :DOOG"        ;>$#;>:#,_'@97*f92a*+*  100#vt#^Wpa"hguorht seog W001p000 :DAB"    >;#$$$$$< ;>:#,_'@6bc*+f92a*+*01-00#vt#^Wpa"hguorht seog W00-10p000 :DAB"   v
+  ;ea*27ef*+*pdf92a*+*p@                               > #< #<na#<"yletinifedni stiaw W001p000 :DOOG^v"d5*27ef*+*pc9*f92a*+*p@    > #< #<na#<"yletinifedni stiaw W00-10p000 :DABvv";
+  >         ;>$$$$v;                  [                 <                                                                                                                       <
+      v_,#! #:<   <                   <               >a"stcelfer Y :DAB"                     v                                >"stcelfer"     v
+      >#vXva"skrow X :DOOG"                     >:#,_#^Y>a"skrow Y :DOOG"                     >:#,_" egnufeB ni Z :FEDNU">:#,_#^Z"gnihtoh seod">:#,_a,v
+        > a"stcelfer X :DAB"                    ^       ^
+          >"noitucexe retfa evom t'nseod X :DAB"^      >a"noitucexe retfa evom t'nseod Y :DAB"^
+v  )g22g33 ,a                                                                                                                                         <
+n                              v ,a_,#! #:<"Cannot test TURT's drawing correctness in any way, both due to technical reasons and the fact that the precise results are undefined."a<
+> 385b**+v     >".rehto hcae ot tnecajda yllanogaid stod owt niatnoc dluohs egami gnitluser ehT"a".yltcerroc hsup/pop dna tcelfer t'nod snoitcurtsni eht taht ylno eb lliw dekcehC"^
+ ^"TURT"0<     v;LRHFBPCN;     <                     >na"pop ton seod "00g98++485b**+g" :DAB"   v                      >na"pop ton seod D :DAB"    v              >     >na       v
+v              >p>00g98++485b**+g 86*585b**+p1#v 1-!#^_a"yltcerroc spop "00g98++485b**+g" :DOOG">:#,_00g:7-#v_$1#vD1-!#^_Da"yltcerroc spop D :DOOG">:#,_ 11#vT1-!#^_1-!#^_a"yltc"v
+                 ^;                            >na"stcelfer "00g98++485b**+g" :DAB"             ^     ;p00+1<    >na"stcelfer D :DAB"              ^        >na"stcelfer T :DAB"v
+   v"hed (1, 1)"an_v#!-1_v#!-1Qv#_,#! #:<                    "GOOD: A pushed 1"an_v#!-1:Av#_,#! #:<                    "GOOD: E pushed 1"an_v#!-1:Ev#_,#! #:<                   <
+  v" push (1, 1)"an<     <              ^"instead of 1"a.$_,#! #:<"BAD: A pushed "<               ^"instead of 1"a.$_,#! #:<"BAD: E pushed "<               ^"GOOD: T pops corre"<
+   s      v "BAD: Q reflects"an<        ^                             "BAD: A reflects"an<        ^                             "BAD: E reflects"an<        ^"BAD: T does not pop"<
+  >"t'ndid Q :DAB">:#,_#vU0" [ ,mottob ot pot morf ,dehsup U :FEDNU">:#,_$....a'],,>1#vI                1-#v_na")1 dehsup dna detaehc ro( pop ro hsup t'ndid I :DOOG">:#,_v
+   >"up Q  :DOOG" ^     >na"stcelfer U :DAB"  >:#,_                                ^  >na"stcelfer I :DAB";>na"deppop ro dehsup I :DAB"                            #;^
+          >       ^
+v  )g22g33,a                                                                                                                                                              <
+n
+> 57d**0v >0p #v" sa 04 stuptuo B :FEDNU">:#,_g#vBa,>" sa 04 stuptuo H :FEDNU">:#,_g#vHa,>" sa 04 stuptuo O :FEDNU">:#,_g#vOa,>p" esab ni 04 stuptuo N :FEDNU">:#,_g." sa",,,4a*00gv
+ ^"BASE"< ^0*a4<v"never mind, BAD: B reflects"an<    v"never mind, BAD: H reflects"an<    v"never mind, BAD: O reflects"an<   ^  00+1_v#-*4a:gn,a      ;>:#,_#;<                Nv#<
+v  )g22g33,a   ;>:#,_                               ^>:#,_                               ^>:#,_                               ^      ;<                 ^"nothing: it reflected"n<
+n
+> 3998+**v     v        > >>na"A ot gnidrocca )i6+4 ( t'nsi )i4+3( + )i2+1 ( :DAB"v            > >>na"S ot gnidrocca )i3+1 ( t'nsi )i +2( - )i4+3 ( :DAB"v
+ ^"CPLI"0<     >1234#vA6w4w  a"A ot gnidrocca )i6+4 ( si )i4+3( + )i2+1 ( :DOOG"  >:#,_3421#vS3w1w  a"S ot gnidrocca )i3+1 ( si )i +2( - )i4+3 ( :DOOG"  >:#,_v
+v                       > >^                                                                   > >^
+                     >na"stcelfer A :DAB"                                         ^         >na"stcelfer S :DAB"                                         ^
+         v                                           "BAD: D reflects"an<                v                                           "BAD: M reflects"an<
+         >:#,_                     34#vVv                       v< <                                                                            v<   <
+         ^  "GOOD: (88-4i) / (9+4i) is ( 8-4i) according to D"a  w8w-40D^#49-40*b8_,#! #:<  "GOOD: ( 1+2i) * (3+4i) is (10-5i) according to M"a  w-50waM^#4321<
+         ^"BAD: (88-4i) / (9+4i) isn't ( 8-4i) according to D"an<< <                     ^"BAD: ( 1+2i) * (3+4i) isn't (10-5i) according to M"an<<   <
+                >;#"BAD: V reflects"an<v5<;                v                                 >n"detcelfer O :DAB ,gnihton">:#,_vv_,#! #:<"nothing, BAD: O reflected"n<
+                ^ "BAD: 34V isn't 5"a $<>wa"5 si V43 :DOOG">:#,_" stuptuo Oba :FEDNU">:#,_ab#^O                                >a, " stuptuo Ob-a0 :FEDNU">:#,_0a-b #^Ov
+v  )g22g33,,aa;>:#,_#;<                    Ov#-b0-a0_,#! #:<"UNDEF: 0a-0b-O outputs ",a<Ov#-b0a_,#! #:<"UNDEF: a0b-O outputs " ,<                                     a<
+               ^"nothing, BAD: O reflected"n<                                          ^;>n"detcelfer O :DAB ,gnihton">:#,_#;<
+n                            v             n<
+> 86a*1-*v     >"fridocym"#vC>a"C htiw yrotcerid 'fridocym' deretne :DOOG">:#,_".." #vCa"'..' ot C a htiw 'fridocym' tfel :DOOG">:#,_"fridocym"#vR"fridocym"     #vCv
+ ^"DIRF"0<               v;>na"tsixe t'nseod yrotcerid 'fridocym' eht ro krow t'nseod C rehtie :FEDNU">:#,_"fridocym"#vMa"M htiw 'fridocym' detaerc :DOOG">:#,_#;<
+v                        >"fridocym"#vC     ^                                        >na"'fridocym' morf '..' ot C t'ndluoc"v                               <
+                                                                 >;#"couldn't create 'mycodirf' with M, nor C to it"an<;    >" :DAB">:#,_       #                    v
+                                     >na"M lufsseccus retfa 'fridocym' ot C t'ndluoc"#   >          ;>                     ;^;na"R retfa 'fridocym' M t'nac"^
+                 >;           >                                                      ^   ^"couldn't R 'mycodirf' after a C into and out of it"an<;#<
+               vR^#"mycodirf"C^#".."C^#        "mycodirf"_,#! #:<"GOOD: created 'mycodirf' with M"a M^#"mycodirf"_,#! #:<"GOOD: can't C into 'mycodirf' after R"an<
+                                                  v                                 C^".."           _,#! #:<"BAD: can C into 'mycodirf' after successful R of it"an<
+               >a".R htiw 'fridocym' devomeR">:#,_v                                                                                                                  <
+v  )g22g33,a                                      <
+n
+> 37f8+**v     >"HTAP"#vG" dehsup dna dekrow G"'""HTAP"'"" :FEDNU"                  >:#,_a,#vN    #vVna"dekrow VN :DAB">:#,_N1-#vV" dehsup dna dekrow V-1N :DOOG">:#,_a,v
+ ^"EVAR"0<             >n"krow t'nseod G ro htap on :detcelfer G"'""HTAP"'"" :FEDNU"^       >na"stcelfer N :DAB";              v     "BAD: P reflects"an<              ;v
+v  v"'"foo""'"G didn't get ""'"bar""'an <<<  <  <  vGv#"foo"_,#! #:<"GOOD: put 'foo=bar' with P"an;>na"deliaf VN :DOOG"^        >n"deliaf V-1N :DAB";  P^#"foo=";^;"bar"<
+   >" :DAB"           v                 | wr'wa'wb'<
+  v"GOOD: ""'"foo""'"G got ""'"bar""'a  <^<  <  <
+  >                   v  "BAD: ""'"foo""'"G failed"an<
+v  )g22g33,a   _,#! #:<                                                                                                        <
+n                                     v                                ;v0                             <;                                                                          <
+> 1a77**+v     >5a77**00"pmt.pmetocym"#vO0a"tnirpregnif tset t'now suht dna ti etirwrevo t'now ,gnidaer rof 'pmt.pmetocym' denepo O :DAB">:#,_$#vC"C htiw elif desolc :DOOG"       ^
+ ^"FILE"0<  >$        v                >'m-#v_na")nosaer on rof 'm' na dehsup ro( dehcuotnu kcats eht gnivael detcelfer O :DAB"v                >n"C htiw elif esolc t'ndluoc :DAB"^
+v  )g22g33,,aa _,#! #:<              <<   <;>na"O htiw gnidaer rof 'pmt.pmetocym' nepo t'ndluoc :DOOG" #      >:#,_ >;# _,#! #:< ;$ 5a77**10"pmt.pmetocym"#vO0a"O htiw gnitirw r"v
+   v     <  ^"GOOD: C worked"Cv#$_,#! #:<;^;                ;#< v     <;<         "BAD: P reflected"a0<^  "BAD: couldn't open 'mycotemp.tmp' for writing"an<v"d mycotemp.tmp' fo"<
+  >"ocym"^  ^ "BAD: C failed"n["GOOD: closed file with C"anCv#$ <v  G' "OOD: L pushed 11"a0_v#!-bLv#[P^#"foo"a"bar"a"baz"_,#! #:<"GOOD: L pushed 0"a0_v#!Lv#["enepo :DOOG">:#,_$v
+  ^"temp.tmp"05**77a5n_,#! #:<] ;>$  ^;;#                   <>^;<>:#,_^#:"BAD: L reflected"a0     ]$[v    >$$$                 v^"BAD: L "<"reflected"  a0< ^                   <
+   >    #vO0a"edom daer+dneppa ni elif denepoer :DOOG">:#,_ v4^4;^  "BAD: L didn't push 11"a<      >0a"detcelfer S00 :DAB"   #;<   <     ;^;   $<     >0a"0 hsup t'ndid"#;<
+         >n "edom daer+dneppa ni elif nepoer t'ndluoc :DAB"v>$                                  00#^S0a".S00 htiw elif fo gninnigeb ot thguoS"     >:#,_$#vG4- #v_0a"htgnel enil "v
+   >"7 :DAB"                    #^               <        #<4^:                               v "BAD: G didn't read 'foo\n'"a0 <   ^  "BAD: G reflected"a0<<    >0a"htgnel enil "v'
+   ^"R didn't read bar\nbaz"a0<< $< $< $<$< $< $<             ^       \<                      >  :#,_# $  ^       $<           ^<< <  <  < _ #!< $_,#! #:<  "BAD: G pushed wrong"<t
+   v"GOOD: 7R read bar\nbaz"a0 wz'wa'wb'wawr'wa'wb'g\5\g\6:\g\7:\g\8:\g\9:\g\a:\g\b:**77aRv#7$_,#! #:<"GOOD: G read 'foo\n'"a0<| wawo'wo'wf'     $_,#! #:< "GOOD: G pushed correc"<
+   >:#,_$#vCna              v ^< $< $< $<$< $< $<#              ;               >$$;      >0a"detcelfer R7 :DABB"#;^          ^<^< <  <  <      ^     <    "BAD: 20S reflected"a<
+          >                                                     ^      ;                          ^ ;>$\".P htiw zabn\rabn\oof tuP">:#,_$#;<               ^ <                  0
+                            >"C htiw elif desolc :DOOG">:#,_n5a77**40"pmt.pmetocym"#vO0a"edom daer+etacnurt ni elif denepoer :DOOG">:#,_$7#vW0a".W htiw zabn\rab etorW">:#,_$20#^Sv
+                           v"BAD: couldn't reopen file in truncate+read mode"na     <                v[<<< <  <  < ^;#"BAD: 7W reflected"a0<          #^             ;v<; <  v-701<
+                           >                     ^     v< vGv#$_,#! #:<;#    "GOOD: G read 'bar\n'"a0< | wawr'wa'wb'  $_,#! #:<"GOOD: G pushed correct line length"a0  w4G^#<>#vSv
+               v "GOOD: G pushed correct line length"a0 w3< >;         ^"BAD: G didn't read 'bar\n'"a0]<^< <  <  <   v$_,#! #:< "BAD: G pushed wrong   line length"a0 << ;^ ^     <
+                v "BAD: G pushed wrong   line length"a0<<                                                     ^  _ #!<            >:#,_$             ;^"BAD: 107-S reflected"a0<; ^
+                >      >  >  >>>0a"'zab' daer t'ndid G :DAB"                                                           v          ^"Sought to beginning of file with 20S107-S."a0<
+               >:#,_$'bw'aw'zw |                             >0a"detcelfer G :DAB"   >;#  "BAD: 1R reflected"a0< ;     >;>0a"gnihtemos daer R1 :DAB"#;v      <
+                       >  >  >^>0a"'zab' daer G :DOOG">:#,_$#^G#v_#v_>0a"seorez 2 dehsup G :DOOG">:#,_5a77**p1#^R5a77**g#^_0a"gnihton daer R1 :DOOG"  >:#,_v
+                           v"BAD: G didn't push 2 zeroes"a0<       <                                                 v"BAD: couldn't close file with C"an< $
+v  )g22g33 ,a              >#                             ;^_ #!<;;#                                          _,#! #:<       "GOOD: closed file with C"aC^#<;^
+n
+> 3888**+v     >b6#vA2-#v_a"2 si A6b :DOOG" >:#,_93#vOb-#v_a"11 si O39 :DOOG" >:#,_c6#vXa-#v_a"01 si X6c :DOOG" >:#,_v
+ ^"FIXP"0<         >    na"stcelfer A :DAB" ^       >    na"stcelfer O :DAB"  ^       >    na"stcelfer X :DAB"  ^
+v              v;       >a"2 t'nsi A6b :DAB"^            >a"11 t'nsi O39 :DAB"^            >a"01 t'nsi X6c :DAB"^   ;<
+                                      >        v                                                               >        v
+                                             >v                                                                       >v
+               >aaaa57*****:#vC:88844****:00pw$>0a"1918.0 ro 2918.0 si )53(soc syas C :DOOG">:#,_$:#vI:c25d92**+**:00pw$>0a"5375.0 ro 6375.0 si )53(nis syas I :DOOG">:#,_$#vTv
+                             >naaaa57*# ****  0a"stcelfer C :DAB"                           ^       >naaaa57***# **    0a"stcelfer I :DAB"                           ^
+                                    >        0>a"1918.0 ro 2918.0 t'nsi )53(soc syas C :DAB"^                >        0>a"5375.0 ro 6375.0 t'nsi )53(nis syas I :DAB"^
+                                    ^_^#--1g0<                                                               ^_^#--1g0<
+                                                                                                                           v                             "BAD: T reflects"an<
+                                                                                                                           v"BAD: T says tan(35) isn't 0.7002"a<
+                                                                                                                           v "GOOD: T says tan(35) is 0.7002"a_^#!-**+**57b429<
+                                                                                                                           >:#,_                     v
+                                v*aaaa<
+   v"isn't 180"an<              >**- v        v"BAD: B says acos(0) isn't 90"an<                        v"BAD: B says acos(1) isn't 0"an<
+  v"-1) is 180"a_^#!-******aaaaa29Bv#<^_,#! #:<  "GOOD: B says acos(0) is 90"a_^#!-*****aaaaa9Bv#_,#! #:<  "GOOD: B says acos(1) is 0"a_^#!Bv#***aaaa<
+            v"BAD: 01-B reflects"an<          ^                            "BAD: 0B reflects"an<        ^         "BAD: aaaa***B reflects"an<          v *******<
+   "        >             v                             >na"6754.71 t'nsi )3.0(nisa syas J :DAB"v                                                     > d7798888^
+   >")1-(soca syas B :DAB"v            >na"stcelfer J***aaa3 :DAB"                              v              >na"stcelfer J****aaaa2 :FEDNU">:#,_   ^  v"8.2368) isn't 89.9756"an<
+  >"(soca syas B :DOOG"   >:#,_3aaa***#^Jbbf2***7+4c**-#^_a"6754.71 si )3.0(nisa syas J :DOOG"  >:#,_2aaaa****#^J0" sehsup J****aaaa2 :FEDNU">:#,_$.a,^> #        #vUddbbb4*****  -|
+       v"BAD: 01-N isn't 1"an<                                                                                                    v             "BAD: U reflects"an<
+       v  "GOOD: 01-N is 1"a_^#!-1Nv#-10<,,]'a.........$_,#! #:<"UNDEF: called 3D 9 times and got [ "0D3D3D3D3D3D3D3D3Dv#3 _,#! #:<   "GOOD: U says atan" "(2348.2368) is 89.9756"a<
+       v        "BAD: N reflects"an<    ^               _,#! #:<                                   "BAD: 3D reflects"an<          ^"BAD: U says atan(234"<
+
+                   >a"0 t'nsi S0 :DAB"v           >a"1 t'nsi S2 :DAB"v            >a"1- t'nsi S-30 :DAB"v                >a"V-50 t'nsi V5 :DAB"v
+       >:#,_   #vS#^_a"0 si S0 :DOOG" >:#,_2#vS1-#^_a"1 si S2 :DOOG" >:#,_3-#vS1+#^_a"1- si S-30 :DOOG" >:#,_5#vV05-#vV-#^_a"V-50 si V5 :DOOG" >:#,_88888888*******#vP:95aa74a*+***v
+                >na"stcelfer S0 :DAB" ^      >na"stcelfer S2 :DAB"   ^       >na"stcelfer S-30 :DAB"    ^      >     >na"stcelfer V :DAB"      [ "BAD: P reflects"an<              +
+                            v   "GOOD: Q says sqrt(200) is 14"a<                              v                                                <      v_v#-+1g00<
+  v"reflects"  an<          v"BAD: Q says sqrt(200) isn't 14"a_^#-eQv#**2aa            _,#! #:<"GOOD: P says 16777216 * pi is    52707178 or 52707179"an<       wp00:*2 *+9a *+*a59<
+   v"t 8"an_v#-8R^#32_,#! #:<                    "BAD: Q reflects"an<                         ^ "BAD: P says 16777216 * pi isn't 52707178 or 52707179"<an       <
+            >na"8 si R32 :DOOG"v         >na"stcelfer R-302 :DAB" v        >na"stcelfer R3-20 :DAB"    v          >na"stcelfer R-30-20 :DAB" v      >na"stcelfer R20 :DAB" v
+   >"'nsi">" R32 :DAB"         >:#,_203-#^R#v_a"0 si R-302 :DOOG" >:#,_2-3#^R8+#v_a"8- si R3-20 :DOOG" >:#,_2-03-#^R#v_a"0 si R-30-20 :DOOG" >:#,_2#^R#v_a"0 si R20 :DOOG" >:#,_v
+  >       ^                                 >a"0 t'nsi R-302 :DAB"^             >a"8- t'nsi R3-20 :DAB"^             >a"0 t'nsi R-30-20 :DAB"^         >a"0 t'nsi R20 :DAB"^
+                                                                 v"BAD: 02-0R isn't 1"a<                 v"BAD: 20R isn't 1"a<
+v  )g22g33 ,a        <,a.$_,#! #:<"UNDEF: 00R pushes "0Rv#_,#! #:< "GOOD: 02-0R is 1"a_^#!-1Rv#0-2_,#! #:< "GOOD: 20R is 1"a_^#!-1Rv#02<,a.$_,#! #:<"UNDEF: 002-R pushes "0Rv#-2<
+                     ^   _,#! #:<"UNDEF: 00R reflects"an<        ^    "BAD: 02-0R reflects"an<           ^    "BAD: 20R reflects"an<   ^   _,#! #:<"UNDEF: 002-R reflects"an<
+n
+> 83bc+**v     >paa".ti ot derapmoc eb nac tluser detaluclac eht :secalp lamiced 6 ot ,wollof lliw rewsna tcerroc ylesicerp ehT .FEDNU eb lliw snoitaluclac fo stluser ,etaruccani"v
+ ^"FPSP"0<     v$_,#! #:<                    "Because floating point equality is, with epsilons, too tricky, and without them, poorly defined, and because rounding with I is too "<
+v              >c#vF0" stuptuo PFc :FEDNU">:#,_$#vPa,n"098765.4321"#vR0" ni stluser R"'""098765.4321"'""0 :FEDNU">:#,_$Pa,>8F#vI8-#v_a"8 si IF8 :DOOG" >:#,_v
+                  >na"stcelfer F :DAB"vv"lects"an<                                                                                 >a"8 t'nsi IF8 :DAB"^
+                                  v;#  >"fer P :DAB ,dnim reven"#;< >na"stcelfer R"'""098765.4321"'""0 :DAB"  >:#,_       ^   >na"stcelfer I :DAB"     ^
+              v                   <   <                  <    ;#      "BAD: S reflects"an<                                   ;"BAD: A reflects"an<
+               v                         ,,,,"(5)"aP$_,#! #:<"UNDEF: cF7FS results in "0S^#F7Fc,,,,,"(24)"aP$_,#! #:<"UNDEF: aFeFA results in "0A^#FeFa     <
+              ;      >na"stcelfer M :DAB"                ^;                              >na"stcelfer D :DAB" #;<
+               >6FaF#^M0" ni stluser MFaF6 :FEDNU">:#,_$Pa")06(",,,,,5F7FaF5FMMAbFbFM8FS#^D0" si 311/553 yas FDMSA :FEDNU">:#,_$Pa")395141.3(">:#,_1F0F#vD0" s"v
+                                  v                                 "UNDEF: -1/0 reflects"an<             v                     "UNDEF: 1/0 reflects"an<
+               v           _,#! #:<"(NaN or -infinity)"aP$_,#! #:<"UNDEF: D says -1/0 is "0D^#F0F-1_,#! #:<"(NaN or +infinity)"aP$_,#! #:<"UNDEF: D says 1/0 i"<
+                        >na"stcelfer B :DAB"                                v         >na"stcelfer C :DAB"                               v
+               >67*FaFD#^B0" si )2.4(nis syas B :FEDNU">:#,_$Pa")675178.0-(">:#,_67*F#^C0" si )24(soc syas C :FEDNU">:#,_$Pa")589993.0-(">:#,_67*FSaa*FD#vT0" si" v
+                                  v                                              "BAD: E reflects"an<          v                      "BAD: T reflects"an<
+               v           _,#! #:<"(actually complex: NaN)"aP$_,#! #:<"UNDEF: E says asin(2) is "0E^#F2_,#! #:<"(-0.446573)"aP$_,#! #:<"UNDEF: T says tan(-.42) "<
+                  >na"stcelfer H :DAB"                              v         >na"stcelfer G :DAB"                                v      >na"stcelfer KF0 :DAB"         v
+               >F#^H0" si )0(soca syas H :FEDNU">:#,_$Pa")697075.1(">:#,_aa*F#^G0" si )001(nata syas G :FEDNU">:#,_$Pa")797065.1(">:#,_F#^K0" si )0(nl syas K :FEDNU">:#,_$Pa")yti"v
+                                                       v                             "BAD: 2FK reflects"an<   v            _,#! #:<      "BAD: 1FK reflects"an<         >v
+               v                                _,#! #:<"(0.693147)"aP$_,#! #:<"UNDEF: K says ln(2) is "0K^#F2<,,,,"(0)"aP$_,#! #:<"UNDEF: K says ln(1) is "0K^#F1_,#! #:<"(-infin"<
+                     >na"stcelfer L :DAB"                                v       >na"stcelfer X :DAB"                              v      >na"stcelfer N :DAB"                   v
+               >2a*F#^L0" si )02(01gol syas L :FEDNU">:#,_$Pa")030103.1(">:#,_3F#^X0" si )3(pxe syas X :FEDNU">:#,_$Pa")735580.02(">:#,_F#^N0" si 0- syas N :FEDNU">:#,_$Pa")0-(",,v
+    v        "BAD: 08-F9FY reflects"an<             v                                 "BAD: Q reflects"an<   v                _,#! #:<           "BAD: V reflects"an<    v_,#! #:< ,
+     v"UNDEF: Y says pow(-8, 9) is "0Y^#F9F-8_,#! #:<"(2.828427)"aP$_,#! #:<"UNDEF: Q says sqrt(8) is "0Q^#F8< ,,,,, "(15)"aP$_,#! #:<"UNDEF: V says abs(-15) is "0V^#F-f<       ,,<
+     >:#,_$Pa")827712431-(">:#,_2F07-F#vY0 " si )7- ,2(wop syas Y :FEDNU">:#,_$Pa")318700.0(">:#,_g!v
+    >         ;            ^           >na"stcelfer YF-70F2 :DAB"                            ^
+v  )g22g33 ,a >#                                                                             ^#     _v
+
+n
+> 2afe+**v     >10: :v
+ ^"FPDP"0<     x-+ef:<
+v  )g22g33 ,a                                                                                        <
+
+n                >n "stcelfer D :DAB"                                                                                                  >:#,_  v              >na"stcelfer L :DAB"v
+> d95**0v      >#^D#v_a"0 si n retfa D :DOOG" >:#,_$yD00pad+y:00g-#v_n" si y retfa ezis kcats taht eerga D dna y :DOOG"                >:#,_g.>a,98765432105#^Lv
+ ^"FRTH"<           >a"0 t'nsi n retfa D :DAB"^                    >0" si y retfa ezis kcats smialc y :DAB">:#,_$." si ti smialc D tub"^
+v                                     v<                                                          v< < < < < < < < < >     v                                 >  v
+     v"GOOD: P picks value correctly"a0w5Pv#50123456789n<                                          w9w8w7w6w4w3w2w1w_,#! #:<"GOOD: L rolls value correctly"a0w5<
+    v"BAD: P picks value incorrectly"a<0 v<             ^_,#! #:<"BAD: L corrupts rest of stack"an<< < < < < < < < < ^     "BAD: L rolls value incorrectly"a0<  <
+     "    > > > > > > > > > >v        ^<                        ^           ;>v;                                       ;> > >v;                                                  <
+    >>:#,_w1w2w3w4w5w6w7w8w9w                                       >n123#vO2w 0a"yltcerroc eulav srevo O :DOOG" >:#,_$3w2w1w                                       v
+          > > > > > > > > > >>na"ktacs fo tser stpurroc P :DAB">:#,_^        >>0a"yltcerrocni eulav srevo O :DAB"^      > > >>na"kcats fo tser stpurroc O :DAB"v
+                                         >na  "stcelfer P :DAB"^          >na"stcelfer O :DAB"                                                                 >:#,_v
+                                                     v                                                                                      "BAD: R reflects"an<
+                                             v                                                     _v#!-2_v#!-3$_,#! #:<"GOOD: R rots value correctly"a0_v#!-1R^#321<
+v  )g22g33 ,a                                <_,#! #:<             "BAD: R corrupts rest of stack"an<     <            ^"BAD: R rots value incorrectly"a0<
+
+n                                                                                             >#vn #;"CPII"4(#;<
+> 6aa**1-v     >1y2%!#v_ #vI8y-#v_a"y8 htiw seerga I :DOOG">:#,_     >                 8y00p #^t  7>< zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz                            v
+ ^"IIPC"0<            >na"detnemelpmi eb t'nac CPII :egnuF tnerrucnoC t'nsi siht smialc y :DAB"v>#vA00g-#v_a"tnerap fo y8 htiw seerga dlihc fo A :DOOG">:#,_v           8
+v  )g22g33 ,a  _,#! #:<  ;>na"stcelfer I :DAB">:#,_                  ^;                        <  >na"stcelfer A :DAB"                                 ^ <              -
+                                >na"y8 htiw seergasid I :DAB">:#,_   ^                                   >na"tnerap fo y8 htiw seergasid dlich fo A :DAB"^              !
+    v"BAD: G with parent's 8y doesn't work"a<               v"BAD: L with parent's 8y doesn't work"a<               v"BAD: 8yL doesn't duplicate"a<
+    v     "GOOD: G with parent's 8y works"a_^#!-7Gv#g_,#! #:<     "GOOD: L with parent's 8y works"a_^#!-7Lv#g_,#! #:<     "GOOD: 8yL duplicates"a_^#!-Lv#y87<
+    v         "BAD: G with parent's 8y reflects"an<         ^         "BAD: L with parent's 8y reflects"an<         ^             "BAD: 8yL reflects"an<
+              >a"krow t'nseod G hcus rehtona :DAB"v              >na"detcelfer y8 s'tnerap htiw L :DAB"         v                                                       #
+    >:#,_g#vG#^_a"skrow G hcus rehtona :DOOG"     >:#,_g8\#vP00g#^L8- #v_a"skrow y8 s'tnerap htiw LP :DOOG"     v>v>n' aa*6aa**1-pa#vDa"ycnamrod morf pu ekow :FEDNU",,,,,,,,,,,,,,v
+           >na"stcelfer G hcus rehtona :DAB"      ^        >na"stcelfer y8 s'tnerap htiw P :DAB"                >:#,_8y00pv         >a"stcelfer D :DAB",,,,,,,,,,,,,,,,@ v,,,,,,,,,<
+                                                                       >a"krow t'nseod y8 s'tnerap htiw LP :DAB"^^ #      <                                              >,,,,,,@
+                                                                     v"BAD: L with child's 8y doesn't work"a<  >;#<^;a"...tnamrod gniog dlihC">:#,_#;<
+    v" should still be dormant."a_,#! #:<zzzzzzzzzzzzzzzzzzzzzzzzzzzz<     "GOOD: L with child's 8y works"a_^#!-aLv#g_,#! #:<"GOOD: parent IP's stack was changed by P"a_v
+    >"dlihC">:#,_v                                                   ^        "BAD: L with child's 8y reflected"an<         ^ "BAD: parent IP's stack ""unchanged by P"a <
+                 g      >a"krow t'nseod y8 s'dlihc htiw G :DAB"v
+                 >#vGa-#^_a"skrow y8 s'dlihc htiw G :DOOG"     >zzzzzzzzzzzzzzzzzzzzzzzzzzzz>:#,_a".pu nekow evah dluohs dlihC"v
+                   >na"detcelfer y8 s'dlihc htiw G :DAB"       ^
+v  )g22g33 ,a                                                                                                           _,#! #:<
+n
+> 63aa*+*v     >#vCa"tcelfer t'nseod spamer tuohtiw C :DOOG">:#,_'4'5#vM522+-#v_a"4 sehsup 5M5'4' :DOOG">:#,_'5'7#vM722+- #v_a"4 sehsup 7M7'5'M5'4' ,krow s"                       v
+ ^"IMAP"0<       >na"stcelfer spamer tuohtiw C :DAB"        ^                 >na"5 sehsup 5M5'4' :DAB" v         >na"tcelfer M7'5'M5'4' ekil stpmetta "                           v
+v  )g22g33 ,a   ;try to clear; n<Cv#     _,#! #:<  "BAD: M reflects"an<                                                    >$723+-#v_a"5 sehsup 7M7'5'M5'4' ,krow t'nod s"         v
+                 just in case   ^ <             ^                                                       <                          >a"4 sehsup 5 ro 4 hsup t'nseod 7M7'5'M5'4' ,p"v
+                                       v    _,#! #:<      "UNDEF: remap chains broken with O are joined together, '4'5M'5'7M'5O7 pushed 4"a<                                      "
+  v"'t work, 5 doesn't push 5"a_v#-+325<,a.7_,#! #:< "UNDEF: remap chains broken with O get messed up, '4'5M'5'7M'5O7 pushed "_v#    -+327_^#-+227Ov#5'_,#! #:<                   u
+    v"'5O unmapped 5 to push 5"a<               ^                                                                               "BAD: O reflects"an<          ^"UNDEF: remap chain"<
+    #                                  ^    _,#! #:<                         "UNDEF: no remap chains, '4'5M'5'7M'5O7 pushed 5"a<                 v": remap ch" "ains mess things "<
+  >"ndid O5' :DAB"v           >na"gnihton seod IICSA-non gnippam :FEDNU"v                                                                        >"DAB"       ^
+    > " :DOOG"    >:#,_e'Ä#vM#^Äe- #v_a"skrow IICSA-non gnippam :FEDNU" v
+                           >na"stcelfer IICSA-non gnippam :FEDNU"       v
+                                    >$a"ylegnarts gnivaheb trats ot ti"v
+    v                                  "BAD: mapping non-ASCII causes "<
+    v;                 >a"7 hsup t'nsoed 7CM7'6' ,krow t'nseod C :DAB"v;<
+    >:#,_'6'7M#vC7a3--#^_a"7 sehsup 7CM7'6' ,skrow C :DOOG"v
+               >na"stcelfer C :DAB"                                   >:#,_"...liaf ylekil lliw ygolocyM fo tser eht ro dedaolnu si PAMI emit eht yb enog eb retteb sgnippamer ehT"v
+v  )g22g33 ,a                                       _,#! #:<                                                                                                                       <
+n
+> c14d*+*v     >10p200p302p#vG 3-#v_a"skrow G :DOOG">:#,_400#vP2g4-#v_a"skrow P :DOOG"      >:#,_512p#vV:5-#v_$  4-#v_a"redro 89-egnuF/CR lacigolli sesu V :FEDNU"  >  >:#,_6700#vWv
+ ^"INDV"0<                  >na"stcelfer G :DAB"    ^     <  >na"stcelfer P :DAB"           ^         >na"stcelfer V :DAB"                               >          ^U'<           0
+v                                 >$a"krow t'nseod G :DAB"^         >$a"krow t'nseod P :DAB"^               >$4-#v_5-#v_a"redro ,89-egnuF/CR ton ,lacigol sesu V :FEDN"^           2
+                                                                                                                 >$ > >a"lla ta krow t'nseod V :DAB"     ^                         g
+               ^           <                                                                                                                      v           "BAD: W reflects"an< 7
+v  )g22g33 ,a                                                                                                                              _,#! #:<     "GOOD: W works"a_v#!-6g21< -
+n              #                                                                                                                                  ^"BAD: W doesn't work"a<     $_^#<
+> 388a**+v     >'vf188a**+p^
+ ^"PNTR"0<
+v  )g22g33 ,a  <
+n
+> 998**1-v     >aa".gnihtyreve tset ylluf ot ,noitcurtsni hcae rof sretemarap dna snoitpo elbissop eht lla htiw denibmoc nehw ,enod eb nac taht sgniht elbissop ynam oot era erehT"v
+ ^"SOCK"0<     v$_,#! #:<                                                    "Every instruction will, of course, be tested, but not in combination with every possible parameter."a<
+v              >221#vS0" dehsup S :FEDNU"a"S htiw tekcos PCT MAERTS_KCOS ,TENI_FP a detaerC :DOOG">:#,_$:.a, :1\2\#vO0a"O htiw RDDAESUER_OS tes :DOOG">:#,_$:2 ff*2-:a+*0#vB 0av
+v  )g22g33 ,a <;    >na"detcelfer S htiw tekcos PCT MAERTS_KCOS ,TENI_FP a etaerc ot gniyrt :DAB">:#,_#;<          >0a"detcelfer O htiw RDDAESUER_OS tes ot gniyrt :DAB">:#,_$v
+              ^_,#! #:<"GOOD: closed socket with K"a       Kv#                                      <                                                                         <
+                      ^"BAD: couldn't close socket with K"an<                     >   ;>$$#;  >:#,_$^$_,#! #:<"BAD: trying to bind to local port 51959 with B reflected"a0<
+   v"EF: S pushed "0Sv#122 p00$_,#! #:<"GOOD: set listening ";>"es ot gniyrt :DAB"^;"mode with backlog size 1 with L"a0Lv#\1: $_,#! #:<"GOOD: bound to local port 51959 with B"<
+   '                                                          ^"t listening mode with backlog size 1 with L reflected"a0<
+   D                 >na"detcelfer S htiw tekcos rehtona etaerc ot gniyrt :DAB">:#,_g  ^
+   >"NU"a"S htiw tekcos rehtona detaerc :DOOG">:#,_$:.a,0"1.0.0.721"#vI0" dehsup I :FEDNU"a"I htiw C rof 1.0.0.721 detrevnoc :DOOG">:#,_$:.a, 01p:2ff*2-:a+*01g#vC0a"C htiw 95915 "v
+v  )g22g33 ,a ;>:#,_$11g#;_g                     111pv               >$$$$$$$$$$0a"detcelfer I htiw C rof"vv" to connect to local port 51959 with C reflected"a0<v"d to local port"<
+               ^"GOOD: closed socket with K"a0      K]#p11<   _,#! #:<                       "BAD: trying" <" t"            <                                    >"etcennoc :DOOG" v
+               ^"BAD: couldn't close socket with K"an< >  ^          ^"BAD: trying to convert 127.0.0.1  "<            v_,#! #:<"GOOD: accepted connection with A"a0Av# g00$_,#! #:<
+     v      "GOOD: A overwrote original socket"a0_v#!-g00:,a.\,,,,,,,,,"and port ".\$_,#! #:<"UNDEF: A pushed address "<    ^"o accept connection with A reflected"a0<
+      v"BAD: A didn't overwrite original socket"a0<
+      >:#,_0g#vK0a"K htiw tekcos lanigiro desolc :DOOG"      v        Foobar                                         v"BAD: trying to close socket with K reflected"an<           >v
+              >0a"K htiw tekcos lanigiro esolc t'ndluoc :DAB"v                                                       >  v            >>0a"6 hsup t'ndid W :DAB"v                  ""
+     >                         ;>:#,_$11g              ^;    >:#,_$\::11p7a*\2cb5**+\6\#vW0a"W htiw "'""rabooF"'"" tnes :DOOG">:#,_$6w 0a"6 dehsup W :DOOG"    >:#,_$#^Kv         P
+                                ^"BAD: trying to send ""'"Foobar""'" with W reflected"an<                               #            >^                                            :
+                                                                v$_,#! #:<"GOOD: received data with R"a0Rv#\a\+**5bc7   ,#  \*f5<$_,#! #:<"GOOD: closed socket with K"a0<         pD
+   v:\g\+*f54:\g\+*f53:\g\+*f52:\g\+*f51:\g\*f5:\g\-1*f5:+**5bc7<         IOBUFFER                                      |       g                                                 uO
+   5                    >  >  >  >  >  >  >  >v   >;#"BAD: trying to receive 10 bytes with R reflected"an<   >v         >       ^     ;v      >na"detcelfer K htiw tekcos esol"v  sO
+   >5f*+\g\65f*+\g    'Rw'rw'aw'bw'ow'ow'Fw'Iw 0a                  "atad tcerroc deviecer R :DOOG">:#,_$    6w 0a"6 dehsup R :DOOG"    >:#,_$#^Ka"K htiw tekcos desolc :DOOG"    vhG
+                        >  >  >  >  >  >  >  >>0a"ti decalpsim ro/dna atad gnorw deviecer R :DAB" ^          >>0a"6 hsup t'ndid R :DAB"^          v_,#! #:<;#"BAD: trying to c"<;<""
+         v  -1 v# **e86   p770 ;# <>#v #;0" dehsup H"'""127.0.0.1"'""0 :FEDNU"#;r;#   n<_,#! #:<"UNDEF: SCKE not included in SOCK"an <             >"atad tuohtiw tekcos rof 0 de"^
+#^"SCKE"0<     v          p771$_,#! #:<"Will test SCKE both here and after loading it."a_,#! #:<"UNDEF: SCKE is  included in SOCK"anH^#"127.0.0.1"<^a0<>                        v
+>  0"KCOS"4)vv;>0"1.0.0.721"#vH    ^ >$           >:#,_$.a,>n221#vS:11p:2ff*2-:a+*0#vB:1\#vL221#vS:44p0"1.0.0.721"#vI2\ff*2-:a+*\#vC44g\#vA\$\$:#vP#;_^^"BAD: P reflects or"<
+v           <                >na"stcelfer H :DAB" >:#,_    ^     >                              >      na"P tset ot S gnikrow deen :DAB";>na"P tset ot A gnikrow deen :DAB"   #;v
+v )g22g33,a; >0a"atad tuohtiw tekcos rof oreznon dehsup P :DAB">:#,_$   v    ;)4"SOCK"0  <>            na"P tset ot L gnikrow deen :DAB";        >na"deliaf KCOS fo trap a "^   v
+       v"GOOD: P pushed nonzero for socket with data"a_v#Pv#<vWv#\5\5\5\<$_,#! #:<;            v <        v <      >na"P tset ot I gnikrow deen :DAB"               >           v ;<
+       > #;>:#,_;         "BAD: need working W to test P"an    <        >   v          ^_^# g77<K^#g44    <K^#g11;# <             >na"P tset ot C gnikrow deen :DAB"^;   _,#! #:<
+       ^;  ^"BAD: P pushed zero for socket with data"an<  >   na"deliaf KCOS fo trap a ro stcelfer P :DAB"#;<
+n                                                           ^># $$44g #1[#1 <
+> 857a+**v     >e0"ooF"0"raB"#vAv  >  >  >  >  >  > >v >>na"sgnirts woleb kcats sehcuot A :DAB"v                  >na"stcelfer C :DAB"                  v
+ ^"STRN"0<                      >'Bw'aw'rw'Fw'ow'ow0w ew na"skrow A :DOOG"                     >:#,_ "oof" 0"ooF"#^C:0`#v_$a'""ooF"'"" naht retaerg si "'""oof"'"" smialc C :DOOG"v
+v                                  >  >  >  >  >  > >>;>^;na"yltcerroc dneppa t'nseod A :DAB"  ^v" less than ""'"Foo""'a_a"lauqe era "'"""oof"'"" dna "'""ooF"'"" smialc C :DAB"  v
+                 v;           >na"stcelfer A :DAB"                                             ^>"si "'""oof""'" smialc C :DAB"                  #; #$ #<                         v
+                 v"BAD: C claims ""'"qUx""'" is greater than itself"a<                           v"GOOD: C claims ""'"Bar""'" is less than ""'"bar""'a$_v#`0:C"bar"0 "Bar" _,#! #:<
+                 v  "BAD: C claims ""'"qUx""'" is less than itself"a_^#`0_v#:C"qUx"0 "qUx"_,#! #:<"BAD: C claims ""'"Bar""'" is greater than ""'"bar""'a_v
+         v_,#! #:<       "GOOD: C claims ""'"qUx""'" is equal to itself"a$<                      ^"BAD: C claims ""'"Bar""'" and ""'"bar""'" are equal"a <
+         e                >na"stcelfer F :DAB"                                                                                                                               v
+         >\"abo"0"rabooF"#^Fv  >  >  >  > >v >>na"sgnirts woleb kcats sehcuot F :DAB"v                   >v >>na"hctam t'nod sgnirts nehw sgnirts woleb kcats sehcuot F :DAB"v
+                            >'ow'bw'aw'rw0w ew na"yltcerroc sdnif F :DOOG"           >:#,_e\"oof"0"rab"F0w ew na"hctamsim no 0 sehsup F :DOOG"                               v
+                               >  >  >  > >>;>^;na"yltcerroc dnif t'nseod F :DAB"    ^                   >>;>^;na"hctam t'nod sgnirts nehw yltcerrocni sevaheb F :DAB"       v
+                   v< <  <  <  <  <  <                                      v                                                            "BAD: D reflects"an<
+  v"OOD: G works"an w0wr'wa'wb'wo'wo'wF'Gv#\*77 p \*b5 \0:   +**b791 _,#! #:<"Cannot test D reliably. If this line begins with ""'"GOOD: ""'", it worked."aD^#"GOOD: "_,#! #:<
+   v"oesn't work"an<< <  <  <  <  <  <   >na"stcelfer G :DAB"                                                                         v
+  '                                              Foobar                                     >na"gnihtemos steg dna "v           v"BAD: P reflects"a<
+  G>"d G :DAB"v                                                                         >0`#^_n                    a>"stcelfer" #     v            n      >     >     >    >v
+  >           >:#,_" pool etinifni na ot gnidael rotcev a htiw G :FEDNU">:#,_ 397b**+ 0#^G0`#v_n                    a>"hguorht sessap">:#,_"xuQ"55#^P55g'Qw65g'uw75g'xw85g0w v
+    v      _v#!-e  <                                                                         >na"gnihtemos steg dna "^          > v"BAD: P doesn't work"an<     <     <    <<a
+  v" stack"_v#!-e$_^#!:Lv#0\e_,#! #:<"UNDEF: 00L "_,#! #:< "GOOD: ""'"zaB""'"2L is ""'"Ba""'an_v#!  _v#!-a'_v#!-B'Lv#2"Baz"_,#! #:<                           "GOOD: P works"<
+   v" stack"<                                                                                                      >na"stcelfer L"v
+   >"pu sessem"        v>n"stcelfer"v                    ^"BAD: ""'"zaB""'"2L isn't ""'"Ba""'an<     <      <             v"BAD: "<       >  > >>na'""za"'"" t'nsi R2"'""Baz"'"v
+  >"no 0 sevael"       >  >         >:#,_a," L-10"'""Foo"'"" :FEDNU">:#,_e\"ooF"01-#vL:e-#v_$a"gnirts eht stae"           >:#,_"zaB"2#vR'aw'zw0w na'""za"'"" si R2"'""Baz"'"v
+    >"sorez eht stae tsuj"^                                                         >na"stcelfer"                         ^v"flects"an<   >  > >^
+                                                                                          >$'"" sevael">:#,_a"kcats no "'"^>"er R :DAB"v
+        v;#                  "reflects"an<                                                     v"just eats the zeros"_v#!-e  <        ;<                           v"BAD: "    <
+  v            "eats the string"a$_v#-e:R^#-10"Foo"\e_,#! #:<"UNDEF: ""'"ooF""'"01-R ",a_,#! #:<  "leaves 0 on stack"_v#!-e$_^#!:Rv#0\e_,#! #:<"UNDEF: 00R "_,#! #:<"GOOD: "<
+   v" on stack"a_,#! #:<"leaves ""'<                                                           ^;#r';"messes up stack"<;"eflects"n<
+   >'"  v                      >  >  >  > >>na'""BraB"'"" t'nsi M43"'""FooBarBaz"'"" :DAB"v                                >  e-#v_"sorez eht stae tsuj"   v
+  >     >:#,_"zaBraBooF"34#vM'Bw'aw'rw'Bw0w na'""BraB"'"" si M43"'""FooBarBaz"'"" :DOOG"  >:#,_" M000 :FEDNU">:#,_e\00#vM:#^_$e-#v_"kcats no 0 sevael"     >:#,_a,v
+                               >  >  >  > >^                                                  v;>:#,_#;<               >n"stcel";>"kcats pu sessem";"fer"#;^
+                           >na"stcelfer M :DAB";                           v"'" on stack"a    < ^"leaves ""'$<                                                         ;v
+                     >na"stcelfer"    v                                    v                           "reflects"an<
+   v"string"a$_v#-e:M^#1-10"Foo"\e_,#! #:<"UNDEF: ""'"ooF""'"01-1M "_,#! #:<             "eats the string"a$_^#-e:M^#-101"Foo"\e_,#! #:<"UNDEF: ""'"ooF""'"101-M "<
+  v "leaves ""'<     v                <                                 >'"" sevael">:#,_a"kcats no "'"v                                                  >'"" sevael">:#,_a"kcats"v
+   >" eht stae"      >:#,_" M24"'""Foo"'"" :FEDNU">:#,_e\"ooF"42#vM:e-!#^_$a"gnirts eht stae"          >:#,_" M42"'""Foo"'"" :FEDNU">:#,_e\"ooF"24#vM:e-!#^_$a"gnirts eht stae"v   '
+  >:#,_a"kcats no "'"^                                           >na"stcelfer"                         ^                                           >na"stcelfer"        >  v
+          v_,#! #:<"BAD: N didn't keep the string on the stack"an<< <  <  <   v_,#! #:< "GOOD: ""'"foo""'"N is 3"a0_v#!-3Nv#"foo"_,#! #:< "GOOD: 0N is 0"an_v#!Nv#\e_,#! #:<   <
+          v                                                       w0wo'wo'wf'$<       ^"BAD: ""'"foo""'"N reflects"a0     <             ^"BAD: 0N reflects"an   <          ^"'" on"<
+                        >na"stcelfer V :DAB"                     ]< <  <  <           ^"BAD: ""'"foo""'"N isn't 3" a<                   ^"BAD: 0N isn't 0" a<
+                               >  >  >  >  >  >  >  >  >  > >v   >                                          v
+          >"0987654321"#^V#vS'1w'2w'3w'4w'5w'6w'7w'8w'9w'0w0w na"0987654321 si SV"'""1234567890"'"" :DOOG"  v
+                               >  >  >  >  >  >  >  >  >  > >>na"0987654321 t'nsi SV"'""1234567890"'"" :DAB"v
+                           >na"stcelfer S :DAB"                                                             v
+v   )g22g33 ,a                                                                                       _,#! #:<
+n                     >   v     >          v
+> 6bb**1-v     >f6bb**[Jv#<     ^"BAD: "<  >:#,_$ 123 59* 16bb**+ 2 ;Cv#;# r #;                                                 v > > >v
+ ^"SUBR"0<       a"skrow J :DOOG"          ^   > >v                   > na"atled gnorw stes R ro stcelfer C :DAB"              v>5w4w1w a"yltcerroc stnemele kcats srefsnart R"v
+v                       >na"stcelfer J "^     3w2w  a"yltcerroc stnemele kcats srefsnart C :DOOG" >:#,_452#vR                     > > >>na"yltcerrocni stnemele kcat"v
+v  )g22g33,a ;                                 > >>na"yltcerrocni stnemele kcats srefsnart C :DAB"^        >na"stcelfer R :DAB">:#,_#;<_,#! #:<;#"BAD: R transfers s"<;"GOOD: "<
+n                   vn          <
+> a198*+*v     >006p>01-:::::00p01p02p03p04p05pv
+ ^"TIME"0<     v                               <
+v              >#vY00p                    >#vO01p                    >#vD02p                    >#vH03p                    >#vM04p                    >#vS05p                      v
+                 >na"stcelfer Y :DAB">:#,_^ >na"stcelfer O :DAB">:#,_^ >na"stcelfer D :DAB">:#,_^ >na"stcelfer H :DAB">:#,_^ >na"stcelfer M :DAB">:#,_^ >na"stcelfer S :DAB">:#,_  v
+             v     ,,"? "$<            v,,"? "$<             v,,"? "$<             v,,"? "$<                                            v>#;' " TMG"#;<                            n
+      v,,": "< .<  _v#`9:_^#+1:g30,,: '<     ._^#+1:g20,,"- "<     ._^#+1:g10,,"- "<     ._^#+1:g_,#! #:<"UNDEF: YODHMS claim that the "<|g60" time is (or was a few moments ago) "<
+                ^,0'<           ^                                        <                                                              ^>#;"lacol"#;<
+               >$" ?",,      v              >$" ?",,     v
+      >04g:1+!#^_:9`!#v_  >. >" :",,05g:1+!#^_:9`!#v_  >.>a,06g#v_106p#vG^                                             >na"stcelfer L :DAB"      v     >na"stcelfer F :DAB"v
+                      >'0,^                        >'0,^        >;     >na"emit TMG teg t'nac ,stcelfer G :DAB">:#,_#;#^La"krow ot smees L :DOOG">:#,_#^F   v
+             v"arting from sunday"an.$_,#! #:<"UNDEF: W claims that it is the "0Wv#;#_,#! #:<"day of the year"an.$_,#! #:<"UNDEF: F claims that it is the "0<      ;_,#! #:<
+v  )g22g33,a;>"ts ,keew eht fo yad">:#,_      #;<     _,#! #:<"BAD: W reflects"an<
+n
+> 8f77**+v     >321 21 f9f77**+ 3 #vPv             >          >          >v                                          >v
+ ^"JSTR"0<     A                     >9f77**+ :f\g1w :1+f2+\g2w  2+f4+\g3w  a"skrow P :DOOG"      >:#,_cf77**+f6+\g'Dw                               >     21 f9f77**+ 3 #vGv
+v                B                                 >          >          >>na"krow t'nseod P :DAB"v                  >>na"raf oot setirw P :DAB">:#,_["BBAD: G reflects"an<
+        >:#,_v#;   C               >na"stcelfer P :DAB"                                           >    9f77**+ :1\f\p :1+2\f2+\p 2+3\f4+\p      ^   ;<             v< < < <
+v  )g22g33   <       D#                                                                                                             _,#! #:<      "GOOD: G works"a  w0w1w2w3<
+                                                                                                                                           ^"BAD: G doesn't work"an<< < < <
+n
+>a".tes noitcurtsni gnippalrevo yllaitrap dna )sretnemelpmi rof( yticilpmis rieht rof nesohc erew AMOR dna UDOM"a".stnirpregnif owt htiw ruoivaheb )( deliated tset ot tuobA"a>:#,_v
+                                             v"BAD: CDILRUVX reflects"an<                                      v-**aaaMv#  $_,#! #:<"Loaded ROMA, then MODU."an(v#4"MODU"(v#4"ROMA"<
+v" ROMA."an)v#4"ROMA"$_,#! #:<"GOOD: CDILRUVX doesn't reflect"anXVURLIDC^#_,#! #:<"GOOD: M has MODU semantics"a_ v       v" not found."a_,#! #:<"UNDEF:"< '"MO";>n"UD"#;<
+            >na"AMOR daolnu t'ndluoc :DAB"   v                                                    ;#"BAD: M reflects"an<;<                              ^ '        "ROMA"n<
+ v"t have ROMA semantics"a_a"scitnames AMOR"vv                            "BAD: M has ROMA semantics, not MODU"a$<       ^                   <                   <
+>"dedaolnU">:#,_$#vMaaa**-^                 > " sah M :DOOG">:#,_#vRUa"tcelfer t'nseod UR :DOOG">:#,_#vC]#vD]#vI]#vL]#vV]#vX>n'X>" :DAB",,,,,,a"tcelfer t'nseod "^
+v"                >na"stcelfer M :DAB"       v"BAD: RU reflects"an<                                   > [v> [v> [v> [v> [v>      a"detcelfer XVLIDC fo lla :DOOG">:#,_$"UDOM"4#v)n
+ >"'nseod M :DAB"                            >           v                                               >n'C   ;>n'I #;;>n'V#; ^           ^     "BAD: couldn't unload MODU"an<
+>a".UDOM dedaolnU">:#,_$#vR]#vUna"tcelfer t'nseod U :DAB">:#,_v                                              >n'D   ;>n'L#;     ^
+                         > [v>a"detcelfer U dna R :DOOG" ^
+                            >na"tcelfer t'nseod R :DAB"  ^
+v!%2y1                                                        <
+_a".FEDNU si suht dna ,noitacificeps eht ni denoitnemnu si sihT"a".PI dlihc eht ot scitnames tnirpregnif dedaol s'PI tnerap eht seipoc t rehtehw ,AMOR gnisu ,tset ot tuobA"a>:#,_vv
+                                                                                                                                           @tv# _,#! #:<"Loaded ROMA."an(v#4"ROMA"<
+  v" 15, consider it GOOD..."a;#_,#! #:<                                                                                                       "UNDEF: ROMA not found."an<;        <
+  '                                    ^"UNDEF: IVXLCDM didn't reflect: child IP has ROMA loaded"anMDCLXVIv#_,#! #:<"Forked into child IP."an<
+  s                                    ^   "UNDEF: IVXLCDM reflected: child IP doesn't have ROMA loaded"an<         >na"daetsni @ htiw gnittiuq ,stcelfer q :DAB">:#,_@
+  >"i sutats nruter eht fI .q htiw tiuq ot gniyrT"a".enod yllacitcarp si etius tset 89-egnufeB ygolocyM ehT"a>:#,_f#^q
