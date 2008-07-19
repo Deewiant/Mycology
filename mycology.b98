@@ -193,12 +193,12 @@ v_,#! #:<"Here's how your interpreter deals with some possibilities unmentioned 
                                                   >937**:')\9f*\p')\cd*5*p ']3a*1+aa9+*p                      ^               v                       nwf< w^
     v                                            _^#-('g**937*9f_,#! #:<"the absolute value of the count"a_,#! #:<" and pops "<           "more than "<<
                                                                                                                               ^"0 times or less than "n    <
-
+         >>na"lauqe sa erapmoc ton od orez dna gnirts ni etyb llun :DAB"v
+    >" "0w a"lauqe sa erapmoc        orez dna gnirts ni etyb llun :DOOG"v     These are actually aligned, your editor might display NUL as more than one column wide
+    v   ;>^;                                                     _,#! #:<
 [  a<   v"d for each fingerprint tested for, whether or not the interpreter supports it."a"If the interpreter loads the fingerprint, subsequent lines will be GOOD or BAD depending"
 [a".yltnelis liaf lliw ti ,krow ton seod ) fI .detset gnieb retfa dedaolnu eb lliw stnirpregniF"a".noitacificeps s'tnirpregnif eht ot gnidrocca sevaheb reterpretni eht rehtehw no "
 v;      >$"ettime eb lliw )hcus sa dekram ton hguoht ,FEDNU ti redisnoc( enil A"a".stnirpregnif ot no gnivoM"a".detset yletelpmoc neeb sah eroc 89-egnufeB ehT"a>:#,_#;$<
-
-
 
 
   ONLY FINGERPRINTS BELOW (and q, which obviously has to come last)
@@ -212,9 +212,9 @@ v;      >$"ettime eb lliw )hcus sa dekram ton hguoht ,FEDNU ti redisnoc( enil A"
      x -10*bb _v# !- _ #;\884***+1#;<x0-+6a0!:g14 _ #;\884***+1#;<x0-+6a0!:g13 _ #;\884***+1#;<x0-+6a0!:g12 g11 _v#!-1g22g33 <
   stack is [y, fingerprint]   zero out storage      print fingerprint and store it       v"BAD: ( did not push 1"0<
 n              >$0"tnirpregnif tcerroc hsup ton did ( :DAB"                              >a,>:#,_a,@                  try loading fingerprint,
-> e2aa**+v     >#vA;>29*2aa**g:'Z-!#v_1+29*2aa**pv;29*774**g" :DAB",,,,,,"tcelfer ton did "v                          if succeeded store what ( pushed and go to (15, y)
- ^"NULL"0<     ^ >  ^               >#          #<$           a"detcelfer Z-A fo lla :DOOG"v                             but first check that ( pushed correctly (that messy line)
-v  )g22g33                                                                       ,a$_,#! #:<                          else go to (0, y+2)
+> e2aa**+v     >#vA;>29*e2aa**+g:'Z-!#v_1+29*e2aa**+pv;29*e2aa**+g" :DAB",,,,,,"tcelfer ton did "v                    if succeeded store what ( pushed and go to (15, y)
+ ^"NULL"0<     ^ >  ^                 >#            #<$             a"detcelfer Z-A fo lla :DOOG"v                    but first check that ( pushed correctly (that messy line)
+v  )g22g33                                                                             ,a$_,#! #:<                    else go to (0, y+2)
 
                                                                                    >0a"M retfa detcelfer T :DAB" >#;v
 n                >na"stcelfer G :DAB";   >0a"detcelfer TTM :DAB"a                    #;>:#,_ 08b*- 4x4 -*b80 _,#! #:<;#"BAD: S reflects"a0<   ;<<     "BAD: M reflects"a0<
