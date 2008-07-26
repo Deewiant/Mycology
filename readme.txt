@@ -6,13 +6,42 @@ matti.niemenmaa+mycology at the domain iki.fi.
 Mycology is licensed under the so-called 3-clause BSD license. See license.txt
 for the text of the license.
 
-Mycology changelog:
+Contents of this readme:
+	Changelog
+	Quick summary
+	More detailed info
+	Fingerprints
+	Notes on particular messages
+		"# across left edge"
+		"101-{}"
+		"4k #" and "2k ;;;5"
+		"2k6"
 
-	2007-09-20    Public release.
-	2007-07-26    Creation of mycoterm.b98 and mycotrds.b98.
-	2007-06-17    Creation of mycouser.b98.
-	2007-01-06    Creation of mycorand.bf.
-	2006-12-31    Creation of sanity.bf and mycology.b98.
+Mycology changelog:
+-------------------
+
+	2008-07-26    - Thanks to Arvid Norlander, Chris Pressey, and Mike Riley,
+	                none of k is UNDEF any longer, and some tests were changed
+	                to reflect the intended behaviour.
+	2008-07-19    - Now testing whether null bytes are handled correctly.
+	2008-05-02    - Bugfix: mycouser.b98 had a forgotten r in place of a (.
+	2008-03-30    - Bugfix: J test in SUBR was misaligned.
+	2008-03-29    - Bugfix: D failing in TOYS had no error message.
+	              - Bugfex: L and R in TOYS had incorrect error messages.
+	2008-03-15    - Bugfix: time output for hours <= 10 was incorrect.
+	2008-03-13    - Bugfix: a missing ; caused an incorrect error message.
+	2008-03-11    - i and o are now UNDEF if unavailable.
+	              - PERL is now tested with "5-1" instead of the palindromic
+	                "2+2". Thanks to Alex Smith for the input.
+	2008-02-02    - 1k # now considered UNDEF.
+	2008-01-09    - More typos or incorrect messages.
+	2007-12-02    - Corrected some typos.
+	2007-09-22    - Minor bugfixes.
+	2007-09-20    - Public release.
+	2007-07-26    - Creation of mycoterm.b98 and mycotrds.b98.
+	2007-06-17    - Creation of mycouser.b98.
+	2007-01-06    - Creation of mycorand.bf.
+	2006-12-31    - Creation of sanity.bf and mycology.b98.
 
 Quick summary of how to test your Befunge interpreter:
 -------------
@@ -358,15 +387,44 @@ version 1.00.
 
 Let's see what the spec has to say about the subject:
 
-   "The { 'Begin Block' instruction pops a cell it calls n, then pushes a new
-   stack on the top of the stack stack, transfers n elements from the SOSS to
-   the TOSS, then pushes the storage offset as a vector onto the SOSS..."
+	"The { 'Begin Block' instruction pops a cell it calls n, then pushes a new
+	stack on the top of the stack stack, transfers n elements from the SOSS to
+	the TOSS, then pushes the storage offset as a vector onto the SOSS..."
 
-   "If n is negative, |n| zeroes are pushed onto the SOSS."
+	"If n is negative, |n| zeroes are pushed onto the SOSS."
 
 In other words, { should:
 
-   Pop the -1 from the stack.                      [1]
-   Push a new stack on the stack stack.            [1], []
-   Since -1 < 0, push |-1| = 1 zero onto the SOSS. [1, 0], []
-   Push the storage offset onto the SOSS.          [1, 0, 0, 0], []
+	Pop the -1 from the stack.                      [1]
+	Push a new stack on the stack stack.            [1], []
+	Since -1 < 0, push |-1| = 1 zero onto the SOSS. [1, 0], []
+	Push the storage offset onto the SOSS.          [1, 0, 0, 0], []
+
+"BAD: 4k #..." and "BAD: 2k ;;;5..."
+....................................
+
+In Funge-98, spaces and semicolons are ethereal. The "next instruction"
+mentioned in the spec refers specifically to the next instruction the
+interpreter would execute if the k would not be there.
+
+Hence, k always executes its operand at the k, but reaches past all spaces and
+semicolons to find the operand. Hence 2k ;;;5 should execute the 5 twice at the
+k. (See the next section for the reason why it should be executed a third time
+afterward.)
+
+"BAD: 2k6..."
+.............
+
+The specification does not say that the operand should be skipped over after
+execution. The only special case is when the amount of times to execute is zero.
+
+This means that 2k6 should indeed first push 2 sixes at the k, and then a third
+when encountering the 6 itself.
+
+This also means that there is no way to execute an instruction only once: 1k6
+results in two sixes. (Another IP may certainly modify the 6 immediately after
+the k is executed, but that's a somewhat unlikely case and not exactly a good
+way to handle this limitation.)
+
+The spec is somewhat unclear on the entirety of k, but both of the above issues
+have been confirmed with Chris Pressey.
