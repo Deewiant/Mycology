@@ -658,8 +658,8 @@ v  )g22g33 ,a <;    >na"detcelfer S htiw tekcos PCT MAERTS_KCOS ,TENI_FP a etaer
 v  )g22g33 ,a ;>:#,_$11g#;_g                     111pv               >$$$$$$$$$$0a"detcelfer I htiw C rof"vv" to connect to local port 51959 with C reflected"a0<v"d to local port"<
                ^"GOOD: closed socket with K"a0      K]#p11<   _,#! #:<                       "BAD: trying" <" t"            <                                    >"etcennoc :DOOG" v
                ^"BAD: couldn't close socket with K"an< >  ^          ^"BAD: trying to convert 127.0.0.1  "<            v_,#! #:<"GOOD: accepted connection with A"a0Av# g00$_,#! #:<
-     v      "GOOD: A overwrote original socket"a0_v#!-g00:,a.\,,,,,,,,,"and port ".\$_,#! #:<"UNDEF: A pushed address "<    ^"o accept connection with A reflected"a0<
-      v"BAD: A didn't overwrite original socket"a0<
+     v"GOOD: A didn't overwrite original socket"a0_v#-g00:,a.\,,,,,,,,,"and port ".\$_,#! #:<"UNDEF: A pushed address "<    ^"o accept connection with A reflected"a0<
+      v        "BAD: A overwrote original socket"a0<
       >:#,_0g#vK0a"K htiw tekcos lanigiro desolc :DOOG"      v        Foobar                                         v"BAD: trying to close socket with K reflected"an<           >v
               >0a"K htiw tekcos lanigiro esolc t'ndluoc :DAB"v                                                       >  v            >>0a"6 hsup t'ndid W :DAB"v                  ""
      >                         ;>:#,_$11g              ^;    >:#,_$\::11p7a*\2cb5**+\6\#vW0a"W htiw "'""rabooF"'"" tnes :DOOG">:#,_$6w 0a"6 dehsup W :DOOG"    >:#,_$#^Kv         P

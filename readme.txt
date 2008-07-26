@@ -23,6 +23,9 @@ Mycology changelog:
 	2008-07-26    - Thanks to Arvid Norlander, Chris Pressey, and Mike Riley,
 	                none of k is UNDEF any longer, and some tests were changed
 	                to reflect the intended behaviour.
+	              - Expanded the null byte test.
+	              - Bugfix: in SOCK, the original socket should /not/ be
+	              	 destroyed: flipped a GOOD and BAD.
 	2008-07-19    - Now testing whether null bytes are handled correctly.
 	2008-05-02    - Bugfix: mycouser.b98 had a forgotten r in place of a (.
 	2008-03-30    - Bugfix: J test in SUBR was misaligned.
