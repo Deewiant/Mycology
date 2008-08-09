@@ -37,7 +37,7 @@ k  >      v                                                                 >a  
 ^"ves "< >a"kcats no sruof 3 s"^                 >         v  >$$$$$            ;>"t 4 spmuj";v    >$$ a "stcelfer # k4 :DAB"v;" # k4"v
 >00g3-#^_^                  >            ">1#v # k["$$$$$$">a"^"$"k morf tfel snrut [k1 :DOOG">:#,_  vv    #      <   #      <"GOOD: "<
 ^$$$$$$$$$$  <                               >a"gnisrever ,eciwt tfel snrut [k1 :DAB"   #v #< ^#    ; v"BAD: 4k # does nothing and "<          >:#,_#;<     _,#! #:<     <
-v;       v             <         ;p_,#! #:< "BAD: 2k# jumps twice from #"avv#k2 $$_,#! #:<v vvv# k4^#<      >0a"stcelfer 5;;; k2 :DAB"         ^     
+v;       v             <         ;p_,#! #:< "BAD: 2k# jumps twice from #"avv#k2 $$_,#! #:<v vvv# k4^#<      >0a"stcelfer 5;;; k2 :DAB"         ^
 > ak47 k$>4-#^_00g1+00p^                  ^"GOOD: 2k# jumps twice from k"a< v             < >   ^     >:#,_#^2k ;;;55-|             #   " $
                                           ^ "BAD: 2k# jumps once from k"a  <#    >;#"hits #"a<>a"# spiks" #;                        ^  >" 5 setucexe 5;;; k2 :DAB" ^
 v;   >fkf#vn#v_a"skrow ti gnimussa :"v                         > a"89-egnuF ni secaps 39-egnuF :DAB"#;<               >5-#v_5-#v_a"ecirht 5 setucexe 5;;; k2 :DOOG"^
@@ -109,7 +109,7 @@ v#  /*:+1f\%*:+1; >   9>:#,_$.a,:f1+:*%0" si emit eht tahT"9>:#,_$\f1+:*/:f#;<>$
 >':,,:a\`#v_  >." :",,:a\`#v_  >.a,0" si kcats kcats eht fo ezis eht tahT"9>:#,_$:.a,:!#v_ >0" [ era sezis kcats eht tahT"9>:#,_$ > #;\.1-:#;_  a"mottob ot pot morf ]">:#,_v
 >:#v_$   ;>'0,^            >'0,^;   :#v_$                   :#v_$" llun",,,,,v         ;> #^;       x        0 -*aa   _,#! #:<   9"That the command-line arguments were: [ "< ;^#<
 v  >'",>:#,_' '",,2d*-01- x           >" llun",,,,,06a*-01- x >              >a'],,0a":era selbairav tnemnorivne eht tahT"9>:#,_$                                        #
->:#v_a".tcerroc eb ot deifirev yllaunam era smialc evoba eht taht tseB">:#,_$y1#vyv>>a"sehsup y1 tahw ot lauqe t'nsi y retfa kcats eht fo pot eht :DAB"97*k,@ 
+>:#v_a".tcerroc eb ot deifirev yllaunam era smialc evoba eht taht tseB">:#,_$y1#vyv>>a"sehsup y1 tahw ot lauqe t'nsi y retfa kcats eht fo pot eht :DAB"97*k,@
    >99>:#,_a,2a*-01-xv" work"<>"mialc y1 :DAB"5a*8+k,  @,k+1f"BAD: 1y reflects"a< >w0a"skrow y1 :DOOG">:#,_$$$$ 5y v >0a"skrow y5 :DOOG">:#,_$$$$$$$$dy-#v_>0a"skrow yd :DOOG"v
 v"f testing: assume"<>'=v>a's^^ "s = is implemented, 5y says = is unavailable"a_v#<>^@,k*54"BAD: 5y doesn't work"a<w# <v"x component of the IP's delta)"a< @,k+1*a7<  v_,#! #:<
 >"o dohtem mroftal"v^*48<^_,#! #:<"GOOD: 1y and 5y do not disagree about ="a0<_v#_^#                     \%2/8y1y5;> ^ >" eht hsup dluohs ti( krow t'nseod yd :DAB"^;n<
@@ -121,7 +121,7 @@ v"exist."a"If it d"<--v should be overwritten-->'E>:#,_   >{v                   
 >" dluohs dna ygolocyM fo trap si elif ehT"avv"ot reflect"a}<                               #>w w  0a")911 ,06( aV tcerroc dehsup i :DOO";  ;'G       >:#,_$9a*\88+ww^>"ehsup i :D"v
 v "BAD: opening 'mycorand.bf' with i failed"<>"n did i tub "v                               , >$$>^v"BAD: i should have pushed (90, 16) ";  ;"as Vb"a     n<       <<v_,#! #:<"GOO"<
 v "BAD: MycoRand was not loaded correctly,"                 <                               |      >:#,_$> #;7a*-05-  x                     ;                       $<
-:>v                                                                                         >0357**-a9+  x
+:>v                                                                                         >033d**-a9+ ':c19f*+p    x
 #"a
 ,Sv                    Hope the following isn't overwritten,                                            p6+1*36*-1*a62
 |u:                    or we hit an @ and exit
@@ -132,9 +132,9 @@ $c#                                                                            >
  s
  f
  u
- "#                                                                              >n}a"ed"v > 19f*+ p0d8*-2x >"mtocym ot gnitirw :FEDNU"                                09b* -6v
- ^"lly exited MycoRand. Rerun a few times to ensure ? works."a"GOOD: i works in text mo" < ^*4a p +*f91  c:<^"p"g +*f91 c".tmp with o failed"an<
-> >" ...pmt.0pmtocym gninepO">:#,_ "pmt.0pmtocym"#vina"...etirwrevo t'noW .dedeeccus">:#,_$c 19f*+ g1+:':-#^_$a"o tset t'nac ,seman elif yraro"  "pmet fo tuo nar :DAB"09b* -6x
+ "#                                                                              >n}a"ed"v > 19f*+ p0d8*-2x >"mtocym ot gnitirw :FEDNU"                     >          09b* -6v
+ ^"lly exited MycoRand. Rerun a few times to ensure ? works."a"GOOD: i works in text mo" < ^*4a p +*f91  c:<^"p"g +*f91 c".tmp with o failed"an<            ^p+*f91c:'<
+> >" ...pmt.0pmtocym gninepO">:#,_ "pmt.0pmtocym"#vina"...etirwrevo t'noW .dedeeccus">:#,_$c 19f*+ g1+:':-#^_$a"o tset t'nac ,seman elif yraro" "pmet fo tuo nar :DAB"^       x
 " pmt."c 19f*+ g"pmtocym ot etorW">:#,_a-:00"pmt"v>na"...o htiw ti ot etirw ot gniyrT"a".deliaf" >:#,_$ a6 00 0 0"pmt."c 19f*+ g"pmtocym"     #^oa"...i htiw kcab gnidaeR"a".o htiw"
                                                  >'.c 19f*+ g"pmtocym"#vina")01- ,01-( ot atad nettirw daer :DOOG">:#,_a-2+:1-g'@v>>a"@ eb dluohs )9- ,8-( :DAB"v
 x 3*5f"BAD: couldn't read mycotmp"g+*f91 c ".tmp to (-10, 10) with i"an<v"r') or 10 (0xa, '\n')"a_v#-3_v#;>:#,_0a-ga-:#;<        >w a"@ si )9- ,8-( :DOOG"      >:#,_a-:10"pmt."c 1v
@@ -485,10 +485,10 @@ n
  ^"EVAR"0<             >n"krow t'nseod G ro htap on :detcelfer G"'""HTAP"'"" :FEDNU"^       >na"stcelfer N :DAB";              v     "BAD: P reflects"an<              ;v
 v  v"'"foo""'"G didn't get ""'"bar""'an <<<  <  <  vGv#"foo"_,#! #:<"GOOD: put 'foo=bar' with P"an;>na"deliaf VN :DOOG"^        >n"deliaf V-1N :DAB";  P^#"foo=";^;"bar"<
    >" :DAB"           v                 | wr'wa'wb'<
-  v"GOOD: ""'"foo""'"G got ""'"bar""'a  <^<  <  <
-  >                   v  "BAD: ""'"foo""'"G failed"an<
-v  )g22g33,a   _,#! #:<                                                                                                        <
-n                                     v                                ;v0                             <;                                                                          <
+  v"GOOD: ""'"foo""'"G got ""'"bar""'a  <^<  <  <                                                                                                      >;>:#,_#;n                 v
+  >                   v  "BAD: ""'"foo""'"G failed"an<                                                     >"m deteled :DOOG"                            ^"BAD: D reflected " <   ;
+v  )g22g33,a   _,#! #:<                                                                                                        <         vDv#"mycotmp"_^#-:':g+*f91c".tmp"_,#! #:<
+n                                     v                                ;v0                             <   ^"ycotmp"g+*f91c".tmp with D"a< >na"pmt."c19f*+g"pmtocym gniteled" ^  ; <
 > 1a77**+v     >5a77**00"pmt.pmetocym"#vO0a"tnirpregnif tset t'now suht dna ti etirwrevo t'now ,gnidaer rof 'pmt.pmetocym' denepo O :DAB">:#,_$#vC"C htiw elif desolc :DOOG"       ^
  ^"FILE"0<  >$        v                >'m-#v_na")nosaer on rof 'm' na dehsup ro( dehcuotnu kcats eht gnivael detcelfer O :DAB"v                >n"C htiw elif esolc t'ndluoc :DAB"^
 v  )g22g33,,aa _,#! #:<              <<   <;>na"O htiw gnidaer rof 'pmt.pmetocym' nepo t'ndluoc :DOOG" #      >:#,_ >;# _,#! #:< ;$ 5a77**10"pmt.pmetocym"#vO0a"O htiw gnitirw r"v
@@ -500,24 +500,24 @@ v  )g22g33,,aa _,#! #:<              <<   <;>na"O htiw gnidaer rof 'pmt.pmetocym
    >"7 :DAB"                    #^               <        #<4^:                               v "BAD: G didn't read 'foo\n'"a0 <   ^  "BAD: G reflected"a0<<    >0a"htgnel enil "v'
    ^"R didn't read bar\nbaz"a0<< $< $< $<$< $< $<             ^       \<                      >  :#,_# $  ^       $<           ^<< <  <  < _ #!< $_,#! #:<  "BAD: G pushed wrong"<t
    v"GOOD: 7R read bar\nbaz"a0 wz'wa'wb'wawr'wa'wb'g\5\g\6:\g\7:\g\8:\g\9:\g\a:\g\b:**77aRv#7$_,#! #:<"GOOD: G read 'foo\n'"a0<| wawo'wo'wf'     $_,#! #:< "GOOD: G pushed correc"<
-   >:#,_$#vCna              v ^< $< $< $<$< $< $<#              ;               >$$;      >0a"detcelfer R7 :DABB"#;^          ^<^< <  <  <      ^     <    "BAD: 20S reflected"a<
-          >                                                     ^      ;                          ^ ;>$\".P htiw zabn\rabn\oof tuP">:#,_$#;<               ^ <                  0
-                            >"C htiw elif desolc :DOOG">:#,_n5a77**40"pmt.pmetocym"#vO0a"edom daer+etacnurt ni elif denepoer :DOOG">:#,_$7#vW0a".W htiw zabn\rab etorW">:#,_$20#^Sv
-                           v"BAD: couldn't reopen file in truncate+read mode"na     <                v[<<< <  <  < ^;#"BAD: 7W reflected"a0<          #^             ;v<; <  v-701<
-                           >                     ^     v< vGv#$_,#! #:<;#    "GOOD: G read 'bar\n'"a0< | wawr'wa'wb'  $_,#! #:<"GOOD: G pushed correct line length"a0  w4G^#<>#vSv
-               v "GOOD: G pushed correct line length"a0 w3< >;         ^"BAD: G didn't read 'bar\n'"a0]<^< <  <  <   v$_,#! #:< "BAD: G pushed wrong   line length"a0 << ;^ ^     <
-                v "BAD: G pushed wrong   line length"a0<<                                                     ^  _ #!<            >:#,_$             ;^"BAD: 107-S reflected"a0<; ^
-                >      >  >  >>>0a"'zab' daer t'ndid G :DAB"                                                           v          ^"Sought to beginning of file with 20S107-S."a0<
-               >:#,_$'bw'aw'zw |                             >0a"detcelfer G :DAB"   >;#  "BAD: 1R reflected"a0< ;     >;>0a"gnihtemos daer R1 :DAB"#;v      <
-                       >  >  >^>0a"'zab' daer G :DOOG">:#,_$#^G#v_#v_>0a"seorez 2 dehsup G :DOOG">:#,_5a77**p1#^R5a77**g#^_0a"gnihton daer R1 :DOOG"  >:#,_v
-                           v"BAD: G didn't push 2 zeroes"a0<       <                                                 v"BAD: couldn't close file with C"an< $
-v  )g22g33 ,a              >#                             ;^_ #!<;;#                                          _,#! #:<       "GOOD: closed file with C"aC^#<;^
+   >:#,_$#vCna              v ^< $< $< $<$< $< $<#              ;               >$$;      >0a"detcelfer R7 :DABB"#;^          ^<^< <  <  <      ^     <    "BAD: 20S reflected"a<;
+     "GO";>;"OD: deleted "<                                    ;^      ;                          ^ ;>$\".P htiw zabn\rabn\oof tuP">:#,_$#;<               ^ <                  0^
+ ;     >"tiw pmt.pmetocym"^ >"C htiw elif desolc :DOOG">:#,_n5a77**40"pmt.pmetocym"#vO0a"edom daer+etacnurt ni elif denepoer :DOOG">:#,_$7#vW0a".W htiw zabn\rab etorW">:#,_$20#^Sv
+ v"BAD: D reflected delet"<v"BAD: couldn't reopen file in truncate+read mode"na     <                v[<<< <  <  < ^;#"BAD: 7W reflected"a0<          #^             ;v<; <  v-701<
+ >:#,_v" >"t.pmetocym gni"^>                     ^     v< vGv#$_,#! #:<;#    "GOOD: G read 'bar\n'"a0< | wawr'wa'wb'  $_,#! #:<"GOOD: G pushed correct line length"a0  w4G^#<>#vSv
+ ;     h "     v "GOOD: G pushed correct line length"a0 w3< >;         ^"BAD: G didn't read 'bar\n'"a0]<^< <  <  <   v$_,#! #:< "BAD: G pushed wrong   line length"a0 << ;^ ^     <
+         m      v "BAD: G pushed wrong   line length"a0<<                                                     ^  _ #!<            >:#,_$             ;^"BAD: 107-S reflected"a0<; ^
+       D p      >      >  >  >>>0a"'zab' daer t'ndid G :DAB"                                                           v          ^"Sought to beginning of file with 20S107-S."a0<
+     > " "    v>:#,_$'bw'aw'zw |                             >0a"detcelfer G :DAB"   >;#  "BAD: 1R reflected"a0< ;     >;>0a"gnihtemos daer R1 :DAB"#;v      <
+      >a,n    v        >  >  >^>0a"'zab' daer G :DOOG">:#,_$#^G#v_#v_>0a"seorez 2 dehsup G :DOOG">:#,_5a77**p1#^R5a77**g#^_0a"gnihton daer R1 :DOOG"  >:#,_v                      ;
+     ^;^D^#"mycotemp.tmp"< v"BAD: G didn't push 2 zeroes"a0<       <                                                 v"BAD: couldn't close file with C"an< $                     ;<
+v  )g22g33 ,a <          ^ >#                             ;^_ #!<;;#                                          _,#! #:<       "GOOD: closed file with C"aC^#<;^
 n
 > 3888**+v     >b6#vA2-#v_a"2 si A6b :DOOG" >:#,_93#vOb-#v_a"11 si O39 :DOOG" >:#,_c6#vXa-#v_a"01 si X6c :DOOG" >:#,_v
  ^"FIXP"0<         >    na"stcelfer A :DAB" ^       >    na"stcelfer O :DAB"  ^       >    na"stcelfer X :DAB"  ^
 v              v;       >a"2 t'nsi A6b :DAB"^            >a"11 t'nsi O39 :DAB"^            >a"01 t'nsi X6c :DAB"^   ;<
                                       >        v                                                               >        v
-                                           v0<                                                                      v < 
+                                           v0<                                                                      v <
                >aaaa57*****:#vC:88844****:00pw$>0a"1918.0 ro 2918.0 si )53(soc syas C :DOOG">:#,_$:#vI:c25d92**+**:00pw$>0a"5375.0 ro 6375.0 si )53(nis syas I :DOOG">:#,_$#vTv
                              >naaaa57*# ****  0a"stcelfer C :DAB"                           ^       >naaaa57***# **    0a"stcelfer I :DAB"                           ^
                                     >      0$> a"1918.0 ro 2918.0 t'nsi )53(soc syas C :DAB"^                >      0$> a"5375.0 ro 6375.0 t'nsi )53(nis syas I :DAB"^
