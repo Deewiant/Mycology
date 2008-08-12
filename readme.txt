@@ -20,12 +20,17 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2008-08-11    - Removed PNTR (the same as INDV), it wasn't meant to exist any
+	                more.
+	2008-08-09    - The new addition to the FILE fingerprint, D, is now tested.
+	              - Using it, created .tmp files can now be removed from within
+	                Mycology.
 	2008-07-26    - Thanks to Arvid Norlander, Chris Pressey, and Mike Riley,
 	                none of k is UNDEF any longer, and some tests were changed
 	                to reflect the intended behaviour.
 	              - Expanded the null byte test.
 	              - Bugfix: in SOCK, the original socket should /not/ be
-	              	 destroyed: flipped a GOOD and BAD.
+	                destroyed: flipped a GOOD and BAD.
 	2008-07-19    - Now testing whether null bytes are handled correctly.
 	2008-05-02    - Bugfix: mycouser.b98 had a forgotten r in place of a (.
 	2008-03-30    - Bugfix: J test in SUBR was misaligned.
@@ -71,6 +76,11 @@ Files with the .bf extension are valid Befunge-93 source code, while *.b98 are
 intended for Befunge-98 interpreters. mycology.b98 and mycouser.b98 are
 exceptions: they work in both standards - if the standards are implemented
 correctly.
+
+Note for Befunge-93: mycology.b98 is much bigger than the 80x25 allowed in
+Befunge-93. If your interpreter bails out on a file bigger than the maximum
+allowed, you can simply take the 80x25 square starting at the top left corner of
+mycology.b98 into a separate file and use that for testing.
 
 In order to test the absolute basics of the interpreter, feed it the file
 sanity.bf. This tests that the IP (instruction pointer) begins at the correct
