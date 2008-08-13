@@ -20,6 +20,9 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2008-08-13    - I had managed to get the way y should work as a pick
+	                instruction completely wrong. Thanks to Johannes Laire for
+	                noticing this and notifying me.
 	2008-08-11    - Removed PNTR (the same as INDV), it wasn't meant to exist any
 	                more.
 	2008-08-09    - The new addition to the FILE fingerprint, D, is now tested.
