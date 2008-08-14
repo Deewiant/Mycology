@@ -20,6 +20,7 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2008-08-14    - New fingerprint: DATE.
 	2008-08-13    - I had managed to get the way y should work as a pick
 	                instruction completely wrong. Thanks to Johannes Laire for
 	                noticing this and notifying me.

@@ -98,11 +98,11 @@ v92<  v"ter than "<^$_,#! #:<"BAD: a"<v"ndprint is "0<^9"That"<v_,#! #:<"dim"<>'
 v >;#$_,#! #:<"BAD: should be 2, or we wouldn't have got this far"a0<;>0" si PI tnerruc eht fo DI eht tahT"9>:#,_\.a," si PI tnerruc eht"             ""
 >" fo rebmun maet eht tahT"9>:#,_$.a,0" ( saw PI eht fo noitisop eht tahT"9>:#,_$\:.\:.a'),, ; vx2-20<>#< v;9a*1-038*-0x                              aa
 #                                                            ;>$#;                           ;vw>    ^w>^;                v#                         <^^
-v                   $_,#! #:<"BAD: the position should have been ( 64 89 )"a0                $<>88*   ^   >            ;v< ;
->0" ( saw PI eht fo atled eht tahT"9>:#,_$\:.\:.a'),,#v_1+#v_;^"BAD: should have been ( 180 765 )"a0                   $< #;v>a*a9v                                      >        v
+v                   @_,#! #:<"BAD: the position should have been ( 64 89 )"a0                $<>88*   ^   >            ;v< ;
+>0" ( saw PI eht fo atled eht tahT"9>:#,_$\:.\:.a'),,#v_1+#v_;^"BAD: should have been ( 180 791 )"a0                   $< #;v>a*a9v                                      >        v
 0" ( saw PI eht fo tesffo eht tahT"9>:#,_$\:.\:.a'),,v>$   >               0a") 0 1- ( neeb evah dluohs atled eht :DAB">:#,_>a$  #+
 >#;"BAD: the offset should have been ( 0 0 )"a0      >#<_#<_v$_,#! #:<;# <       >9>:#,_$\:.\:.a'),,v         >$    >   :^>v ^/**<*
-  9"That the least point containing a non-space cell is ( "0<> #;"rg eht tahT";<;^v"h is "0%**884:<;> 'U9*    w495**w   #;<>:#,_v8+          >" tsael ta eb dluohs :DAB">:#,_$ $1v v
+  9"That the least point containing a non-space cell is ( "0<> #;"rg eht tahT";<;^v"h is "0%**884:<;> 'q7*    w495**w   #;<>:#,_v8+          >" tsael ta eb dluohs :DAB">:#,_$ $1v v
   \:.\:.a'),,1+#v_1+#v_> #;0" ( si ,tniop taht ot evitaler ,tniop tsetae"   ;<;^  >"tnom eht fo "v^          <>$    >   ^v     $<80    v ,0'<^"1, assuming 1"a0          #     <  >
                ;>;v;$>0a") 1- 1- ( neeb evah dluohs tniop tsael :DAB">:#,_$  ^v_,#! #:<9"That t";>"yad eh"#;<^           < >$.a,4^>" si raey eht tahT"
 v#  /*:+1f\%*:+1; >   9>:#,_$.a,:f1+:*%0" si emit eht tahT"9>:#,_$\f1+:*/:f#;<>$.a,884**/:884**%0" si htnom eht tahT"9>:#,_^     >;# '.<   _^#`9:;#<
@@ -212,20 +212,20 @@ v;      >$"ettime eb lliw )hcus sa dekram ton hguoht ,FEDNU ti redisnoc( enil A"
      x -10*bb _v# !- _ #;\884***+1#;<x0-+6a0!:g14 _ #;\884***+1#;<x0-+6a0!:g13 _ #;\884***+1#;<x0-+6a0!:g12 g11 _v#!-1g22g33 <
   stack is [y, fingerprint]   zero out storage      print fingerprint and store it       v"BAD: ( did not push 1"0<
 n              >$0"tnirpregnif tcerroc hsup ton did ( :DAB"                              >a,>:#,_a,@                  try loading fingerprint,
-> e2aa**+v     >#vA;>29*e2aa**+g:'Z-!#v_1+29*e2aa**+pv;29*e2aa**+g" :DAB",,,,,,"tcelfer ton did "v                    if succeeded store what ( pushed and go to (15, y)
+> ay     v     >#vA;>29*e2aa**+g:'Z-!#v_1+29*e2aa**+pv;29*e2aa**+g" :DAB",,,,,,"tcelfer ton did "v                    if succeeded store what ( pushed and go to (15, y)
  ^"NULL"0<     ^ >  ^                 >#            #<$             a"detcelfer Z-A fo lla :DOOG"v                    but first check that ( pushed correctly (that messy line)
 v  )g22g33                                                                             ,a$_,#! #:<                    else go to (0, y+2)
 
                                                                                    >0a"M retfa detcelfer T :DAB" >#;v
 n                >na"stcelfer G :DAB";   >0a"detcelfer TTM :DAB"a                    #;>:#,_ 08b*- 4x4 -*b80 _,#! #:<;#"BAD: S reflects"a0<   ;<<     "BAD: M reflects"a0<
->  2ab** v     >#^G0" sa ytiralunarg kcolc sevig G :FEDNU">:#,_$.0a"sdnocesorcim">:#,_$#vT0a"M erofeb dellac nehw detcelfer evah dluohs T :DAB"^$
+> ay     v     >#^G0" sa ytiralunarg kcolc sevig G :FEDNU">:#,_$.0a"sdnocesorcim">:#,_$#vT0a"M erofeb dellac nehw detcelfer evah dluohs T :DAB"^$
  ^"HRTI"0<                           v nyk*ff.$_,#! #:<"UNDEF: T after M pushed "0T^#  ;>  a"M erofeb dellac nehw detcelfer T :DOOG">:#,_#^S0" dehsup S :FEDNU">:#,_$.a,#^M#;<
 v                                    >#vT 0" dehsup ,nyk*ff retfa ,T dnoces a dna">:#,_$.a,#vE #vT0a"tcelfer t'nseod TE :DAB"                   ^
 v )g22g33,a <                         ;>n^;                  $_,#! #:<"GOOD: ET reflected"a0># #<0a"stcelfer E :DAB"                            ^
                                                                  v
                                                                H >0a"tsaehtron seog v< >H retfa ^ :DAB"v             vv  $_,#! #:<H"GOOD: |_ seem to work in hovermode"av
 n                                                            >0a"pu thgiarts seog v< >H retfa ^ :DAB"  v            _0a"thgir seog _0H :DAB"      v"BAD: H1_ goes left"a0_  >"domh"v
-> 72ab**+vvv;>#v#vH   >v   v<     #; #<                     vHH             v   "BAD: H1| goes straight up"a0      <0 ' " v>#                 #<v#                       <  ev"itc"<
+> ay     vvv;>#v#vH   >v   v<     #; #<                     vHH             v   "BAD: H1| goes straight up"a0      <0 ' " v>#                 #<v#                       <  ev"itc"<
  ^"MODE"0<>      >0a"stcelfer H :DAB" ^              >:#,_$vH^a"edomrevoh ni krow ot mees v^<> :DOOG" H >:#,_ H |  H< :  ^;^"BAD: S reflects"a0<>:#,_$v;               1^   '>"ws "v
 v  v;>$a,    ^ >":edo"v>0a H"nwod seog v>H :DAB"     ^      >0a"nwod seog v< >H :DAB"                  v        H^1|  >"edomhctiwS">:#,_$     #^S  ] ;<           > vv     <av" in"<
      ^_,#! #:<"Hoverm"< H H>0a"nwod seog <v  >H :DAB"^                      <                          <;       >0a"nwod thgiarts seog |0H :DAB"#;<[773**:4ff*+g'[w5ff*+g']w^>"kro"v
@@ -287,13 +287,13 @@ v )g22g33 ,a                                                                 <  
    n}:   [ [] ]
 
 n                                        >v                 >                                                                 v  ;>    >na"2 hsup t'nseod R-40a :DAB"#;<
-> a7+:*  v     >a04-#vM          #v #;02-w a"2- sehsup M-40a :DOOG"       >:#,_$a04-#vR0a"...denifednu eb ot desu ti ,C 99C ot srefer "           '""redniamer regetni egau"v;" pu"<
+> ay     v     >a04-#vM          #v #;02-w a"2- sehsup M-40a :DOOG"       >:#,_$a04-#vR0a"...denifednu eb ot desu ti ,C 99C ot srefer "           '""redniamer regetni egau"v;" pu"<
  ^"MODU"0<         vn]a"stcelfer M :DAB";>>a"2- hsup t'nseod M-40a :DAB"#;^          >na"stcelfer R :DAB"#v       #<          > >:#,_vvw2$_,#! #:<"Assuming that ""'"C-lang"< >'h's^
 v                  > ^            >"t'nseod R-40-a0 :DAB"   ^          v"BAD: ";#"0a-04-U doesn't push 2"a<;"U reflects"    an< ^;^    <;          "GOOD: 0a-04-R pushes -2"a<^ '-'<
 v )g22g33 ,a                                                   $_,#! #:<                 "GOOD: 0a-04-U pushes 2"a_^#!-2     U^#-40-a<>a"2 sehsup R-40a :DOOG">:#,_a-04-R2+!#^_a'2 ^
 
 n                                                                                                                     >2b*0G-;                      >    v"BAD: G gets like g";# #<v
-> 3aa**5-v     >56#vA     4-#v_a"4 sehsup A65 :DOOG"     >:#,_$56#vE     3-#v_a"3 sehsup E65 :DOOG"     >:#,_$56#vO;  ^;7-#v_a"7 sehsup O65 :DOOG" >   >:#,_2b*g2b*0g2b*0#vG-#;_na^
+> ay     v     >56#vA     4-#v_a"4 sehsup A65 :DOOG"     >:#,_$56#vE     3-#v_a"3 sehsup E65 :DOOG"     >:#,_$56#vO;  ^;7-#v_a"7 sehsup O65 :DOOG" >   >:#,_2b*g2b*0g2b*0#vG-#;_na^
  ^"ORTH"0<         >na"stcelfer A :DAB"                  ^        >na"stcelfer E :DAB"                  ^        >na"stcelfer O :DAB"              ^^B' "AD: G reflects"an<        v
 v                            >$a"4 hsup t'nseod A65 :DAB"^                  >$a"3 hsup t'nseod E65 :DAB"^                  >$a"7 hsup t'nseod O65 :DAB"^>>:#,_v#"GGOOD: G works"a[_]
               v                                                            "BAD: S reflects"an<                v                    "BAD: P reflects"an<^"BAD:   G doesn't work"a] <
@@ -314,7 +314,7 @@ v                            >$a"4 hsup t'nseod A65 :DAB"^                  >$a"
          >:#,_v#:     "GOOD: W changes dy correctly"a<^<<<<<<<<<<<<<<<<<<<<<<<<<^^^^^^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<x-90-+*aa60<
 v <           >                         #vZv a"spmar Z0 :DOOG"      >:#,_1Zv a"spmar Z1 :DAB"        v
 n ^)g22g33,a;#_,#! #:<"BAD: Z reflects"an< >na"pmar t'nseod Z0 :DAB"^      >na"pmar t'nseod Z1 :DOOG">:#,_#;<
-> 8a*1-4*v     >#vS0"si lreP taht smialc S :FEDNU">:#,_$:#v_    $ ' , >a"dedaol ydaerla">:#,_$:#v_                                           $>10"1-5"#vE                     v
+> ay     v     >#vS0"si lreP taht smialc S :FEDNU">:#,_$:#v_    $ ' , >a"dedaol ydaerla">:#,_$:#v_                                           $>10"1-5"#vE                     v
  ^"PERL"0<       >0a"stcelfer S :DAB"               ;v << :>" t'n",,,,^;                ^     v;>0" dehsup S :DAB">:#,_$.a"1 fo daetsni">:#,_$^        >0a"stcelfer E :DAB"#;<
 v    > ]na"detanimret-orez neeb evah t'ndluohs t"v>;#<$ w1<^0;# <v"erl, or then it should be";>:#,_;" 52, the ASCII value of 4."a0,a.$_,#! #:<"UNDEF: 0""'"5-1""'" E pushed "0<;v
                                        v "BAD: i"<     ^<        >"P dnuof gnivah ton rof edoc rorre )deifignirts( eht eb dluoc ti os ,dellatsni eb ton thgim lreP">:#,_$#v_v   $
@@ -322,7 +322,7 @@ v    > ]na"detanimret-orez neeb evah t'ndluohs t"v>;#<$ w1<^0;# <v"erl, or then 
   >$#^_[;                              >:#,_#;nv                                                  >0a"stcelfer I :DAB"#;<
 v  )g22g33 ,a                                  <
 n                                                                                                      >v
->  994** v     >12#vR34#vR56#vR0" [ sralacs eht dehsup R65R43R21 :FEDNU">:#,_0p\:.\:.00g.a'],,:01p\:01gw    ;>v>#;   >0a"tnereffid eb dluohs eerht lla :DAB">:#,_$v>>$>0a"rotcev t"v
+> ay     v     >12#vR34#vR56#vR0" [ sralacs eht dehsup R65R43R21 :FEDNU">:#,_0p\:.\:.00g.a'],,:01p\:01gw    ;>v>#;   >0a"tnereffid eb dluohs eerht lla :DAB">:#,_$v>>$>0a"rotcev t"v
  ^"REFC"0<         >    >    >0a"stcelfer R :DAB"                                                     ;>>\00gw ^   > :>#vD                                 ;^;     2w1wvv"ong firs"<
 v  )g22g33 ,a                                                           <                                   ;>>:00gw ^: >0a"stcelfer D :DAB"                ^;    <#>$v#>"rw denru"v
                 v"BAD: D returned wrong third vector"a0<<$<           v"BAD: D returned wrong second vector"a0<<$< >  ^              v                          B';^  <;"AD: D ret"<
@@ -331,12 +331,12 @@ v  )g22g33 ,a                                                           <       
       >2w1w 0a"emit dnoces eht rotcev tsrif denruter D :DOOG"     >:#,_n^
         >$>>0a"emit dnoces eht rotcev tsrif gnorw denruter D :DAB"^
 n                                                                                                                                      v <
-> 973a*+*v     >100p>#vI                               :00g-#v_0" sehsup "da+973a*+*g" :DOOG">:#,_$.                    >a,da+973a*+*g:'Lw$  #L aa*'Cv
+> ay     v     >100p>#vI                               :00g-#v_0" sehsup "da+973a*+*g" :DOOG">:#,_$.                    >a,da+973a*+*g:'Lw$  #L aa*'Cv
  ^"ROMA"0<            >0astcelfer "da+973a*+*g" :DAB">:#,_n; >0" sehsup "da+973a*+*g" :DAB">:#,_$." fo daetsni">:#,_g.#;^  vV'    5 I#<D    >#M n      v                  >":DAB" v
 v                   ^                                                                                      p00p*+*a379+ad;#<M'**aaa D#w< >'Vw#V a'X#;<                    ^" I ref"<
 v  )g22g33 ,a                                                                                                             ;^D'**5aa C#<     >#X 5a*'L^;<                  >n"stcel"^
 n                                                                          v                        <
->  2dd** v     >32#vA 3-#v_3-#v_   3-!#v_"skrow A :DOOG">:#,_a,$     f12#vB>0" [ sa kcats sevael B21 :FEDNU">:#,_$>:f-#v_$a")mottob ot pot morf( ]">:#,_n3#vDDD#v_"orez si DDD3 :D"v
+> ay     v     >32#vA 3-#v_3-#v_   3-!#v_"skrow A :DOOG">:#,_a,$     f12#vB>0" [ sa kcats sevael B21 :FEDNU">:#,_$>:f-#v_$a")mottob ot pot morf( ]">:#,_n3#vDDD#v_"orez si DDD3 :D"v
  ^"TOYS"0<         >n"stcelfer A :DAB"                  ^"BBAD: 32A did"<>0a"stcelfer B :DAB">:#,_$ ^             ^   .<             >;#<"BAD: D reflects"n<  ;> :#,_v_,#! #:<"GOO"<
 v                        >$   >        >n"seerht owt sa kcats evael t'n"^      v                       "BAD: E reflects" an<            ^"BAD: 3DDD isn't zero"n<    >na,#^IIDD#v_ v
   v1*880Nv#-1*288$,a_,#! #:<"GOOD: 112345P is 120"n_v#!- *ac Pv#543211 n_,#! #:<  "GOOD: 123456789abcdefE is 120"a_v#!-*acE^#fedcba987654321,a$_,#! #:<;#"BAD: IIDD isn't zero"n<;<
@@ -441,7 +441,7 @@ v                        >$   >        >n"seerht owt sa kcats evael t'n"^      v
           >"noitucexe retfa evom t'nseod X :DAB"^      >a"noitucexe retfa evom t'nseod Y :DAB"^
 v  )g22g33 ,a                                                                                                                                         <
 n                              v ,a_,#! #:<"Cannot test TURT's drawing correctness in any way, both due to technical reasons and the fact that the precise results are undefined."a<
-> 385b**+v     >".rehto hcae ot tnecajda yllanogaid stod owt niatnoc dluohs egami gnitluser ehT"a".yltcerroc hsup/pop dna tcelfer t'nod snoitcurtsni eht taht ylno eb lliw dekcehC"^
+> ay     v     >".rehto hcae ot tnecajda yllanogaid stod owt niatnoc dluohs egami gnitluser ehT"a".yltcerroc hsup/pop dna tcelfer t'nod snoitcurtsni eht taht ylno eb lliw dekcehC"^
  ^"TURT"0<     v;LRHFBPCN;     <                     >na"pop ton seod "00g98++485b**+g" :DAB"   v                      >na"pop ton seod D :DAB"    v              >     >na       v
 v              >p>00g98++485b**+g 86*585b**+p1#v 1-!#^_a"yltcerroc spop "00g98++485b**+g" :DOOG">:#,_00g:7-#v_$1#vD1-!#^_Da"yltcerroc spop D :DOOG">:#,_ 11#vT1-!#^_1-!#^_a"yltc"v
                  ^;                            >na"stcelfer "00g98++485b**+g" :DAB"             ^     ;p00+1<    >na"stcelfer D :DAB"              ^        >na"stcelfer T :DAB"v
@@ -453,11 +453,11 @@ v              >p>00g98++485b**+g 86*585b**+p1#v 1-!#^_a"yltcerroc spop "00g98++
           >       ^
 v  )g22g33,a                                                                                                                                                              <
 n
-> 57d**0v >0p #v" sa 04 stuptuo B :FEDNU">:#,_g#vBa,>" sa 04 stuptuo H :FEDNU">:#,_g#vHa,>" sa 04 stuptuo O :FEDNU">:#,_g#vOa,>p" esab ni 04 stuptuo N :FEDNU">:#,_g." sa",,,4a*00gv
+> ay   0v >0p #v" sa 04 stuptuo B :FEDNU">:#,_g#vBa,>" sa 04 stuptuo H :FEDNU">:#,_g#vHa,>" sa 04 stuptuo O :FEDNU">:#,_g#vOa,>p" esab ni 04 stuptuo N :FEDNU">:#,_g." sa",,,4a*00gv
  ^"BASE"< ^0*a4<v"never mind, BAD: B reflects"an<    v"never mind, BAD: H reflects"an<    v"never mind, BAD: O reflects"an<   ^  00+1_v#-*4a:gn,a      ;>:#,_#;<                Nv#<
 v  )g22g33,a   ;>:#,_                               ^>:#,_                               ^>:#,_                               ^      ;<                 ^"nothing: it reflected"n<
 n
-> 3998+**v     v        > >>na"A ot gnidrocca )i6+4 ( t'nsi )i4+3( + )i2+1 ( :DAB"v            > >>na"S ot gnidrocca )i3+1 ( t'nsi )i +2( - )i4+3 ( :DAB"v
+> ay     v     v        > >>na"A ot gnidrocca )i6+4 ( t'nsi )i4+3( + )i2+1 ( :DAB"v            > >>na"S ot gnidrocca )i3+1 ( t'nsi )i +2( - )i4+3 ( :DAB"v
  ^"CPLI"0<     >1234#vA6w4w  a"A ot gnidrocca )i6+4 ( si )i4+3( + )i2+1 ( :DOOG"  >:#,_3421#vS3w1w  a"S ot gnidrocca )i3+1 ( si )i +2( - )i4+3 ( :DOOG"  >:#,_v
 v                       > >^                                                                   > >^
                      >na"stcelfer A :DAB"                                         ^         >na"stcelfer S :DAB"                                         ^
@@ -469,8 +469,34 @@ v                       > >^                                                    
                 ^ "BAD: 34V isn't 5"a $<>wa"5 si V43 :DOOG">:#,_" stuptuo Oba :FEDNU">:#,_ab#^O                                >a, " stuptuo Ob-a0 :FEDNU">:#,_0a-b #^Ov
 v  )g22g33,,aa;>:#,_#;<                    Ov#-b0-a0_,#! #:<"UNDEF: 0a-0b-O outputs ",a<Ov#-b0a_,#! #:<"UNDEF: a0b-O outputs " ,<                                     a<
                ^"nothing, BAD: O reflected"n<                                          ^;>n"detcelfer O :DAB ,gnihton">:#,_#;<
+n
+> ay     v     >"údd"**#vC' 1--#v_8-#v_"4)"*-#v_a"0000052 nevig ]13,80,1312[ dehsup C :DOOG"     >:#,_b"p 1"v >  #vC1-#v_4-#v_"ce"*+#v_a"4450391- nevig ]10,40,9999-[ dehsup "    v
+ ^"DATE"0<              >       na      "0000052 nevig stcelfer C :DAB"                          ^         v** <  >    na      "4450391- nevig stcelfer"                           v
+v                               >a      "0000052 nevig htnom fo yad rof 13 hsup dluohs C :DAB"   ^          >1-^       >a      "4450391- nevig htnom fo yad rof 1 hsup dluohs"     v
+                                     >na"0000052 nevig htnom rof 8 hsup dluohs C :DAB"           ^         >  ^             >na"4450391- nevig htnom rof 4 hsup dluohs"            v
+                                              >na"0000052 nevig raey rof 2312 hsup dluohs C :DAB"^                                   >na"4450391- nevig raey rof 9999- hsup dluohs"v
+          vJv#+9*a22-+**d'a21,a_,#! #:<"BAD: J doesn't reflect given [0,0,0]"nJv#_,#! #:<    "GOOD: J pushes 98645 given [-4444,12,24]"a_v#!-**"mµ"5Jv#+ccc-*"e,"_,#! #:< "BAD: C "<
+                                      ^      "GOOD: J reflects given [0,0,0]"  <        ^                     "BAD: J reflects given [-4444,12,24]"an<                  ^"GOOD: C"<
+                        >na"]92,2,1002-[ nevig 436099 hsup dluohs J :DAB"v              ^"BAD: J should push 98645 given [-4444,12,24]"an<
+            >na"]92,2,1002-[ nevig stcelfer J :DAB"                      v                 >na"]92,2,7777-[ nevig stcelfer J :DAB"                         v
+          >"À<"*1-'V*- #^_a"]92,2,1002-[ nevig 436099 sehsup J :DOOG"    >:#,_"Me"*-292a*+#^J'""°»"v>$+#v_a"]92,2,7777-[ nevig 7009111- sehsup J :DOOG"    >:#,_'û8*41048*-  #vAv
+                                                                                                  >*1- v>na"]92,2,7777-[ nevig 7009111- hsup dluohs J :DAB"^                  n
+    v"the number of days from 2008-04-01 to 2008-02-29 is not -32"<                               ^<^v#<                                                     "BAD: A reflects"<
+                      v                 "BAD: D reflects"         n       <                          v "BAD: A claims 2008-04-01 minus 32 days is not 2008-02-29"n<<    < <
+   v "ms the number of days from 2008-04-01 to 2008-02-29 is -32"_^#!+*48D^#+*a292*8û'14*8û',a_,#! #:<"GOOD: A claims 2008-04-01 minus 32 days is     2008-02-29"  w*8û'w2w+*a29<
+    >" smialc D :DAB" >:#,_a,'û8*'I5*#vTff1++-#v_c-#v_'û8*-#v_a"13-21-8002    si 8002 fo yad ht663 eht smialc T :DOOG"v                                           ^<    < <
+   >"ialc D :DOOG"    ^               >                     na"stcelfer T :DAB"                                       >:#,_'û8*'È2*#vTn"02 fo 004 yad nevig tcelfer t'nseod T :DAB"v
+                                               >    >       >a"13-21-8002 ton si 8002 fo yad ht663 eht smialc T :DAB" ^             >n"02 fo 004 yad nevig stcelfer T :DOOG"       v
+     vYv#11_,#! #:<"GOOD: Y claims 2008-08-14 was     the 227th day of the year"a_v#-ã'Yv#e8*8û'_,#! #:<  "GOOD: W claims 2008-08-14 was a Thursday"a_v#!-3Wv#e8*8û',,,"08"a_,#! #:<
+                  ^                                 "BAD: Y reflects given 2008-08-14"an<             >^                                 "BAD: W reflects"an<
+                  ^ "BAD: Y claims 2008-08-14 was not the 227th day of the year"an<                   ^"BAD: W claims 2008-08-14 was not a Thursday"an<
+       >na"]1,1,0[ nevig stcelfer Y :DOOG"    >:#,_1\1#vYna"]1,0,1[ nevig tcelfer t'nseod Y :DAB"v         >na"]0,1,1[ nevig stcelfer Y :DOOG"       >:#,_'û8*f1#vYv
+     >na"]1,1,0[ nevig tcelfer t'nseod Y :DAB"^        >na"]1,0,1[ nevig stcelfer Y :DOOG"       >:#,_1\1\#^Yna"]0,1,1[ nevig tcelfer t'nseod Y :DAB"^            
+                                                       v"BAD: Y doesn't reflect given [2008,1,32]"anYv#*841*8û'_,#! #:<    "GOOD: Y reflects given [2008,15,1]"an<
+v  )g22g33,a                                    _,#! #:<      "GOOD: Y reflects given [2008,1,32]"an <                ^"BAD: Y doesn't reflect given [2008,15,1]"an<
+
 n                            v             n<
-> 86a*1-*v     >"fridocym"#vC>a"C htiw yrotcerid 'fridocym' deretne :DOOG">:#,_".." #vCa"'..' ot C a htiw 'fridocym' tfel :DOOG">:#,_"fridocym"#vR"fridocym"     #vCv
+> ay     v     >"fridocym"#vC>a"C htiw yrotcerid 'fridocym' deretne :DOOG">:#,_".." #vCa"'..' ot C a htiw 'fridocym' tfel :DOOG">:#,_"fridocym"#vR"fridocym"     #vCv
  ^"DIRF"0<               v;>na"tsixe t'nseod yrotcerid 'fridocym' eht ro krow t'nseod C rehtie :FEDNU">:#,_"fridocym"#vMa"M htiw 'fridocym' detaerc :DOOG">:#,_#;<
 v                        >"fridocym"#vC     ^                                        >na"'fridocym' morf '..' ot C t'ndluoc"v                               <
                                                                  >;#"couldn't create 'mycodirf' with M, nor C to it"an<;    >" :DAB">:#,_       #                    v
@@ -481,7 +507,7 @@ v                        >"fridocym"#vC     ^                                   
                >a".R htiw 'fridocym' devomeR">:#,_v                                                                                                                  <
 v  )g22g33,a                                      <
 n
-> 37f8+**v     >"HTAP"#vG" dehsup dna dekrow G"'""HTAP"'"" :FEDNU"                  >:#,_a,#vN    #vVna"dekrow VN :DAB">:#,_N1-#vV" dehsup dna dekrow V-1N :DOOG">:#,_a,v
+> ay     v     >"HTAP"#vG" dehsup dna dekrow G"'""HTAP"'"" :FEDNU"                  >:#,_a,#vN    #vVna"dekrow VN :DAB">:#,_N1-#vV" dehsup dna dekrow V-1N :DOOG">:#,_a,v
  ^"EVAR"0<             >n"krow t'nseod G ro htap on :detcelfer G"'""HTAP"'"" :FEDNU"^       >na"stcelfer N :DAB";              v     "BAD: P reflects"an<              ;v
 v  v"'"foo""'"G didn't get ""'"bar""'an <<<  <  <  vGv#"foo"_,#! #:<"GOOD: put 'foo=bar' with P"an;>na"deliaf VN :DOOG"^        >n"deliaf V-1N :DAB";  P^#"foo=";^;"bar"<
    >" :DAB"           v                 | wr'wa'wb'<
@@ -489,7 +515,7 @@ v  v"'"foo""'"G didn't get ""'"bar""'an <<<  <  <  vGv#"foo"_,#! #:<"GOOD: put '
   >                   v  "BAD: ""'"foo""'"G failed"an<                                                     >"m deteled :DOOG"                            ^"BAD: D reflected " <   ;
 v  )g22g33,a   _,#! #:<                                                                                                        <         vDv#"mycotmp"_^#-:':g+*f91c".tmp"_,#! #:<
 n                                     v                                ;v0                             <   ^"ycotmp"g+*f91c".tmp with D"a< >na"pmt."c19f*+g"pmtocym gniteled" ^  ; <
-> 1a77**+v     >5a77**00"pmt.pmetocym"#vO0a"tnirpregnif tset t'now suht dna ti etirwrevo t'now ,gnidaer rof 'pmt.pmetocym' denepo O :DAB">:#,_$#vC"C htiw elif desolc :DOOG"       ^
+> ay     v     >5a77**00"pmt.pmetocym"#vO0a"tnirpregnif tset t'now suht dna ti etirwrevo t'now ,gnidaer rof 'pmt.pmetocym' denepo O :DAB">:#,_$#vC"C htiw elif desolc :DOOG"       ^
  ^"FILE"0<  >$        v                >'m-#v_na")nosaer on rof 'm' na dehsup ro( dehcuotnu kcats eht gnivael detcelfer O :DAB"v                >n"C htiw elif esolc t'ndluoc :DAB"^
 v  )g22g33,,aa _,#! #:<              <<   <;>na"O htiw gnidaer rof 'pmt.pmetocym' nepo t'ndluoc :DOOG" #      >:#,_ >;# _,#! #:< ;$ 5a77**10"pmt.pmetocym"#vO0a"O htiw gnitirw r"v
    v     <  ^"GOOD: C worked"Cv#$_,#! #:<;^;                ;#< v     <;<         "BAD: P reflected"a0<^  "BAD: couldn't open 'mycotemp.tmp' for writing"an<v"d mycotemp.tmp' fo"<
@@ -513,7 +539,7 @@ v  )g22g33,,aa _,#! #:<              <<   <;>na"O htiw gnidaer rof 'pmt.pmetocym
      ^;^D^#"mycotemp.tmp"< v"BAD: G didn't push 2 zeroes"a0<       <                                                 v"BAD: couldn't close file with C"an< $                     ;<
 v  )g22g33 ,a <          ^ >#                             ;^_ #!<;;#                                          _,#! #:<       "GOOD: closed file with C"aC^#<;^
 n
-> 3888**+v     >b6#vA2-#v_a"2 si A6b :DOOG" >:#,_93#vOb-#v_a"11 si O39 :DOOG" >:#,_c6#vXa-#v_a"01 si X6c :DOOG" >:#,_v
+> ay     v     >b6#vA2-#v_a"2 si A6b :DOOG" >:#,_93#vOb-#v_a"11 si O39 :DOOG" >:#,_c6#vXa-#v_a"01 si X6c :DOOG" >:#,_v
  ^"FIXP"0<         >    na"stcelfer A :DAB" ^       >    na"stcelfer O :DAB"  ^       >    na"stcelfer X :DAB"  ^
 v              v;       >a"2 t'nsi A6b :DAB"^            >a"11 t'nsi O39 :DAB"^            >a"01 t'nsi X6c :DAB"^   ;<
                                       >        v                                                               >        v
@@ -550,7 +576,7 @@ v              v;       >a"2 t'nsi A6b :DAB"^            >a"11 t'nsi O39 :DAB"^ 
 v  )g22g33 ,a        <,a.$_,#! #:<"UNDEF: 00R pushes "0Rv#_,#! #:< "GOOD: 02-0R is 1"a_^#!-1Rv#0-2_,#! #:< "GOOD: 20R is 1"a_^#!-1Rv#02<,a.$_,#! #:<"UNDEF: 002-R pushes "0Rv#-2<
                      ^   _,#! #:<"UNDEF: 00R reflects"an<        ^    "BAD: 02-0R reflects"an<           ^    "BAD: 20R reflects"an<   ^   _,#! #:<"UNDEF: 002-R reflects"an<
 n
-> 83bc+**v     >paa".ti ot derapmoc eb nac tluser detaluclac eht :secalp lamiced 6 ot ,wollof lliw rewsna tcerroc ylesicerp ehT .FEDNU eb lliw snoitaluclac fo stluser ,etaruccani"v
+> ay     v     >paa".ti ot derapmoc eb nac tluser detaluclac eht :secalp lamiced 6 ot ,wollof lliw rewsna tcerroc ylesicerp ehT .FEDNU eb lliw snoitaluclac fo stluser ,etaruccani"v
  ^"FPSP"0<     v$_,#! #:<                    "Because floating point equality is, with epsilons, too tricky, and without them, poorly defined, and because rounding with I is too "<
 v              >c#vF0" stuptuo PFc :FEDNU">:#,_$#vPa,n"098765.4321"#vR0" ni stluser R"'""098765.4321"'""0 :FEDNU">:#,_$Pa,>8F#vI8-#v_a"8 si IF8 :DOOG" >:#,_v
                   >na"stcelfer F :DAB"vv"lects"an<                                                                                 >a"8 t'nsi IF8 :DAB"^
@@ -578,13 +604,13 @@ v              >c#vF0" stuptuo PFc :FEDNU">:#,_$#vPa,n"098765.4321"#vR0" ni stlu
 v  )g22g33 ,a >#                                                                             ^#     _v
 
 n
-> 2afe+**v     >10: :v
+> ay     v     >10: :v
  ^"FPDP"0<     x-+ef:<
 v  )g22g33 ,a                                                                                        <
 
 n                >n "stcelfer D :DAB"                                                                                                  >:#,_  v              >na"stcelfer L :DAB"v
-> d95**0v      >#^D#v_a"0 si n retfa D :DOOG" >:#,_$yD00pad+y:00g-#v_n" si y retfa ezis kcats taht eerga D dna y :DOOG"                >:#,_g.>a,98765432105#^Lv
- ^"FRTH"<           >a"0 t'nsi n retfa D :DAB"^                    >0" si y retfa ezis kcats smialc y :DAB">:#,_$." si ti smialc D tub"^
+> ay     v     >#^D#v_a"0 si n retfa D :DOOG" >:#,_$yD00pad+y:00g-#v_n" si y retfa ezis kcats taht eerga D dna y :DOOG"                >:#,_g.>a,98765432105#^Lv
+ ^"FRTH"0<          >a"0 t'nsi n retfa D :DAB"^                    >0" si y retfa ezis kcats smialc y :DAB">:#,_$." si ti smialc D tub"^
 v                                     v<                                                          v< < < < < < < < < >     v                                 >  v
      v"GOOD: P picks value correctly"a0w5Pv#50123456789n<                                          w9w8w7w6w4w3w2w1w_,#! #:<"GOOD: L rolls value correctly"a0w5<
     v"BAD: P picks value incorrectly"a<0 v<             ^_,#! #:<"BAD: L corrupts rest of stack"an<< < < < < < < < < ^     "BAD: L rolls value incorrectly"a0<  <
@@ -597,15 +623,15 @@ v                                     v<                                        
 v  )g22g33 ,a                                <_,#! #:<             "BAD: R corrupts rest of stack"an<     <            ^"BAD: R rots value incorrectly"a0<
 
 n                                                                                             >#vn #;"CPII"4(#;<
-> 6aa**1-v     >1y2%!#v_ #vI8y-#v_a"y8 htiw seerga I :DOOG">:#,_     >                 8y00p #^t  7>< zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz                            v
- ^"IIPC"0<            >na"detnemelpmi eb t'nac CPII :egnuF tnerrucnoC t'nsi siht smialc y :DAB"v>#vA00g-#v_a"tnerap fo y8 htiw seerga dlihc fo A :DOOG">:#,_v           8
-v  )g22g33 ,a  _,#! #:<  ;>na"stcelfer I :DAB">:#,_                  ^;                        <  >na"stcelfer A :DAB"                                 ^ <              -
+> ay     v   >#v1y2%!#v_ #vI8y-#v_a"y8 htiw seerga I :DOOG">:#,_     >                 8y00p #^t  7>< zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz                            v
+ ^"IIPC"0<   ^{<      >na"detnemelpmi eb t'nac CPII :egnuF tnerrucnoC t'nsi siht smialc y :DAB"v>#vA00g-#v_a"tnerap fo y8 htiw seerga dlihc fo A :DOOG">:#,_v           8
+v  )g22g33 ,a }_,#! #:<  ;>na"stcelfer I :DAB">:#,_                  ^;                        <  >na"stcelfer A :DAB"                                 ^ <              -
                                 >na"y8 htiw seergasid I :DAB">:#,_   ^                                   >na"tnerap fo y8 htiw seergasid dlich fo A :DAB"^              !
     v"BAD: G with parent's 8y doesn't work"a<               v"BAD: L with parent's 8y doesn't work"a<               v"BAD: 8yL doesn't duplicate"a<
     v     "GOOD: G with parent's 8y works"a_^#!-7Gv#g_,#! #:<     "GOOD: L with parent's 8y works"a_^#!-7Lv#g_,#! #:<     "GOOD: 8yL duplicates"a_^#!-Lv#y87<
     v         "BAD: G with parent's 8y reflects"an<         ^         "BAD: L with parent's 8y reflects"an<         ^             "BAD: 8yL reflects"an<
               >a"krow t'nseod G hcus rehtona :DAB"v              >na"detcelfer y8 s'tnerap htiw L :DAB"         v                                                       #
-    >:#,_g#vG#^_a"skrow G hcus rehtona :DOOG"     >:#,_g8\#vP00g#^L8- #v_a"skrow y8 s'tnerap htiw LP :DOOG"     v>v>n' aa*6aa**1-pa#vDa"ycnamrod morf pu ekow :FEDNU",,,,,,,,,,,,,,v
+    >:#,_g#vG#^_a"skrow G hcus rehtona :DOOG"     >:#,_g8\#vP00g#^L8- #v_a"skrow y8 s'tnerap htiw LP :DOOG"     v>v>n' 'W     01-pa#vDa"ycnamrod morf pu ekow :FEDNU",,,,,,,,,,,,,,v
            >na"stcelfer G hcus rehtona :DAB"      ^        >na"stcelfer y8 s'tnerap htiw P :DAB"                >:#,_8y00pv         >a"stcelfer D :DAB",,,,,,,,,,,,,,,,@ v,,,,,,,,,<
                                                                        >a"krow t'nseod y8 s'tnerap htiw LP :DAB"^^ #      <                                              >,,,,,,@
                                                                      v"BAD: L with child's 8y doesn't work"a<  >;#<^;a"...tnamrod gniog dlihC">:#,_#;<
@@ -614,9 +640,9 @@ v  )g22g33 ,a  _,#! #:<  ;>na"stcelfer I :DAB">:#,_                  ^;         
                  g      >a"krow t'nseod y8 s'dlihc htiw G :DAB"v
                  >#vGa-#^_a"skrow y8 s'dlihc htiw G :DOOG"     >zzzzzzzzzzzzzzzzzzzzzzzzzzzz>:#,_a".pu nekow evah dluohs dlihC"v
                    >na"detcelfer y8 s'dlihc htiw G :DAB"       ^
-v  )g22g33 ,a                                                                                                           _,#! #:<
+v  )g22g33 ,a}                                                                                                          _,#! #:<
 n
-> 63aa*+*v     >#vCa"tcelfer t'nseod spamer tuohtiw C :DOOG">:#,_'4'5#vM522+-#v_a"4 sehsup 5M5'4' :DOOG">:#,_'5'7#vM722+- #v_a"4 sehsup 7M7'5'M5'4' ,krow s"                       v
+> '\7*   v     >#vCa"tcelfer t'nseod spamer tuohtiw C :DOOG">:#,_'4'5#vM522+-#v_a"4 sehsup 5M5'4' :DOOG">:#,_'5'7#vM722+- #v_a"4 sehsup 7M7'5'M5'4' ,krow s"                       v
  ^"IMAP"0<       >na"stcelfer spamer tuohtiw C :DAB"        ^                 >na"5 sehsup 5M5'4' :DAB" v         >na"tcelfer M7'5'M5'4' ekil stpmetta "                           v
 v  )g22g33 ,a   ;try to clear; n<Cv#     _,#! #:<  "BAD: M reflects"an<                                                    >$723+-#v_a"5 sehsup 7M7'5'M5'4' ,krow t'nod s"         v
                  just in case   ^ <             ^                                                       <                          >a"4 sehsup 5 ro 4 hsup t'nseod 7M7'5'M5'4' ,p"v
@@ -634,7 +660,7 @@ v  )g22g33 ,a   ;try to clear; n<Cv#     _,#! #:<  "BAD: M reflects"an<         
                >na"stcelfer C :DAB"                                   >:#,_"...liaf ylekil lliw ygolocyM fo tser eht ro dedaolnu si PAMI emit eht yb enog eb retteb sgnippamer ehT"v
 v  )g22g33 ,a                                       _,#! #:<                                                                                                                       <
 n
-> c14d*+*v     >10p200p302p#vG 3-#v_a"skrow G :DOOG">:#,_400#vP2g4-#v_a"skrow P :DOOG"      >:#,_512p#vV:5-#v_$  4-#v_a"redro 89-egnuF/CR lacigolli sesu V :FEDNU"  >  >:#,_6700#vWv
+> ay     v     >10p200p302p#vG 3-#v_a"skrow G :DOOG">:#,_400#vP2g4-#v_a"skrow P :DOOG"      >:#,_512p#vV:5-#v_$  4-#v_a"redro 89-egnuF/CR lacigolli sesu V :FEDNU"  >  >:#,_6700#vWv
  ^"INDV"0<                  >na"stcelfer G :DAB"    ^     <  >na"stcelfer P :DAB"           ^         >na"stcelfer V :DAB"                               >          ^U'<           0
 v                                 >$a"krow t'nseod G :DAB"^         >$a"krow t'nseod P :DAB"^               >$4-#v_5-#v_a"redro ,89-egnuF/CR ton ,lacigol sesu V :FEDN"^           2
                                                                                                                  >$ > >a"lla ta krow t'nseod V :DAB"     ^                         g
@@ -642,7 +668,7 @@ v                                 >$a"krow t'nseod G :DAB"^         >$a"krow t'n
 v  )g22g33 ,a                                                                                                                              _,#! #:<     "GOOD: W works"a_v#!-6g21< -
                                                                                                                                                   ^"BAD: W doesn't work"a<     $_^#<
 n
-> '\7*   v     >{a".gnihtyreve tset ylluf ot ,noitcurtsni hcae rof sretemarap dna snoitpo elbissop eht lla htiw denibmoc nehw ,enod eb nac taht sgniht elbissop ynam oot era erehT"v
+> ay     v     >{a".gnihtyreve tset ylluf ot ,noitcurtsni hcae rof sretemarap dna snoitpo elbissop eht lla htiw denibmoc nehw ,enod eb nac taht sgniht elbissop ynam oot era erehT"v
  ^"SOCK"0<     v,a$_,#! #:<                                                  "Every instruction will, of course, be tested, but not in combination with every possible parameter."a<
 v              >221#vS0" dehsup S :FEDNU"a"S htiw tekcos PCT MAERTS_KCOS ,TENI_FP a detaerC :DOOG">:#,_$:.a, :1\2\#vO0a"O htiw RDDAESUER_OS tes :DOOG">:#,_$:2 ff*2-:a+*0#vB 0av
 v  )g22g33}n,a<;    >na"detcelfer S htiw tekcos PCT MAERTS_KCOS ,TENI_FP a etaerc ot gniyrt :DAB">:#,_#;<          >0a"detcelfer O htiw RDDAESUER_OS tes ot gniyrt :DAB">:#,_$v
@@ -666,7 +692,7 @@ v  )g22g33}n,a;>:#,_$11g#;_g                     111pv               >$$$$$$$$$$
                         >  >  >  >  >  >  >  >v   >;#"BAD: trying to receive 10 bytes with R reflected"an<   >v         >       ^     ;v      >na"detcelfer K htiw tekcos esol"v  sO
    >'?  \g\'@   \g    'Rw'rw'aw'bw'ow'ow'Fw'Iw 0a                  "atad tcerroc deviecer R :DOOG">:#,_$    6w 0a"6 dehsup R :DOOG"    >:#,_$#^Ka"K htiw tekcos desolc :DOOG"    vhG
              v{< <      >  >  >  >  >  >  >  >>0a"ti decalpsim ro/dna atad gnorw deviecer R :DAB" ^          >>0a"6 hsup t'ndid R :DAB"^          v_,#! #:<;#"BAD: trying to c"<;<""
-         v     ^#  *4§' } p770 ;# <>#v #;0" dehsup H"'""127.0.0.1"'""0 :FEDNU"#;r;#   n<_,#! #:<"UNDEF: SCKE not included in SOCK"an <             >"atad tuohtiw tekcos rof 0 de"^
+         v     ^#    ya } p770 ;# <>#v #;0" dehsup H"'""127.0.0.1"'""0 :FEDNU"#;r;#   n<_,#! #:<"UNDEF: SCKE not included in SOCK"an <             >"atad tuohtiw tekcos rof 0 de"^
 #^"SCKE"0<   > v ^      } p771$_,#! #:<"Will test SCKE both here and after loading it."a_,#! #:<"UNDEF: SCKE is  included in SOCK"anH^#"127.0.0.1"<^a0<>                        v
 >  0"KCOS"4)vv;>0"1.0.0.721"#vH    ^ >$           >:#,_$.a,>n221#vS:11p:2ff*2-:a+*0#vB:1\#vL221#vS:44p0"1.0.0.721"#vI2\ff*2-:a+*\#vC44g\#vA\$\$:#vP#;_^^"BAD: P reflects or"<
 v           <                >na"stcelfer H :DAB" >:#,_    ^     >                        ;v82<;>      na"P tset ot S gnikrow deen :DAB";>na"P tset ot A gnikrow deen :DAB"   #;v
@@ -675,7 +701,7 @@ v )g22g33},a;>0a"atad tuohtiw tekcos rof oreznon dehsup P :DAB">:#,_$   v   ;n)4
        > #;>:#,_;         "BAD: need working W to test P"an    <        >   v          ^_^#g-<^<K^#g44    <K^#g11;# <             >na"P tset ot C gnikrow deen :DAB"^;   _,#! #:<
        ^;  ^"BAD: P pushed zero for socket with data"an<  >   na"deliaf KCOS fo trap a ro stcelfer P :DAB"#;<
 n                                                           ^># $$44g #1[#1 <
-> 'q6* 1-v     v>0"ooF"0"raB"#vAv  >  >  >  >  >  > >v >>na"sgnirts woleb kcats sehcuot A :DAB"v                  >na"stcelfer C :DAB"                  v
+> ay     v     v>0"ooF"0"raB"#vAv  >  >  >  >  >  > >v >>na"sgnirts woleb kcats sehcuot A :DAB"v                  >na"stcelfer C :DAB"                  v
  ^"STRN"0<     {e               >'Bw'aw'rw'Fw'ow'ow0w ew na"skrow A :DOOG"                     >:#,_ "oof" 0"ooF"#^C:0`#v_$a'""ooF"'"" naht retaerg si "'""oof"'"" smialc C :DOOG"v
 v              >^                  >  >  >  >  >  > >>;>^;na"yltcerroc dneppa t'nseod A :DAB"  ^v" less than ""'"Foo""'a_a"lauqe era "'"""oof"'"" dna "'""ooF"'"" smialc C :DAB"  v
                  v;           >na"stcelfer A :DAB"                                             ^>"si "'""oof""'" smialc C :DAB"                  #; #$ #<                         v
@@ -720,12 +746,12 @@ v              >^                  >  >  >  >  >  > >>;>^;na"yltcerroc dneppa t'
                            >na"stcelfer S :DAB"                                                             v
 v   )g22g33},a                                                                                       _,#! #:<
 n                     >   v     >          v
-> '&:2/* v     >{02-1 ^Jv#<     ^"BAD: "<  >:#,_$ 123 47* 2       2 ;Cv#;# r #;                                                 v > > >v
+> ay     v     >{02-1 ^Jv#<     ^"BAD: "<  >:#,_$ 123 47* 2       2 ;Cv#;# r #;                                                 v > > >v
  ^"SUBR"0<    v  a"skrow J :DOOG"          ^   > >v                   > na"atled gnorw stes R ro stcelfer C :DAB"              v>5w4w1w a"yltcerroc stnemele kcats srefsnart R"v
 v                       >na"stcelfer J" ^   v 3w2w  a"yltcerroc stnemele kcats srefsnart C :DOOG" >:#,_452#vR                     > > >>na"yltcerrocni stnemele kcat"v
 v  )g22g33},a;> na"atled tes t'nseod J" ^      > >>na"yltcerrocni stnemele kcats srefsnart C :DAB"^        >na"stcelfer R :DAB">:#,_#;<_,#! #:<;#"BAD: R transfers s"<;"GOOD: "<
 n                   vn          <           >      na                   "atled tes t'nseod C :DAB"^
-> 87d**1-v     >006p>01-:::::00p01p02p03p04p05pv
+> ay     v     >006p>01-:::::00p01p02p03p04p05pv
  ^"TIME"0<     v                               <
 v              >#vY00p                    >#vO01p                    >#vD02p                    >#vH03p                    >#vM04p                    >#vS05p                      v
                  >na"stcelfer Y :DAB">:#,_^ >na"stcelfer O :DAB">:#,_^ >na"stcelfer D :DAB">:#,_^ >na"stcelfer H :DAB">:#,_^ >na"stcelfer M :DAB">:#,_^ >na"stcelfer S :DAB">:#,_  v
@@ -738,7 +764,7 @@ v              >#vY00p                    >#vO01p                    >#vD02p    
              v"arting from sunday"an.$_,#! #:<"UNDEF: W claims that it is the "0Wv#;#_,#! #:<"day of the year"an.$_,#! #:<"UNDEF: F claims that it is the "0<      ;_,#! #:<
 v  )g22g33,a;>"ts ,keew eht fo yad">:#,_      #;<     _,#! #:<"BAD: W reflects"an<
 n
-> '¹4*   v     >{321 21 02-1    3 #vPv             >          >          >v                                          >v
+> ay     v     >{321 21 02-1    3 #vPv             >          >          >v                                          >v
  ^"JSTR"0<     A                     >1     :02-\g1w :1+0  \g2w  2+2  \g3w  a"skrow P :DOOG"      >:#,_         44g'Dw                               >     21 02-1 3     #vGv
 v                B                                 >          >          >>na"krow t'nseod P :DAB"v                  >>na"raf oot setirw P :DAB">:#,_["BBAD: G reflects"an<
         >:#,_v#;   C               >na"stcelfer P :DAB"                                           >    9f77**+ :1\f\p :1+2\f2+\p 2+3\f4+\p      ^   ;<             v< < < <
