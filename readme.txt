@@ -20,6 +20,8 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2008-08-19    - Bugfix: results for the concurrency tests 5kz and "a  b"
+	                were incorrect.
 	2008-08-14    - New fingerprint: DATE.
 	2008-08-13    - I had managed to get the way y should work as a pick
 	                instruction completely wrong. Thanks to Johannes Laire for
