@@ -151,7 +151,7 @@ v"AD: IDs "<v+1*cc*<v           >v                              ^          "GOOD
  >"v"c1fa*+p 'v 6b* 1fa*+                             ><        p  '^  297**  2b7**                                    ><>p        v    v"urrency is concerned: "+2" a b"+2:" shou"<
  >"$"$>>>>> >a"skcit 0 sekat ecaps elgnis :DOOG">:#,_$' b5*>fa*>p>>a"kcit eno naht erom ekat secaps elpitlum :DAB">:#,_$'>ac* af* v     >"cnoc erehw yltcerroc krow tsum sgnirts o"v
             >a"kcit 1 sekat ecaps elgnis :DAB"  ^                 >a"skcit 0 ekat secaps elpitlum :DOOG"          ^                     v"ll continue to produce textual output, s"<
-;>a"skcit 3 naht erom sekat zk5 :DAB">>v                                v2*a6v'pp><<*2M'1$<            v"GOOD: z takes 1 tick"<         >"iW"a".kcit eno ekat ,#<v>^ sa hcus ,ruoi"v
+;>a"skcit 3 naht erom sekat zk5 :DAB">>v                                v2*a6v'pp>< *2M'1$<            v"GOOD: z takes 1 tick"<         >"iW"a".kcit eno ekat ,#<v>^ sa hcus ,ruoi"v
 vvzkp+3*fa*99<'5_,#! #:<         "GOOD: jumping over code with ; takes 0 ticks"av<p+e+c++ab:l';'_,#! #:<"BAD: z takes 0 ticks"<zap<v    v"any particular concurrency-related behav"<
 v>a"skcit 3 naht ssel"v^"BAD: jumping over code with ; takes more than 1 tick"a<<         ^<'   *2M'1^' pp;<><+J':++aa:<'+L':-'':v'<    >" tuohtiw snoitcurtsni taht gnimussA"a".s"v
 >a"skcit 3 sekat z">v  ^          "BAD: jumping over code with ; takes 1 tick"a<                         >:#,_na".noitucexe tnerrucnoc"vv"g to test concurrent execution with 2 IP"<
