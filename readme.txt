@@ -20,6 +20,8 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2008-08-20    - Bugfix: results for the ;; concurrency test were off by one.
+	              - Test new A and O instructions in SUBR.
 	2008-08-19    - Bugfix: results for the concurrency tests 5kz and "a  b"
 	                were incorrect.
 	2008-08-14    - New fingerprint: DATE.
