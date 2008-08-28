@@ -20,6 +20,9 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2008-08-28    - SOCK and SCKE fixed: much code still assumed that A
+	                overwrites the original socket, and thus wrong sockets were
+	                being given to K and P.
 	2008-08-20    - Bugfix: results for the ;; concurrency test were off by one.
 	              - Test new A and O instructions in SUBR.
 	2008-08-19    - Bugfix: results for the concurrency tests 5kz and "a  b"
