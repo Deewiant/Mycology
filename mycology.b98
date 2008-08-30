@@ -686,19 +686,19 @@ v  )g22g33}n,a;>:#,_$11g#;_g                     111pv               >$$$$$$$$$$
     > >:#,_0g#vK0a"K htiw tekcos lanigiro desolc :DOOG"      v        Foobar                                         v"BAD: trying to close socket with K reflected"an<           ""
               >0a"K htiw tekcos lanigiro esolc t'ndluoc :DAB"v                                                       >  v            >>0a"6 hsup t'ndid W :DAB"v                   :
      >                         ;>:#,_$11g              ^;    >:#,_$\:     '5\      f\6\#vW0a"W htiw "'""rabooF"'"" tnes :DOOG">:#,_$6w 0a"6 dehsup W :DOOG"    >:#,_$#^Kv         PD
-                                ^"BAD: trying to send ""'"Foobar""'" with W reflected"an<                               #            >^                                            O
-                                                                v$_,#! #:<"GOOD: received data with R"a0Rv#\a    \*a2   ,#\:'g22<$_,#! #:<"GOOD: closed socket with K"a0<         pO
+                   >4*ay6+p'8fb+]"BAD: trying to send ""'"Foobar""'" with W reflected"an<                               #            >^                                            O
+                  v ya*55-'p+5ya<                               v$_,#! #:<"GOOD: received data with R"a0Rv#\a    \*a2   ,#\:'g22<$_,#! #:<"GOOD: closed socket with K"a0<         pO
    v:\g\   >':\g\   =':\g\   <':\g\   ;':\g\ :':\g\   9':    *a2<         IOBUFFER                                      |                                                         uG
-                        >  >  >  >  >  >  >  >v   >;#"BAD: trying to receive 10 bytes with R reflected"an<   >v         >       ^     ;v      >na"detcelfer K htiw tekcos esol"v  s"
+                  5     >  >  >  >  >  >  >  >v   >;#"BAD: trying to receive 10 bytes with R reflected"an<   >v         >       ^     ;v      >na"detcelfer K htiw tekcos esol"v  s"
    >'?  \g\'@   \g    'Rw'rw'aw'bw'ow'ow'Fw'Iw 0a                  "atad tcerroc deviecer R :DOOG">:#,_$    6w 0a"6 dehsup R :DOOG"    >:#,_$#^Ka"K htiw tekcos desolc :DOOG"    vh1
-             v{< <      >  >  >  >  >  >  >  >>0a"ti decalpsim ro/dna atad gnorw deviecer R :DAB" ^          >>0a"6 hsup t'ndid R :DAB"^          v_,#! #:<;#"BAD: trying to c"<;<"1
-         v,a   ^#    ya } p770 ;# <>#v #;0" dehsup H"'""127.0.0.1"'""0 :FEDNU"#;r;#   n<_,#! #:<"UNDEF: SCKE not included in SOCK"an <             >"atad tuohtiw tekcos rof 0 de"^g
-#^"SCKE"0<,a > v ^      } p771$_,#! #:<"Will test SCKE both here and after loading it."a_,#! #:<"UNDEF: SCKE is  included in SOCK"anH^#"127.0.0.1"<^a0<>                        v  #
+  v+2:,a$$$< v{< <+     >  >  >  >  >  >  >  >>0a"ti decalpsim ro/dna atad gnorw deviecer R :DAB" ^          >>0a"6 hsup t'ndid R :DAB"^          v_,#! #:<;#"BAD: trying to c"<;<"1
+  >'0\f1+\p]" X^" p# ya}p+ff30 ;# <>#v #;0" dehsup H"'""127.0.0.1"'""0 :FEDNU"#;r;#   n<_,#! #:<"UNDEF: SCKE not included in SOCK"an <             >"atad tuohtiw tekcos rof 0 de"^g
+#^"SCKE"0  < > v ^<^77'}p+ff31$_,#! #:<"Will test SCKE both here and after loading it."a_,#! #:<"UNDEF: SCKE is  included in SOCK"anH^#"127.0.0.1"<^a0<>                        v  #
 >  0"KCOS"4)vv;>0"1.0.0.721"#vH    ^ >$           >:#,_$.a,>n221#vS:11p:2ff*2-:a+*0#vB:1\#vL221#vS:33p0"1.0.0.721"#vI2\ff*2-:a+*\#vC33g\#vA\$\$:#vP#;_^^"BAD: P reflects or"<     v<
-v           <[ #;11g#vK #;<  >na"stcelfer H :DAB" >:#,_    ^     >                  #    ; v82<;>      na"P tset ot S gnikrow deen :DAB";>na"P tset ot A gnikrow deen :DAB"   #;v  K
+v           <[ #;11g#vK #;<  >na"stcelfer H :DAB" >:#,_    ^     >                  #    ; v4+<;>      na"P tset ot S gnikrow deen :DAB";>na"P tset ot A gnikrow deen :DAB"   #;v  K
 v )g22g33},a;>0a"atad tuohtiw tekcos rof oreznon dehsup P :DAB">:#,_$   v   ;n)4"SOCK"0  <>   0        na"P tset ot L gnikrow deen :DAB";        >na"deliaf KCOS fo trap a "^   v >v
-      v"GOOD: P pushed nonzero for socket with data"a0_v#Pv#<vWv#\5\5\5\<$_,#! #:<;        >*vbv <        v <      >na"P tset ot I gnikrow deen :DAB"               >           v ;<
-      >  #;>:#,_$;   #  "BAD: need working W to test P"  an    <                       ^_^#g-<^<K^#g33    <K^#   ;# <             >na"P tset ot C gnikrow deen :DAB"^;   _,#! #:<
+      v"GOOD: P pushed nonzero for socket with data"a0_v#Pv#<vWv#\5\5\5\<$_,#! #:<;        >-vbv <        v <      >na"P tset ot I gnikrow deen :DAB"               >           v ;<
+      >  #;>:#,_$;   #  "BAD: need working W to test P"  an    <                       ^_^#g:<^<K^#g33    <K^#   ;# <             >na"P tset ot C gnikrow deen :DAB"^;   _,#! #:<
       ^;   ^"BAD: P pushed zero for socket with data"a0<  >    a"deliaf KCOS fo trap a ro stcelfer P :DAB"#;<
 n                    >29*-x                                 ^># $# 3# 3# g# K# #:<  >na"P tset ot B gnikrow deen :DAB"                                              ^
 > ay     v     v>0"ooF"0"raB"#vAv  >  >  >  >  >  > >v >>na"sgnirts woleb kcats sehcuot A :DAB"v                  >na"stcelfer C :DAB"                  v
