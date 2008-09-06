@@ -22,6 +22,7 @@ Mycology changelog:
 
 	2008-09-06    - Fixed a misspelled error message in mycouser.b98 for
 	                Befunge-93 interpreters.
+	              - Fixed a bug in 2k6 testing that led to an infinite loop.
 	2008-08-30    - Fixed the case where SCKE is included in SOCK.
 	2008-08-28    - SOCK and SCKE fixed: much code still assumed that A
 	                overwrites the original socket, and thus wrong sockets were
