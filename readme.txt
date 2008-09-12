@@ -20,6 +20,7 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2008-09-12    - Reduce stacking in HRTI test.
 	2008-09-10    - Made the check for wraparound with non-cardinal delta a bit
 	                stricter (instead of a delta of (12,0) it uses (13,2)).
 	2008-09-06    - Fixed a misspelled error message in mycouser.b98 for
