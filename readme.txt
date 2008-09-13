@@ -29,6 +29,8 @@ Mycology changelog:
 	              - Update: IMAP check for non-ASCII is now GOOD when it works
 	                and BAD otherwise, per the latest spec.
 	              - Update: IMAP now checks mappings outside range 0-255.
+	              - Update: INDV now expects the logical order, reporting BAD
+	                otherwise.
 	2008-09-12    - Reduce stacking in HRTI test.
 	              - Corrected typo in a TOYS error message.
 	2008-09-10    - Made the check for wraparound with non-cardinal delta a bit
