@@ -24,6 +24,11 @@ Mycology changelog:
 	                incorrect k behaviour.
 	              - Bugfix: "GOOD: SGML spaces" was never output, who knows for
 	                how long that's been disabled.
+	              - Bugfix: IMAP check for non-ASCII now says it works when it
+	                works.
+	              - Update: IMAP check for non-ASCII is now GOOD when it works
+	                and BAD otherwise, per the latest spec.
+	              - Update: IMAP now checks mappings outside range 0-255.
 	2008-09-12    - Reduce stacking in HRTI test.
 	              - Corrected typo in a TOYS error message.
 	2008-09-10    - Made the check for wraparound with non-cardinal delta a bit
