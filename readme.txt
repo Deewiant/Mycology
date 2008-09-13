@@ -20,6 +20,8 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2008-09-13    - Bugfix: test for k with negative argument was expecting
+	                incorrect k behaviour.
 	2008-09-12    - Reduce stacking in HRTI test.
 	              - Corrected typo in a TOYS error message.
 	2008-09-10    - Made the check for wraparound with non-cardinal delta a bit
