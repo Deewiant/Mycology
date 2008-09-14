@@ -60,14 +60,14 @@ v"GOOD: 1-1x goes southwest"a<>>a"tse"v>na"gnihtyna od t'nseod j3 :DAB" ^    ; >
 >>>>>>3>>>>>>>v<< <<<<<<<<<<<<<<<<<<<<<<<>na"sllec 2 revo spmuj j3 :DAB"^     > 4-#v;vvvv;jvvvvv;# <                                                  ff
 ^^^^^^2^^^^^^^n^^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>:#,_           ^     n >> v<<>>>>>a"drawrof spmuj j-40 :DAB"64*1-^                      tt
 ^^^^^^#^^^^^^^a^^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^"BAD: 04-j reflects"a<   >a"sllec fo rebmun thgir eht drawkcab spmuj j-40 :DOOG"0^
-^^^^^^<^^^^^^^#^^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>"sllec fo rebmun gnorw eht drawkcab spmuj j-40 :DAB"1 ^      ee
-^^^^^^x^^^^^^^<^^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<                                                              dd
+^^^^^^<^^^^^^^#^^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>v      >"sllec fo rebmun gnorw eht drawkcab spmuj j-40 :DAB"1 ^      ee
+^^^^^^x^^^^^^^<^^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<;>10d6*-3x                                                            dd
 ^^^^^^^^^^^^^^ ^^^       ;                           <                                                                                                gg
 ^^^^^^^^^ ^^^^>")2 ,3( ot atled tes t'nseod x23 :DAB"^vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv                                   ee
 ^^^^^^^^^^^v;^<<<<<<<<<<;<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 vvvvvvvvvvv >a"...x tsurt nac ew gnimussA"a")2 ,3( ot atled stes x23 :DOOG">:#,_d2                                                                   #s                            x
 vvvvvvvvvvv_a"krow ot sraeppa atled lanidrac-non htiw dnuoraparw :DOOG">:#,_v                                                                         kh
->>>>>>>>>>>a"krow t'nseod atled lanidrac-non htiw dnuoraparw :DAB"     ^     >"} :DAB">:#,_@ >na"yromem fo tuo nar ebyam ,detcelfer { :DAB">:#,_@     ii
+>>>>>>>>>>>>>>>>a"krow t'nseod atled lanidrac-non htiw dnuoraparw :DAB"^<<<< >"} :DAB">:#,_@ >na"yromem fo tuo nar ebyam ,detcelfer { :DAB">:#,_@     ii
          >;#"BAD: { transfers cells incorrectly"an< < < < < <<v{v#5123456789<^" doesn't reset storage offset"a<                         ;  >:#,_    v pt    >0a"yltcerroc sllec s"v
 v780>'_,#! #:<"GOOD: { transfers cells correctly"aw0w5w4w3w2w1< >                            ^   <             <     >:#,_@   v"upt stack stack"...a< ss    v"tive count transfer"<
 >*-2p va"ti sesu p dna ,yltcerroc tesffo egarots";> > > > > >^;" stes { :DOOG">:#,_$542#v} 'v 6aa*+ 6c* p >  n^^              [            #        v       >"isop a htiw u :DOOG"v
@@ -79,10 +79,10 @@ v     _v#-f}-50{v#0abcdef<  ^                 "BAD: 101-{} doesn't leave stack t
                 >;                                        >a"kcats eno ylno sah kcats kcats nehw stcelfer } :DOOG">:#,_$  v  ;^                       rr
        >  a"skrow tnemugra evitagen htiw } :DOOG">:#,_   #^}a"kcats eno ylno sah kcats kcats nehw tcelfer t'nseod } :DAB"                  ^          nn
 >na"kcats no 51 evael t'nseod }-50{0abcdef :DAB" ^     @,k-1*68"Stopping due to fear of corrupt stack stack..."a<          >" tnuoc orez htiw u :"v   mm
-v;   >   a"kcats eno ylno sah kcats kcats nehw tcelfer t'nseod u :DAB" 0b-1x      > > >   > > >v        >57*k,# ^        ;<^"reflects"n}n<            oo
+v;   >   a"kcats eno ylno sah kcats kcats nehw tcelfer t'nseod u :DAB" 0b-1xv     > > >   > > >v        >57*k,# ^        ;<^"reflects"n}n<            oo
 > #vu^  >a"kcats eno ylno sah kcats kcats nehw stcelfer u :DOOG">:#,_1230{4560#vu6w5w4w0}3w2w1wn"gnihton seod tnuoc orez htiw u :DOOG" v    v"BAD"<   ss
-  v>    ^       > > > > > >v<                    > >v<                         >; > > >   > > >>"gnihtemos seod tnuoc orez htiw u :DAB">;^; >:#,_a,$ ;tt;
-  >1230{4564#vu2w3w0w0w6w5w4wbb*0e-x>4560002-#vu6w5w4w0}                                                                   v >v      > > v
+  v>    ^       > > > > > >v<                    > >v<                         >;;> > >   > > >>"gnihtemos seod tnuoc orez htiw u :DAB">;^; >:#,_a,$ ;tt;
+  >1230{4564#vu2w3w0w0w6w5w4wbb*0e-x>4560002-#vu6w5w4w0}                   ;>n  ^;                                         v >v      > > v
 v"reflects"an<  > > > > > > >         v       < ;> >>>;na"yltcerrocni sllec srefsnart tnuoc evitisop a htiw u :DAB">:#,_nav>1w  0{2u0w0w}  v;v        cc
 >" tnuoc evitisop a htiw u :DAB"    ;> "evitagen a htiw u :DAB"                  ;]#; >:#,_;#      "CCan't test negative."<  >>{v ;v > > >   v        ee
  "yltcerrocni sllec srefsnart tnuoc "^> na"stcelfer tnuoc evitagen a htiw u :DAB" [>:#,_n}v}}nu2{nu2                           ;>; <        ;>na     ;ll;
