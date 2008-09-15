@@ -20,6 +20,7 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2008-09-15    - Fixed a misalignment in the u test with a negative argument.
 	2008-09-14    - Made the wraparound with non-cardinal delta test catch a
 	                common case.
 	2008-09-13    - Bugfix: test for k with negative argument was expecting
@@ -52,8 +53,8 @@ Mycology changelog:
 	2008-08-13    - I had managed to get the way y should work as a pick
 	                instruction completely wrong. Thanks to Johannes Laire for
 	                noticing this and notifying me.
-	2008-08-11    - Removed PNTR (the same as INDV), it wasn't meant to exist any
-	                more.
+	2008-08-11    - Removed PNTR (the same as INDV), it wasn't meant to exist
+	                any more.
 	2008-08-09    - The new addition to the FILE fingerprint, D, is now tested.
 	              - Using it, created .tmp files can now be removed from within
 	                Mycology.
@@ -111,8 +112,8 @@ correctly.
 
 Note for Befunge-93: mycology.b98 is much bigger than the 80x25 allowed in
 Befunge-93. If your interpreter bails out on a file bigger than the maximum
-allowed, you can simply take the 80x25 square starting at the top left corner of
-mycology.b98 into a separate file and use that for testing.
+allowed, you can simply take the 80x25 square starting at the top left corner
+of mycology.b98 into a separate file and use that for testing.
 
 In order to test the absolute basics of the interpreter, feed it the file
 sanity.bf. This tests that the IP (instruction pointer) begins at the correct
@@ -146,8 +147,8 @@ _not_ fail safe.
 
 Hereafter the actual testing in mycology.b98 can be conducted. The initial
 behaviour of the program is to output a code, using the Output Decimal
-instruction, after having successfully tested a certain instruction. These codes
-are as follows:
+instruction, after having successfully tested a certain instruction. These
+codes are as follows:
 
 Code  Decimal  ASCII  Instruction         Notes
 
@@ -156,8 +157,8 @@ Code  Decimal  ASCII  Instruction         Notes
  2      60       <    Go West
  3      94       ^    Go North
  4      36       $    Pop                 Explicitly testing whether popping an
-                                          empty stack works as it should is done
-                                          separately, later.
+                                          empty stack works as it should is
+                                          done separately, later.
 
  5      34       "    Toggle Stringmode   If no reflection on the instruction
                                           occurs, but the string's contents are
@@ -179,12 +180,12 @@ involved. All that is tested is whether a reflection occurs or not. If
 mycology.b98 claims that an instruction which appears to work perfectly is
 failing, make sure that the above do what they should.
 
-Having tested the above, mycology.b98 tests the Output Character instruction and
-hence reverts to plain English output. If there is no output after code 7, the
-Output Character instruction does not function as it should.
+Having tested the above, mycology.b98 tests the Output Character instruction
+and hence reverts to plain English output. If there is no output after code 7,
+the Output Character instruction does not function as it should.
 
-The output format changes to lines beginning with "BAD:" or "GOOD:", followed by
-a description of what the interpreter does wrong or correctly, respectively.
+The output format changes to lines beginning with "BAD:" or "GOOD:", followed
+by a description of what the interpreter does wrong or correctly, respectively.
 Some, but not all, "BAD" lines are followed by a Stop instruction - these tend
 to be features which are deemed useful enough that they are used later in the
 program. (Or, possibly, features which may be used later, but aren't: it's hard
@@ -194,10 +195,10 @@ was added to simplify the code: the Befunge-93 area is particularly snarly,
 since space is at a premium.
 
 Some lines begin with "UNDEF:". This means that the specification is either
-ambiguous or completely ignorant of an issue, and so different possibilities are
-acceptable. It is possible that some such undefined cases may result in "BAD:"
-if the interpreter does something completely unexpected, but there is no "GOOD:"
-equivalent, only "UNDEF:".
+ambiguous or completely ignorant of an issue, and so different possibilities
+are acceptable. It is possible that some such undefined cases may result in
+"BAD:" if the interpreter does something completely unexpected, but there is no
+"GOOD:" equivalent, only "UNDEF:".
 
 Some comment lines not beginning with "BAD:", "GOOD:", or "UNDEF:" are also
 emitted occasionally, in order to clarify what is going on.
@@ -228,7 +229,8 @@ Other notes on mycology.b98:
 See the end of this file for notes on particular messages.
 
 The following instructions are _not_ tested by mycology.b98 (those preceded by
-an asterisk are tested if the interpreter is detected as supporting Befunge-98):
+an asterisk are tested if the interpreter is detected as supporting
+Befunge-98):
 
 Decimal  ASCII  Instruction
 
@@ -240,10 +242,10 @@ Decimal  ASCII  Instruction
  126       ~    Input Character
 
 The division and input instructions are tested in mycouser.b98 because they all
-require user intervention (the division instructions only when dividing by zero,
-but I felt it would be better to not split the testing of an instruction into
-two files). Their correct behaviour is also very difficult to verify without a
-knowledgeable user.
+require user intervention (the division instructions only when dividing by
+zero, but I felt it would be better to not split the testing of an instruction
+into two files). Their correct behaviour is also very difficult to verify
+without a knowledgeable user.
 
 Go Away is tested separately in mycorand.bf because it takes too much space to
 fit in the Befunge-93 area of mycology.b98. If the Befunge-98 instruction Input
@@ -279,9 +281,9 @@ Regarding fingerprints
 
 mycology.b98 tests every fingerprint that I am aware of, apart from FNGR, SGNL,
 and WIND. It is completely up to the interpreter's writer(s) whether any should
-be supported: a completely specification-conforming interpreter does not need to
-support any fingerprint at all, as long as the ( "Load Semantics" and ) "Unload
-Semantics" instructions perform correctly.
+be supported: a completely specification-conforming interpreter does not need
+to support any fingerprint at all, as long as the ( "Load Semantics" and )
+"Unload Semantics" instructions perform correctly.
 
 FNGR is not tested because its specifications contradict the Befunge-98
 specifications. It contains operations for performing on a single fingerprint
@@ -290,17 +292,18 @@ of semantics for each instruction in the range [A, Z]. RC/Funge-98, the (only,
 as far as I know) interpreter implementing FNGR, fails some of Mycology's tests
 due to this.
 
-SGNL is not tested simply because it is platform-specific. There is no technical
-obstacle to it, only my own convictions regarding platform-specific code. If
-anybody wishes to write code to test it, feel free to send it to me, it may be
-worthy of addition to Mycology.
+SGNL is not tested simply because it is platform-specific. There is no
+technical obstacle to it, only my own convictions regarding platform-specific
+code. If anybody wishes to write code to test it, feel free to send it to me,
+it may be worthy of addition to Mycology.
 
 WIND is not tested because I do not wish to support it in my interpreter, and
 thus I didn't feel like writing tests for it. RC/Funge-98 is the only
 interpreter supporting it, and if I had discovered any bugs in it I would have
 had to delve into unfamiliar code to make it even possible to test the whole
 thing. I decided it was too much work and left it out. Once again, the addition
-of WIND to Mycology is perfectly fine, but I won't be the one to write the code.
+of WIND to Mycology is perfectly fine, but I won't be the one to write the
+code.
 
 The list of fingerprints which are tested:
 
@@ -363,8 +366,8 @@ Notes on particular messages output by mycology.b98
 ..............................
 
 Here, the line and file cases are considered separately. This is because some
-interpreters consider the Funge-Space as a rectangle: see below, using 0 to mark
-empty cells which are outside Funge-Space.
+interpreters consider the Funge-Space as a rectangle: see below, using 0 to
+mark empty cells which are outside Funge-Space.
 
 >    v000
 v    >  >
@@ -382,11 +385,11 @@ space shouldn't skip over anything. On the other hand, # jumps over "the next
 Funge-Space cell in [the instruction pointer's] path", which might not include
 this void.
 
-However, it may be that an existing space cell which is not part of this void is
-skipped over. Thus, both jumping over the edge of the physical edge of the file,
-with only the void in between, and jumping over the edge of a line which is
-shorter, but may contain the spaces as the 0s in the above example, are tested.
-Most interpreters have different behaviour for the two.
+However, it may be that an existing space cell which is not part of this void
+is skipped over. Thus, both jumping over the edge of the physical edge of the
+file, with only the void in between, and jumping over the edge of a line which
+is shorter, but may contain the spaces as the 0s in the above example, are
+tested. Most interpreters have different behaviour for the two.
 
 "BAD: 101-{} doesn't leave stack top as 0 and next as 1"
 ........................................................
@@ -461,7 +464,8 @@ afterward.)
 .............
 
 The specification does not say that the operand should be skipped over after
-execution. The only special case is when the amount of times to execute is zero.
+execution. The only special case is when the amount of times to execute is
+zero.
 
 This means that 2k6 should indeed first push 2 sixes at the k, and then a third
 when encountering the 6 itself.
