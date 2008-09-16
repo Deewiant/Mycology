@@ -20,6 +20,8 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2008-09-16    - MycoTRDS now expects ticks to start from zero, thus the
+	                expected value of G is one lower.
 	2008-09-15    - Fixed a misalignment in the u test with a negative argument.
 	2008-09-14    - Made the wraparound with non-cardinal delta test catch a
 	                common case.
