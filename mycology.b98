@@ -210,8 +210,8 @@ v;      >$"ettime eb lliw )hcus sa dekram ton hguoht ,FEDNU ti redisnoc( enil A"
                                                  v, <                                  >$v      >$v      >$v         >     ".dedaol ton">:#,_$a, 0b53**- \  3ef* - + x
  >0" tnirpregnif gnitseT">:#,_00p410p310p210p110p>:;^p1p00:+1g00:;# _ " ...",,,, 41g:!#^_>31g:!#^_>21g:!#^_>11g 00g #^(22p33pv>".dedaol">:#,_$a, 0655**- \   ef*   - x
      x -10*bb _v# !- _ #;\884***+1#;<x0-+6a0!:g14 _ #;\884***+1#;<x0-+6a0!:g13 _ #;\884***+1#;<x0-+6a0!:g12 g11 _v#!-1g22g33 <
-  stack is [y, fingerprint]   zero out storage      print fingerprint and store it       v"BAD: ( did not push 1"0<
-n              >$0"tnirpregnif tcerroc hsup ton did ( :DAB"                              >a,>:#,_a,@                  try loading fingerprint,
+  stack is [y, fingerprint]   zero out storage      print fingerprint and store it      v"BAD: ( did not push 1"0<
+n              >$0"tnirpregnif tcerroc hsup ton did ( :DAB"                             >a,>:#,_a,@                   try loading fingerprint,
 > ay     v     >#vA;>29*e2aa**+g:'Z-!#v_1+29*e2aa**+pv;29*e2aa**+g" :DAB",,,,,,"tcelfer ton did "v                    if succeeded store what ( pushed and go to (15, y)
  ^"NULL"0<     ^ >  ^                 >#            #<$             a"detcelfer Z-A fo lla :DOOG"v                    but first check that ( pushed correctly (that messy line)
 v  )g22g33                                                                             ,a$_,#! #:<                    else go to (0, y+2)
