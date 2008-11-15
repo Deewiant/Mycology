@@ -20,6 +20,8 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2008-11-15    - ) with a negative count wasn't actually tested, ( was used
+	                both times.
 	2008-10-17    - If o doesn't work, it is reported that i in binary mode will
 	                not be tested.
 	2008-09-21    - Fixed a misalignment in the fingerprint loading code.
