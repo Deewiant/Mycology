@@ -534,8 +534,8 @@ v  )g22g33,,aa _,#! #:<              <<   <;>na"O htiw gnidaer rof 'pmt.pmetocym
  ;     h "     v "GOOD: G pushed correct line length"a0 w3< >;         ^"BAD: G didn't read 'bar\n'"a0]<^< <  <  <   v$_,#! #:< "BAD: G pushed wrong   line length"a0 << ;^ ^     <
          m      v "BAD: G pushed wrong   line length"a0<<                                                     ^  _ #!<            >:#,_$             ;^"BAD: 107-S reflected"a0<; ^
        D p      >      >  >  >>>0a"'zab' daer t'ndid G :DAB"                                                           v          ^"Sought to beginning of file with 20S107-S."a0<
-     > " "    v>:#,_$'bw'aw'zw |                             >0a"detcelfer G :DAB"   >;#  "BAD: 1R reflected"a0< ;     >;>0a"gnihtemos daer R1 :DAB"#;v      <
-      >a,n    v        >  >  >^>0a"'zab' daer G :DOOG">:#,_$#^G#v_#v_>0a"seorez 2 dehsup G :DOOG">:#,_5a77**p1#^R5a77**g#^_0a"gnihton daer R1 :DOOG"  >:#,_v                      ;
+     > " "    v>:#,_$'bw'aw'zw |                             >0a"detcelfer G :DAB"   >;# "GOOD: 1R reflected"a0< ;     >;>0a"gnihtemos daer R1 :DAB"#;v      <
+      >a,n    v        >  >  >^>0a"'zab' daer G :DOOG">:#,_$#^G#v_#v_>0a"seorez 2 dehsup G :DOOG">:#,_5a77**p1#^R5a77**g#^_0a"tcelfer t'ndid R1 :DOOG">:#,_v                      ;
      ^;^D^#"mycotemp.tmp"< v"BAD: G didn't push 2 zeroes"a0<       <                                                 v"BAD: couldn't close file with C"an< $                     ;<
 v  )g22g33 ,a <          ^ >#                             ;^_ #!<;;#                                          _,#! #:<       "GOOD: closed file with C"aC^#<;^
 n
