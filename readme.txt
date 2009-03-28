@@ -22,10 +22,10 @@ Mycology changelog:
 
 	2009-03-28    - Update: FILE's R really should reflect at EOF.
 	              - Update: removed the 'G to an infinite loop' test from STRN,
-	              	         it makes sense that it does indeed loop forever.
+	                        it makes sense that it does indeed loop forever.
 	              - Bugfix: it was always claimed that I/O was buffered.
 	              - Bugfix: 1y being greater than 15 was complained about:
-	              	         should have been 31.
+	                        should have been 31.
 	2008-11-15    - ) with a negative count wasn't actually tested, ( was used
 	                both times.
 	2008-10-17    - If o doesn't work, it is reported that i in binary mode will
