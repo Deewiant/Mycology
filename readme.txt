@@ -20,6 +20,8 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2009-03-29    - Bugfix: 1y bits testing was really broken, really fixed it
+	                now.
 	2009-03-28    - Update: FILE's R really should reflect at EOF.
 	              - Update: removed the 'G to an infinite loop' test from STRN,
 	                        it makes sense that it does indeed loop forever.
