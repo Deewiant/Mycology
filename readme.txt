@@ -20,6 +20,7 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2009-03-31    - Bugfix: some w were misaligned in the TOYS test.
 	2009-03-29    - Bugfix: 1y bits testing was really broken, really fixed it
 	                now.
 	2009-03-28    - Update: FILE's R really should reflect at EOF.
