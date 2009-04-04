@@ -20,6 +20,9 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2009-04-04    - Made the u test not abort if the storage offset isn't (0,0).
+	              - Bugfix: u outputs the correct error message if it fails with
+	                a positive count.
 	2009-03-31    - Bugfix: some w were misaligned in the TOYS test.
 	2009-03-29    - Bugfix: 1y bits testing was really broken, really fixed it
 	                now.
