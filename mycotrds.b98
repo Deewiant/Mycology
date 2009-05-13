@@ -17,32 +17,32 @@ v_,#! #:<"Much of the output up to and after now, including this, will be output
 >#vt><  v        v           _,#! #:<"GOOD: 01-0V didn't reflect"aVv#0-1                       _,#! #:<
   >"SDRT"4(n f6*aa+#vDa"tcelfer t'ndid D+aa*6f :DOOG">:#,_8d9a+**  #vTa"tcelfer t'ndid T**+a9d8 :DOOG"^
                  ;  >na"detcelfer D+aa*6f :DAB">:#,_q               >na"detcelfer T**+a9d8   :DAB">:#,_q
->na"ylreporp emit hguorht pmuj t'nseod J :DAB" ^                   > na"detcelfer V0-10      :DAB"^   "
-|!g11_,#! #:<"GOOD: stack retained after J"a   _v# ,k*b2pe2$'zzzz"GOOD: J jumps in space"a v#<        B
-            ^"BAD: stack not retained after J"an<        >;#_,#! #:<"BAD: V doesn't work"a0<;^        B
->a"emit hguorht pmuj ot sraeppa J :DOOG">:#,_#vI>a"..gnipmuj ,tcelfer t'ndid I :DOOG"3b*k, #vJ        A
-                 ;                            >                       na"detcelfer I :DAB"        ^   D
- v$              <           q_,#! #:<"BAD: J reflected trying to jump back to the future"an<         :
+>na"ylreporp emit hguorht pmuj t'nseod J :DAB" ^                   > na"detcelfer V0-10      :DAB"^<  :
+|!g11_,#! #:<"GOOD: stack retained after J"a   _v# ,k*b2pe2$'zzzz"GOOD: J jumps in space"a v#<    "
+            ^"BAD: stack not retained after J"an<        >;#_,#! #:<"BAD: V doesn't work"a0<;^    B
+>a"emit hguorht pmuj ot sraeppa J :DOOG">:#,_#vI>a"..gnipmuj ,tcelfer t'ndid I :DOOG"3b*k, #vJ    A
+                 ;                            >                       na"detcelfer I :DAB"       #D^
+ v$              <           q_,#! #:<"BAD: J reflected trying to jump back to the future"an<     :
 
- >#vG0" dehsup G :FEDNU">:#,_$.a")6985 eb dluohs ,DOOG saw gnihtyreve fi(">:#,_11pv                   "
+ >#vG0" dehsup G :FEDNU">:#,_$.a")6985 eb dluohs ,DOOG saw gnihtyreve fi(">:#,_11pv               "
    >na"stcelfer G :DAB" >:#,_$zzzz1111111111111111111111111111111111111111>:#$_11pv
-                            >na"pmuj detnaw od tonnac ,egral oot si P :DAB"                       ^
+                            >na"pmuj detnaw od tonnac ,egral oot si P :DEFNU"                         ^
 v"jumping to tick 1976..."a_^#!`\         ,a. zzz,kd"UNDEF: P gave ":Pv# *+**9ad13<
->" ,enif si lav-P :DOOG"4b*k,zz                                1#vJv  >na"stcelfer P :DAB"        ^
-        X                                                        >   >na"detcelfer J :DAB"        ^
+>" ,enif si lav-P :DOOG"4b*k,zz                                1#vJv  >na"stcelfer P"             ^
+        X                                                        >   >na"detcelfer J"             ^
 v_,#! #:<a"GOOD: came back with IJ, IPs with same ID can coexist"an< ;
-#>                                                                     na"stcelfer R :DAB"        ^
->^                                >                                 na"detcelfer E10 :DAB"        ^
-R                                                                            >na"detcelfer U-*:*aa0"  ^
+#>                                                                     na"stcelfer R"             ^
+>^                                >                                 na"detcelfer E10"             ^ <
+R                                                                            >na"detcelfer U-*:*aa0"^
 >a"tcelfer t'ndid R :DOOG">:#,_1-#^Ea"tcelfer t'ndid E-100 :DOOG">:#,_aa*:*-#^U0a"tcelfer t'ndid U-*:" v
-v"hould end up at beginning of time..."a_v#!`\,a. zzz,kd"UNDEF: P gave ":Pp+885 '1_,#! #:<"GOOD: 0aa*" <
-                                         >na"pmuj detnaw od tonnac ,egral oot si P"                   ^
-                                                                    012p@
->zz"s ,00001- kcit ta @ a ot gnipmuj ,enif si lav-P :DOOG" 8a*9+k,#vJ;
-        "    @         >                 ^                         > ^                            <<
+v"d end up at the time that P gave..."a_v#!`+*8ó'\,a.,kd"UNDEF: P gave ":Pp+885: '_,#! #:<"GOOD: 0aa*" <
+'                                       >na"pmuj detnaw od tonnac ,egral oot si P :DEFNU"             ^
+l                                                                   012p@
+>"uohs ,00001- kcit ta @ a ot gnipmuj ,enif si lav-P :DOOG"8a*c+k,#vJ;
+        "    @         >                ^                          > ^                            <<
         >12g#^_n"$"d5*85*pzzv
 vzzzzzzzzzzzzzzzzzzzzzzzzzzz<
->a"dedeeccus evah ot sraeppa emit fo gninnigeb ot pmuj :DOOG"a>:#,_#vt"SDRT"4(nzzzzzzzzzzzzzzzv       ;
+>a"dedeeccus evah ot sraeppa emit tseilrae eht ot pmuj :DOOG"a>:#,_#vt"SDRT"4(nzzzzzzzzzzzzzzzv       ;
 v"from being born..."a_^#!`\,a. zzz,kd"UNDEF: P gave ":P T:**+*aa789>#;"SDRT"4(n#;<           z  J^#E40T<
  "estroyed the t instruction that made me, setting Tardis with T and E and jumping back..."<vzzz-1*a9D'
 >" fles tneverp ot 4077 kcit ot gniog ,enif si lav-P :DOOG"7a*4+k,z#vJ' 7a*1-4b*p'$d5*4b*pa^>z k,79bc***^
@@ -50,7 +50,7 @@ zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz$>#zzzzzzzzzz
 v"er back to wait for the first to arrive..."a     ,k*57azz "GOOD: got back and am still alive."a<      5
 >"htruf pmuj rehtona dna ,kcab pmuj ot tuoba PI enO"9a*1+k,zzzz 77abb***+ T 169*D       v               a
 vzz "GOOD: P-val is fine for both jumps..."a_v#!`\,a. zzz,kd"UNDEF: P gave ":P ***dda5  <               d
->73a*+k,#vJ >zzzzzzzzzzzzzzzzzzzzzzzzv       >na"pmuj detnaw od tonnac ,egral oot si P :DAB">:#,_q      d
+>73a*+k,#vJ >zzzzzzzzzzzzzzzzzzzzzzzzv       >na"pmuj detnaw od tonnac ,egral oot si P :DEFNU">:#,_ q   d
          > #^zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz#<       >   >           ^    *
  132pa".pmuj ts1 diD"dk,zzz @       >a"emit no devirra PI ts1 :DOOG"47*zzzz]"Doing 2nd jump..."aD*b51T**<
  >032p'$:74d*p29a*+87*pzzzzzzzzzz32g|z                                     >      >k,I#^J

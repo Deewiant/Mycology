@@ -20,6 +20,8 @@ Contents of this readme:
 Mycology changelog:
 -------------------
 
+	2009-05-13    - MycoTRDS accepts P-values greater than 0 and reports
+	                unacceptable values as UNDEF, not BAD.
 	2009-04-04    - Made the u test not abort if the storage offset isn't (0,0).
 	              - Bugfix: u outputs the correct error message if it fails with
 	                a positive count.
