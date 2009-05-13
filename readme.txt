@@ -7,7 +7,7 @@ Mycology is licensed under the so-called 3-clause BSD license. See license.txt
 for the text of the license.
 
 Contents of this readme:
-	Changelog
+	Recent changes
 	Quick summary
 	More detailed info
 	Fingerprints
@@ -16,9 +16,10 @@ Contents of this readme:
 		"101-{}"
 		"4k #" and "2k ;;;5"
 		"2k6"
+	Old changes
 
-Mycology changelog:
--------------------
+Recent changes
+--------------
 
 	2009-05-13    - MycoTRDS accepts P-values greater than 0 and reports
 	                unacceptable values as UNDEF, not BAD.
@@ -34,76 +35,8 @@ Mycology changelog:
 	              - Bugfix: it was always claimed that I/O was buffered.
 	              - Bugfix: 1y being greater than 15 was complained about:
 	                        should have been 31.
-	2008-11-15    - ) with a negative count wasn't actually tested, ( was used
-	                both times.
-	2008-10-17    - If o doesn't work, it is reported that i in binary mode will
-	                not be tested.
-	2008-09-21    - Fixed a misalignment in the fingerprint loading code.
-	2008-09-16    - MycoTRDS now expects ticks to start from zero, thus the
-	                expected value of G is one lower.
-	2008-09-15    - Fixed a misalignment in the u test with a negative argument.
-	2008-09-14    - Made the wraparound with non-cardinal delta test catch a
-	                common case.
-	2008-09-13    - Bugfix: test for k with negative argument was expecting
-	                incorrect k behaviour.
-	              - Bugfix: "GOOD: SGML spaces" was never output, who knows for
-	                how long that's been disabled.
-	              - Bugfix: IMAP check for non-ASCII now says it works when it
-	                works.
-	              - Update: IMAP check for non-ASCII is now GOOD when it works
-	                and BAD otherwise, per the latest spec.
-	              - Update: IMAP now checks mappings outside range 0-255.
-	              - Update: INDV now expects the logical order, reporting BAD
-	                otherwise.
-	2008-09-12    - Reduce stacking in HRTI test.
-	              - Corrected typo in a TOYS error message.
-	2008-09-10    - Made the check for wraparound with non-cardinal delta a bit
-	                stricter (instead of a delta of (12,0) it uses (13,2)).
-	2008-09-06    - Fixed a misspelled error message in mycouser.b98 for
-	                Befunge-93 interpreters.
-	              - Fixed a bug in 2k6 testing that led to an infinite loop.
-	2008-08-30    - Fixed the case where SCKE is included in SOCK.
-	2008-08-28    - SOCK and SCKE fixed: much code still assumed that A
-	                overwrites the original socket, and thus wrong sockets were
-	                being given to K and P.
-	2008-08-20    - Bugfix: results for the ;; concurrency test were off by one.
-	              - Test new A and O instructions in SUBR.
-	2008-08-19    - Bugfix: results for the concurrency tests 5kz and "a  b"
-	                were incorrect.
-	2008-08-14    - New fingerprint: DATE.
-	2008-08-13    - I had managed to get the way y should work as a pick
-	                instruction completely wrong. Thanks to Johannes Laire for
-	                noticing this and notifying me.
-	2008-08-11    - Removed PNTR (the same as INDV), it wasn't meant to exist
-	                any more.
-	2008-08-09    - The new addition to the FILE fingerprint, D, is now tested.
-	              - Using it, created .tmp files can now be removed from within
-	                Mycology.
-	2008-07-26    - Thanks to Arvid Norlander, Chris Pressey, and Mike Riley,
-	                none of k is UNDEF any longer, and some tests were changed
-	                to reflect the intended behaviour.
-	              - Expanded the null byte test.
-	              - Bugfix: in SOCK, the original socket should /not/ be
-	                destroyed: flipped a GOOD and BAD.
-	2008-07-19    - Now testing whether null bytes are handled correctly.
-	2008-05-02    - Bugfix: mycouser.b98 had a forgotten r in place of a (.
-	2008-03-30    - Bugfix: J test in SUBR was misaligned.
-	2008-03-29    - Bugfix: D failing in TOYS had no error message.
-	              - Bugfex: L and R in TOYS had incorrect error messages.
-	2008-03-15    - Bugfix: time output for hours <= 10 was incorrect.
-	2008-03-13    - Bugfix: a missing ; caused an incorrect error message.
-	2008-03-11    - i and o are now UNDEF if unavailable.
-	              - PERL is now tested with "5-1" instead of the palindromic
-	                "2+2". Thanks to Alex Smith for the input.
-	2008-02-02    - 1k # now considered UNDEF.
-	2008-01-09    - More typos or incorrect messages.
-	2007-12-02    - Corrected some typos.
-	2007-09-22    - Minor bugfixes.
-	2007-09-20    - Public release.
-	2007-07-26    - Creation of mycoterm.b98 and mycotrds.b98.
-	2007-06-17    - Creation of mycouser.b98.
-	2007-01-06    - Creation of mycorand.bf.
-	2006-12-31    - Creation of sanity.bf and mycology.b98.
+
+For pre-2009 changes, see the full changelog at the bottom of the file.
 
 Quick summary of how to test your Befunge interpreter:
 -------------
@@ -498,3 +431,77 @@ way to handle this limitation.)
 
 The spec is somewhat unclear on the entirety of k, but both of the above issues
 have been confirmed with Chris Pressey.
+
+Old changes
+-----------
+
+	2008-11-15    - ) with a negative count wasn't actually tested, ( was used
+	                both times.
+	2008-10-17    - If o doesn't work, it is reported that i in binary mode will
+	                not be tested.
+	2008-09-21    - Fixed a misalignment in the fingerprint loading code.
+	2008-09-16    - MycoTRDS now expects ticks to start from zero, thus the
+	                expected value of G is one lower.
+	2008-09-15    - Fixed a misalignment in the u test with a negative argument.
+	2008-09-14    - Made the wraparound with non-cardinal delta test catch a
+	                common case.
+	2008-09-13    - Bugfix: test for k with negative argument was expecting
+	                incorrect k behaviour.
+	              - Bugfix: "GOOD: SGML spaces" was never output, who knows for
+	                how long that's been disabled.
+	              - Bugfix: IMAP check for non-ASCII now says it works when it
+	                works.
+	              - Update: IMAP check for non-ASCII is now GOOD when it works
+	                and BAD otherwise, per the latest spec.
+	              - Update: IMAP now checks mappings outside range 0-255.
+	              - Update: INDV now expects the logical order, reporting BAD
+	                otherwise.
+	2008-09-12    - Reduce stacking in HRTI test.
+	              - Corrected typo in a TOYS error message.
+	2008-09-10    - Made the check for wraparound with non-cardinal delta a bit
+	                stricter (instead of a delta of (12,0) it uses (13,2)).
+	2008-09-06    - Fixed a misspelled error message in mycouser.b98 for
+	                Befunge-93 interpreters.
+	              - Fixed a bug in 2k6 testing that led to an infinite loop.
+	2008-08-30    - Fixed the case where SCKE is included in SOCK.
+	2008-08-28    - SOCK and SCKE fixed: much code still assumed that A
+	                overwrites the original socket, and thus wrong sockets were
+	                being given to K and P.
+	2008-08-20    - Bugfix: results for the ;; concurrency test were off by one.
+	              - Test new A and O instructions in SUBR.
+	2008-08-19    - Bugfix: results for the concurrency tests 5kz and "a  b"
+	                were incorrect.
+	2008-08-14    - New fingerprint: DATE.
+	2008-08-13    - I had managed to get the way y should work as a pick
+	                instruction completely wrong. Thanks to Johannes Laire for
+	                noticing this and notifying me.
+	2008-08-11    - Removed PNTR (the same as INDV), it wasn't meant to exist
+	                any more.
+	2008-08-09    - The new addition to the FILE fingerprint, D, is now tested.
+	              - Using it, created .tmp files can now be removed from within
+	                Mycology.
+	2008-07-26    - Thanks to Arvid Norlander, Chris Pressey, and Mike Riley,
+	                none of k is UNDEF any longer, and some tests were changed
+	                to reflect the intended behaviour.
+	              - Expanded the null byte test.
+	              - Bugfix: in SOCK, the original socket should /not/ be
+	                destroyed: flipped a GOOD and BAD.
+	2008-07-19    - Now testing whether null bytes are handled correctly.
+	2008-05-02    - Bugfix: mycouser.b98 had a forgotten r in place of a (.
+	2008-03-30    - Bugfix: J test in SUBR was misaligned.
+	2008-03-29    - Bugfix: D failing in TOYS had no error message.
+	              - Bugfex: L and R in TOYS had incorrect error messages.
+	2008-03-15    - Bugfix: time output for hours <= 10 was incorrect.
+	2008-03-13    - Bugfix: a missing ; caused an incorrect error message.
+	2008-03-11    - i and o are now UNDEF if unavailable.
+	              - PERL is now tested with "5-1" instead of the palindromic
+	                "2+2". Thanks to Alex Smith for the input.
+	2008-02-02    - 1k # now considered UNDEF.
+	2008-01-09    - More typos or incorrect messages.
+	2007-12-02    - Corrected some typos.
+	2007-09-22    - Minor bugfixes.
+	2007-09-20    - Public release.
+	2007-07-26    - Creation of mycoterm.b98 and mycotrds.b98.
+	2007-06-17    - Creation of mycouser.b98.
+	2007-01-06    - Creation of mycorand.bf.
+	2006-12-31    - Creation of sanity.bf and mycology.b98.
