@@ -273,17 +273,17 @@ The list of fingerprints which are tested:
 
 		"BASE"  0x42415345  I/O for numbers in other bases
 		"CPLI"  0x43504c49  Complex Integer extension
+		"DATE"  0x44415445  Date functions
 		"DIRF"  0x44495246  Directory functions extension
 		"EVAR"  0x45564152  Environment variables extension
 		"FILE"  0x46494c45  File I/O functions
 		"FIXP"  0x46495850  Some useful math functions
-		"FPDP"  0x46504450  Double precision floating point
 		"FPSP"  0x46505350  Single precision floating point
+		"FPDP"  0x46504450  Double precision floating point
 		"FRTH"  0x46525448  Some common forth [sic] commands
 		"IIPC"  0x49495043  Inter IP [sic] communicaiton [sic] extension
 		"IMAP"  0x494d4150  Instruction remap extension
 		"INDV"  0x494e4456  Pointer functions
-		"PNTR"  0x504e5452  (an alias of "INDV")
 		"SOCK"  0x534f434b  tcp/ip [sic] socket extension
 		"STRN"  0x5354524e  String functions
 		"SUBR"  0x53554252  Subroutine extension
@@ -354,7 +354,7 @@ One incorrect possibility:
 Here, { pushes abs(-1) zeroes onto the SOSS before a new stack is pushed. Since
 there was no SOSS at that time, the zero pushed doesn't appear.
 
-This is the behaviour of the Flaming Bofine Befunge Interpreter version
+This is the behaviour of the Flaming Bovine Befunge Interpreter version
 2003.0326, amended with the 2003.0722 and 2003.0726 patches.
 
 Another:
