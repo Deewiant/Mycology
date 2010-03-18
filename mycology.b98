@@ -207,12 +207,12 @@ v;      >$"ettime eb lliw )hcus sa dekram ton hguoht ,FEDNU ti redisnoc( enil A"
 
 
                                                                                   get fingerprint from storage and see how many chars it is (between 1 and 4)
-                                                 v, <                                  >$v      >$v      >$v         >     ".dedaol ton">:#,_$a, 0b53**- \  3ef* - + x
- >0" tnirpregnif gnitseT">:#,_00p410p310p210p110p>:;^p1p00:+1g00:;# _ " ...",,,, 41g:!#^_>31g:!#^_>21g:!#^_>11g 00g #^(22p33pv>".dedaol">:#,_$a, 0655**- \   ef*   - x
+                                                 v, <                                  >$v      >$v      >$v         >     ".dedaol ton">:#,_$a, 0b53**- \  2 ay - + x
+ >0" tnirpregnif gnitseT">:#,_00p410p310p210p110p>:;^p1p00:+1g00:;# _ " ...",,,, 41g:!#^_>31g:!#^_>21g:!#^_>11g 00g #^(22p33pv>".dedaol">:#,_$a, 0655**- \    ay   - x
      x -10*bb _v# !- _ #;\884***+1#;<x0-+6a0!:g14 _ #;\884***+1#;<x0-+6a0!:g13 _ #;\884***+1#;<x0-+6a0!:g12 g11 _v#!-1g22g33 <
   stack is [y, fingerprint]   zero out storage      print fingerprint and store it      v"BAD: ( did not push 1"0<
 n              >$0"tnirpregnif tcerroc hsup ton did ( :DAB"                             >a,>:#,_a,@                   try loading fingerprint,
-> ay     v     >#vA;>29*e2aa**+g:'Z-!#v_1+29*e2aa**+pv;29*e2aa**+g" :DAB",,,,,,"tcelfer ton did "v                    if succeeded store what ( pushed and go to (15, y)
+> ay     v     >#vA;>29* ay    g:'Z-!#v_1+29* ay    pv;29* ay    g" :DAB",,,,,,"tcelfer ton did "v                    if succeeded store what ( pushed and go to (15, y)
  ^"NULL"0<     ^ >  ^                 >#            #<$             a"detcelfer Z-A fo lla :DOOG"v                    but first check that ( pushed correctly (that messy line)
 v  )g22g33                                                                             ,a$_,#! #:<                    else go to (0, y+2)
 
@@ -228,17 +228,17 @@ n                                                            >0a"pu thgiarts seo
 > ay     vvv;>#v#vH   >v   v<     #; #<                     vHH             v   "BAD: H1| goes straight up"a0      <0 ' " v>#                 #<v#                       <  ev"itc"<
  ^"MODE"0<>      >0a"stcelfer H :DAB" ^              >:#,_$vH^a"edomrevoh ni krow ot mees v^<> :DOOG" H >:#,_ H |  H< :  ^;^"BAD: S reflects"a0<>:#,_$v;               1^   '>"ws "v
 v  v;>$a,    ^ >":edo"v>0a H"nwod seog v>H :DAB"     ^      >0a"nwod seog v< >H :DAB"                  v        H^1|  >"edomhctiwS">:#,_$     #^S  ] ;<           > vv     <av" in"<
-     ^_,#! #:<"Hoverm"< H H>0a"nwod seog <v  >H :DAB"^                      <                          <;       >0a"nwod thgiarts seog |0H :DAB"#;<[773**:4ff*+g'[w5ff*+g']w^>"kro"v
-   >       >         v >;  >0a"tsaehtuos seog v>H :DAB";0a"v ta tsewhtuos seog <v  >H :DAB"#;          ^                  ;v    $_,#! #:<"BAD: ] did not switch"a0<$<      <v"to w"<
-v )g22g33,a;#$_,#! #:<"Hopefully turning H off worked..."a0<          ;>:#,_"EDOM"4   v;                    p+7*ff-1*76S'S<<;#  $_,#! #:<"BAD: [ did not switch"a0 $ <v"em "<;<
-  v"m to work in switchmode"a _v#!-('g\+*6a2_v#!-)'g\*79:+8*ff)(     < ^"GOOD: {} seem to work in switchmode"a _v#!-{'g\-1*cc_v#!-}'g\*cc:+8*ff}{_,#! #:<"GOOD: [] se"<
+     ^_,#! #:<"Hoverm"< H H>0a"nwod seog <v  >H :DAB"^                      <                          <;       >0a"nwod thgiarts seog |0H :DAB"#;<[773**: ay1-g'[w  ay g']w^>"kro"v
+   >       >         v >;  >0a"tsaehtuos seog v>H :DAB";0a"v ta tsewhtuos seog <v  >H :DAB"#;          ^                  ;v    $_,#! #:<"BAD: ] did not switch"a0< <      <v"to w"<
+v )g22g33,a;#$_,#! #:<"Hopefully turning H off worked..."a0<          ;>:#,_"EDOM"4   v;                    p ya  -1*76S'S<<;#  $_,#! #:<"BAD: [ did not switch"a0  $<v"em "<;<
+  v"m to work in switchmode"a _v#!-('g\+*6a2_v#!-)'g\*79: ya  )(     < ^"GOOD: {} seem to work in switchmode"a _v#!-{'g\-1*cc_v#!-}'g\*cc: ya  }{_,#! #:<"GOOD: [] se"<
   >"ees )( :DOOG">:#,_$S a':  v>0a"hctiws ton did ) :DAB"           #^ >#            #<                        ;>0a"hctiws ton did } :DAB"            #;>:#,_$                ^
   v$_,#! #:<"Invert/queuemode"<              >0a"hctiws ton did ( :DAB"^                      vQ;            > v      > v     >0a"hctiws ton did { :DAB"^;"BAD: IQ10| goes up"a0I<
   >#vI1'a0               #v_  I0a"0 sevig edomtrevni ni 0a'1 retfa pop tsrif  eht :DAB"       v>#vQ11'a0     w        |v_a"krow ot sraeppa edomeueuq cisab :DOOG"Q>:#,_$IQ10     |
     >0a"stcelfer I :DAB" v>#v_I0a"0 sevig edomtrevni ni 0a'1 retfa pop dnoces eht :DAB"       v  >0a"stcelfer Q :DAB"v>0a"0 sevig edomeueuq ni 0a' retfa pop tsrif :DAB" QvQ    <
 v )g22g33      ,a$_,#! #:<; >#v_I0a"krow ot sraeppa edomtrevni cisab :DOOG">:#,_$              ^               Q    ;< >a"0 evig t'nseod edomeueuq ni 0a' retfa pop dnoces :DAB"^
                               >I0a"0 evig tn'seod edomtrevni ni 0a'1 retfa pop driht eht :DAB"v              >Q>0a"edomeueuq ni w0a'11 hguorht ssap t'ndid PI :DAB"       >:#,_v
-            >            ^                       "Hopefully turning I off worked..."a;#_,#! #:<;p  +*ff1  -2*7a Q';#_,#! #:<         "BAD: IQ10| followed by _ goes right"a0QI;<; <
+            >            ^                       "Hopefully turning I off worked..."a;#_,#! #:<;p  ya     -2*7a Q';#_,#! #:<         "BAD: IQ10| followed by _ goes right"a0QI;<; <
   v005432                                                                                                      $_,#! #:<Q"GOOD: queuemode and invertmode seem to work together"aI_^
             ^;>v >  >0a"...revocer ot deganam yllufepoH"a"{QI005432 retfa kcats elbissopmi :DAB">:#,_n}n#;<
   >    IQ{QI 4w 3w0a"sedom eht ot gnidrocca"      >" gnihsup dna gnippop yb SSOT ot SSOS morf sllec sevom {QI :FEDNU">:#,_$IQ{QI}}!#v_a"edomtrevni yb detceffanu"v
@@ -300,7 +300,7 @@ v                            >$a"4 hsup t'nseod A65 :DAB"^                  >$a"
    v  $_,#! #:<"Cannot test S reliably. If this line begins with ""'"GOOD: ""'", it worked."aS^#"GOOD: "_,#! #:<   ;#"GOOD: P works"a_v#!-cgba_v#-cgabP^# abc$<     ;<
    >f#vX>>>>v<< v>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>v^"BAD: P doesn't work"a<        >a"p ekil stup P :DAB"^
       >na"stcelfer X :DAB"                    >:#,_v#:             ;>:#,_$;            "BAD: X went too far"a]>a"krow ot smees Y :DOOG"#;>:#,_3]0a"stcelfer V :DAB"                v
-            >$  a"tegrat fo trohs tnew X :DAB"^    >;               ^"BAD: Y reflects"a;#         n 13aa**+   Y>a"krow t'nseod Y :DAB"   ^vvvvv vv<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+            >$  a"tegrat fo trohs tnew X :DAB"^    >;               ^"BAD: Y reflects"a;#         n     ay# 1-Y>a"krow t'nseod Y :DAB"   ^vvvvv vv<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                 >\$"krow ot smees X :DOOG"    ^                                       >;                      >^<                        vvvvvv vv<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<;v
          x90                      "BAD: W reflects"a0[3_,#! #:<"BAD: V doesn't work"a<^  "BAD: V changes both deltas in wrong direction"a<vvvvv vv<<<<<<<<<>                       v
   v"work"a<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<^ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<#vv<<<<<<<<<^"BAD: V changes both "<
@@ -331,9 +331,9 @@ v  )g22g33 ,a                                                           <       
       >2w1w 0a"emit dnoces eht rotcev tsrif denruter D :DOOG"     >:#,_n^
         >$>>0a"emit dnoces eht rotcev tsrif gnorw denruter D :DAB"^
 n                                                                                                                                      v <
-> ay     v     >100p>#vI                               :00g-#v_0" sehsup "da+973a*+*g" :DOOG">:#,_$.                    >a,da+973a*+*g:'Lw$  #L aa*'Cv
- ^"ROMA"0<            >0astcelfer "da+973a*+*g" :DAB">:#,_n; >0" sehsup "da+973a*+*g" :DAB">:#,_$." fo daetsni">:#,_g.#;^  vV'    5 I#<D    >#M n      v                  >":DAB" v
-v                   ^                                                                                      p00p*+*a379+ad;#<M'**aaa D#w< >'Vw#V a'X#;<                    ^" I ref"<
+> ay     v     >100p>#vI                               :00g-#v_0" sehsup "da+  ay  g" :DOOG">:#,_$.                     >a,da+  ay   g:'Lw$  #L aa*'Cv
+ ^"ROMA"0<            >0astcelfer "da+  ay1- g" :DAB">:#,_n; >0" sehsup "da+   ay1-g" :DAB">:#,_$." fo daetsni">:#,_g.#;^  vV'    5 I#<D    >#M n      v                  >":DAB" v
+v                   ^                                                                                      p00p -2ya  +ad;#<M'**aaa D#w< >'Vw#V a'X#;<                    ^" I ref"<
 v  )g22g33 ,a                                                                                                             ;^D'**5aa C#<     >#X 5a*'L^;<                  >n"stcel"^
 n                                                                          v                        <
 > ay     v     >32#vA 3-#v_3-#v_   3-!#v_"skrow A :DOOG">:#,_a,$     f12#vB>0" [ sa kcats sevael B21 :FEDNU">:#,_$>:f-#v_$a")mottob ot pot morf( ]">:#,_n3#vDDD#v_"orez si DDD3 :D"v
@@ -344,50 +344,50 @@ v                        >$   >        >n"seerht owt sa kcats evael t'n"^      v
   >#vwn"721- t'nsi N-1*288">" :DAB"v                >n"021 t'nsi P543211"^                                           v   "BAD: C reflects"               <
   ] <>"721- si N-1*288 :DOOG"      >:#,_a,$64#vHc8*-              #v_a"69 si H46 :DOOG"    >:#,_$b7*03-#vH                                     9-#v_"9 si H-30*7b :DOOG"  >:#,_a,$
   >0f-03-#vH :  2+v                           >na"stcelfer H :DAB";>na"69 t'nsi H46 :DAB"#;^            >n"stcelfer tfihs evitagen a htiw H :DAB";>n"9 t'nsi H-30*7b :DAB"^;# <
-          >n"stcelfer stnemugra evitagen htiw H :DAB"                              >:#,_$a,ac* 3aa**4a*6++ 0872**-6x !  >dc* 3aa**4a*6++ 0ae*-6x            >16a*+184b**+33d5*84b**v
-                  >$ #v_$"tfihs thgir dengis a did H gninaem ,2- si H-30-f0 :FEDNU"^                      <                  <   x    *2b-*9e0*+*2a9c*adC^#                        <
-                      >65*3a*1-*4a*3+*aa*d+*884**1-* -#v_"tfihs thgir dengisnu na did H gninaem ,019078635 si H-30-f0 :FEDNU"^ v;v_aa7+*e55**2- 0fa*- 93*x   v" area"    n_v;"BAD:"<
+          >n"stcelfer stnemugra evitagen htiw H :DAB"                              >:#,_$a,ac*      ay     0872**-6x !  >dc*      ay     0ae*-6x            >16a*+ ay7+  33d5* ay6+v
+                  >$ #v_$"tfihs thgir dengis a did H gninaem ,2- si H-30-f0 :FEDNU"^                      <                  <   x    *2b-*9e0 +1ya  *adC^#                        <
+                      >65*3a*1-*4a*3+*aa*d+*884**1-* -#v_"tfihs thgir dengisnu na did H gninaem ,019078635 si H-30-f0 :FEDNU"^ v;v_aa7+* ay     0fa*- 93*x   v" area"    n_v;"BAD:"<
                                                        >n"019078635 ron 2- rehtien si H-30-f0 :DAB"       ^          >#v_,#! #:<;>n "yltcerroc ypoc t'nseod C :DAB"#;<   > #; ' #; [
-                                                                                              xe -*d70 -4**e55-3*a9<v< >$         1v                         >"lanigiro seifidom C"^
-   the resetter of the starting area                  the area used for copying and moving                        v,awK'g**777-3*ad_,#! #:<"GOOD: C works as a basic copy" <
-   >56a*:5\84b**p1+:5\84b**p1+:5\84b**pv                    555                                                    #>>'K:ad*3-777**p:8a9+*55e**3-p:cd*55e**1-p:ed*4-55e**p237a*+*39v
-   v                       -2          <                    5134                                                  $^ $                                                         p**d<
-   >184b**+p184b**+:1\16a*+\p:3\26a*+\pv                    5332                                              >   >;reset both;af* 66a*1-* 0cc*-02-x  >af*517a*+*0bf*- ax
-   v                      :+1  p\*97\4:<                     222                              xe -*d70 +**b844*8e;check both;Mv#**b48*5d33+**b481+*a61< do the move
-   >5\6a*\p:3\16a*+\p:3\26a*+\p:2\97*\pv                                                                      #v_9f* 448b**+ 0ad*-38*xv_a"evom cisab a sa skrow "555**348b**+g" :D"v
-   v                      :+1          <                                                                      ^         p+**b843\V'_v#  -V'g+**b843:**555_,#! #:<             "GOO"<
-   >2\16a*+\p:2\26a*+\p2\97*\p895**-\76*-\v            We'll be moving the 3x3 area starting at the 1       v x-60-+7*aa0-2**598*c9$< >a"secaps sa aera lanigiro evael t'nseod "555v
-                                                       one cell to the northwest to test overlapping        $                 >na"stcelfer "555**348b**+g" :DAB"^ "BAD: "g+**b843**<
-                                          x            moves and copies.  +-------------------+             1  >a"yltcerroc evom t'nseod "555**348b**+g" :DAB"  ^
+                                                                                              xe -*d70  -4ya  -3*a9<v< >$         1v                         >"lanigiro seifidom C"^
+   the resetter of the starting area                  the area used for copying and moving                        v,awK'g -8ya-3*ad_,#! #:<"GOOD: C works as a basic copy" <
+   >56a*:5\ ay  p1+:5\ ay  p1+:5\ ay  pv                    555                                                    #>>'K:ad*3-ay9- p:8a9+* ay5-  p:cd* ay3-  p:ed*5- ay2-p237a*+*ayv
+   v                       -2          <                    5134                                                  $^ $                                                         p -1<
+   >ay1-   pay1-   :1\16a*+\p:3\26a*+\pv                    5332                                              >   >;reset both; af* ay     0cc*-02-x  >af* ay1+  0bf*- ax
+   v                      :+1  p\*97\4:<                     222                              xe -*d70 +-3ya 4*8e;check both;Mv# -3ya*5d33+ -3ya1+*a61< do the move
+   >5\6a*\p:3\16a*+\p:3\26a*+\p:2\97*\pv                                                                      #v_9f* 448b**+ 0ad*-38*xv_a"evom cisab a sa skrow "555**   ay1-g" :D"v
+   v                      :+1          <                                                                      ^         p+ -5ya3\V'_v#  -V'g+ -5ya3:**555_,#! #:<             "GOO"<
+   >2\16a*+\p:2\26a*+\p2\97*\pay2+-\ 76*-\v            We'll be moving the 3x3 area starting at the 1       v x-60-+7*aa0 ya  *c9  $< >a"secaps sa aera lanigiro evael t'nseod "555v
+                                                       one cell to the northwest to test overlapping        $                 >na"stcelfer "555**3ay7- +g" :DAB"^ "BAD: "g+ -7ya3**<
+                                          x            moves and copies.  +-------------------+             1  >a"yltcerroc evom t'nseod "555**3ay8- +g" :DAB"  ^
                                                        Expected results:  | C    K    M    V  |             6                                v<         <         <         <
-                                                                          |134  224  134  224 /             [a*+184b**+336a*84b**C84b**:6a*\g1w:16a*+\g3w:26a*+\g4w1+:6a*\g3w:16a*+v
+                                                                          |134  224  134  224 /             [a*+1aya- +336a*aya- Caya- :6a*\g1w:16a*+\g3w:26a*+\g4w1+:6a*\g3w:16a*+v
    the resetter of the area moved/copied to for the non-overlapping tests |3324 2224 332  2  /   >         >           >    v  <         <   <<    <    <    <    <  <      <  <
-   >84b**>:0\d5*\p:0\6b*\p:0\76a*+\p1+:384b**+-v                          |2222 2222 222  2 /v*79w2g\+*a62:w2g\+*a61:+1w2g\*97:w2g\+*a62:w2g\+*a61:w2g\*a6:+1w4g\*97:w2g\+*a62:w3g\<
-         ^                                     _$537a*+*-\97*-\x          | 222  222       / \  >>         >>          >    v  <         <         <         <       <         <
+   >ayc- >:0\d5*\p:0\6b*\p:0\76a*+\p1+:3ayc- +-v                          |2222 2222 222  2 /v*79w2g\+*a62:w2g\+*a61:+1w2g\*97:w2g\+*a62:w2g\+*a61:w2g\*a6:+1w4g\*97:w2g\+*a62:w3g\<
+         ^                                     _$ ay-\    97*-\x          | 222  222       / \  >>         >>          >    v  <         <         <         <       <         <
                                                                           +---------------/  >g2wa"skrow C htiw ypoc gnippa" "lrevo :DOOG"v
-   the checker of the area moved/copied to for the non-overlapping tests                        >                           v             >:#,_39a*+ 2aa9+** 0ce*- 0f-     x
-                >       >         >         >       >         >         >       >       $>#v                 v#        <    n                                            >v
-   >84b**:d5*\g1w:6b*\g3w:76a*+\g4w1+:d5*\g3w:6b*\g3w:76a*+\g2w1+:d5*\g2w:6b*\g2w76a*+\g2w;>914a*+*-\ c9*-\ x ;00p0\00g^    a             ^"BAD: overlapp"<              *-
-                >       >         >         >       >         >         >       >       $>;^      g00\1p00;# <              >"krow t'ndid C htiw ypoc gni"^              *\
-                                                                                                                                                                         f7
-   the checker of the original area, for the non-overlapping copies                                                                                                      55
-   checks the whole 4x4 area just in case                                                                                                                                55
-                >         >         >        >         >         >         >       >         >         >         >       >          >         >         >     $>0>0p1\00g^*
-   >84b**:6a*\g5w:16a*+\g5w:26a*+\g5w:97*\g' w1+:6a*\g5w:16a*+\g1w:26a*+\g3w:97*\g4w1+:6a*\g5w:16a*+\g3w:26a*+\g3w:97*\g2w1+:6a*\g' w:16a*+\g2w:26a*+\g2w97*\g2w00p0\00g ^>*-\ x
-                >         >         >        >         >         >         >       >         >         >         >       >          >         >         >     $> ^
+   the checker of the area moved/copied to for the non-overlapping tests                        >                           v             >:#,_39a*+ ayd+    0ce*- 0f-     x
+    v3<         >       >         >         >       >         >         >       >       $>#v                 v#        <    n                                            >v
+   v>f +-:d5*\g1w:6b*\g3w:76a*+\g4w1+:d5*\g3w:6b*\g3w:76a*+\g2w1+:d5*\g2w:6b*\g2w76a*+\g2w;>   ay  -\ c9*-\ x ;00p0\00g^    a             ^"BAD: overlapp"<               -
+   >ay^         >       >         >         >       >         >         >       >       $>;^      g00\1p00;# <              >"krow t'ndid C htiw ypoc gni"^              +\
+                                                                                                                                                                         37
+   the checker of the original area, for the non-overlapping copies                                                                                                      y5
+   checks the whole 4x4 area just in case                                                                                                                                a5
+    v3<         >         >         >        >         >         >         >       >         >         >         >       >          >         >         >     $>0>0p1\00g^*
+   v>8 *-:6a*\g5w:16a*+\g5w:26a*+\g5w:97*\g' w1+:6a*\g5w:16a*+\g1w:26a*+\g3w:97*\g4w1+:6a*\g5w:16a*+\g3w:26a*+\g3w:97*\g2w1+:6a*\g' w:16a*+\g2w:26a*+\g2w97*\g2w00p0\00g ^>*-\ x
+   >ay^         >         >         >        >         >         >         >       >         >         >         >       >          >         >         >     $> ^
    checks the original 3x3 area is spaces, for the non-overlapping moves
                                                                                              overlap testing continued below...
-                      >          >       >>$00p1\00g            vv     <                             v               <             <         <         <         <         <
-   >1b48**+>:16a*+\g' w:26a*+\g' w:97*\g' w1+:4b48**+-v         > ad*3-^                     >16a*+184b**+336a*84b**#^K84b**:6a*\g2w:16a*+\g2w:26a*+\g4w1+:6a*\g2w:16a*+\g2w:26a*+\v
-           ^;         >          >       ^<          ;_$00p0\00g^>3*-\f5*-\x                        v<      <         <           <<      <  <      <  <      <  <      <  <    <
+                      >          >       >>$00p1\00g            vv     <                             v         ;v+e<;<  v+e<       <         <         <         <         <
+   >ay39*- >:16a*+\g' w:26a*+\g' w:97*\g' w1+: ay38*--v         > ad*3-^                     >16a*+ay39*- 336a*v>-  #^Kv>-  :6a*\g2w:16a*+\g2w:26a*+\g4w1+:6a*\g2w:16a*+\g2w:26a*+\v
+           ^;         >          >       ^<          ;_$00p0\00g^>3*-\f5*-\x                        v<      < ;>ayf^; <>ayf^      <<      <  <      <  <      <  <      <  <    <
                                                                                                    v w2g\*79w2g\+*a62:w2g\+*a61:+1w2g\*97:w2g\+*a62:w2g\+*a61:w2g\*a6:+1w4g\*97:w2g<
    >        >         >         >         >         >         >v                                   #>v      <         <           <       <         <         <         <       <
-  vw 'g\*97:w2g\+*a62:w3g\+*a61:w3g\*a6:+1w4g\+*a62:w3g\+*a61:w1g\*a6:**b48Mv#**b48*a633+**b481+*a61<>na"krow t'ndid K htiw ypoc gnippalrevo :DAB"v
-   >        >         >         >        >>         > >       >> >      v<  <                      >a"skrow K htiw ypoc gnippalrevo :DOOG"        >:#,_aa*886** 0ce*- 03b*-x
-  >1+:6a*\g2w:16a*+\g2w:26a*+\g2w:97*\g' w1+:16a*+\g' w:26a*+\g' w97*\g' w a"skrow M htiw evom gnippalrevo :DOOG"    >:#,_                             2fd2**1-0ce*-043a*+-x
+  vw 'g\*97:w2g\+*a62:w3g\+*a61:w3g\*a6:+1w4g\+*a62:w3g\+*a61:w1g\*a6:- 'yaMv#- 'ya*a633+- 'ya1+*a61<>na"krow t'ndid K htiw ypoc gnippalrevo :DAB"v
+   >        >         >         >        >>         > >       >> >      v<  <                      >a"skrow K htiw ypoc gnippalrevo :DOOG"        >:#,_aa* ay1- 0ce*- 03b*-x
+  >1+:6a*\g2w:16a*+\g2w:26a*+\g2w:97*\g' w1+:16a*+\g' w:26a*+\g' w97*\g' w a"skrow M htiw evom gnippalrevo :DOOG"    >:#,_                             2 ay3+  0ce*-043a*+-x
             >         >         >        >            >          >      >na"krow t'ndid M htiw evom gnippalrevo :DAB"^
                           >             >         >         >         >          >          >        >         >          >          >        >            >          >       >v
-  >16a*+184b**+336a*84b**#^V84b**:6a*\g2w:16a*+\g2w:26a*+\g4w1+:6a*\g2w:16a*+\g' w:26a*+\g' w:97*\g' w1+:6a*\g2w:16a*+\g' w:26a*+\g' w:97*\g' w1+:16a*+\g' w:26a*+\g' w97*\g' w v
+  >16a*+1ay'%-+336a*ay'%-#^Vay'%-:6a*\g2w:16a*+\g2w:26a*+\g4w1+:6a*\g2w:16a*+\g' w:26a*+\g' w:97*\g' w1+:6a*\g2w:16a*+\g' w:26a*+\g' w:97*\g' w1+:16a*+\g' w:26a*+\g' w97*\g' w v
                                         >         >         >         >          >          >        >         >          >          >        >            >          >       v
                                                           >aa*v                                                                  v"BAD: overlapping move with V didn't work"an<<
   v                                         ;>v       >v  ^d< +>v;                                                        _,#! #:<        "GOOD: overlapping move with V works"a<
@@ -396,15 +396,15 @@ v                        >$   >        >n"seerht owt sa kcats evael t'n"^      v
   v"e row"< <                                >>na"krow t'nseod S :DAB"             ^        > "lfer F :DAB"v>    >>#;na  "krow t'nseod F :DAB">:#,_v      ;<<   <<   <<<  << ;<
   >"no h"va a      v      <                   >              v                                             <          >>"i retfa j spop F :FEDNU">:#,_$45gcw55gdw46gew56gfw v ^
   v      <n n      ;      ^"BAD: 1J reflects"an <         v   _,#! #:<                 v< < < < < <        v        "BAD: can't test G without F"a[[       >    >    >    >^
-           vwJ'g-2**aa4-3*a5_v#-J'g-1**aa4-3*a5J^#1  $_,#! #:<        "GOOD: G works"a  wfwewdwcwbwa                                       Gv#4432]]_,#! #:<"GOOD: F works"a<
+           vwJ'g-2**aa4-3*a5_v#-J'g   +1ya-3*a5J^#1  $_,#! #:<        "GOOD: G works"a  wfwewdwcwbwa                                       Gv#4432]]_,#! #:<"GOOD: F works"a<
         v;^ <;               <         > #;1-#^        v ;<  ^;#"BAD: G doesn't work"an<< < < < < <       ;<             "BAD: G reflects"an<
            >na       "lla ta flesti evom        t'nseod J1 :DAB"v                                            >>na"noitautis evloser t'ndid J-10 :DAB"v              @_,#! #:<"BAD:"<
         >    a"wor eno htuos flesti sevom J1    :DOOG";>        #   ;^;v              >    >na"detcelfer J-10 :DAB"                      >           >:#,_a"ecapS-egnuF detpurroc "^
   >"tuos flesti evom t'nseod J1 :DAB">:#,_      a"...kcab ti sevom J-10 yllufepoH">:#,_01-#^J5a*3-4aa**2-g 'Jw# a".lamron ot kcab eb dluohs ecapS-egnuF"v
                    ;  >:#,_v#:;#                                <                      > v                   >^                          #             ;<
-  v                ># ^#   <                                           >5a*3-4aa**2-g'Jwa "wor eno htron flesti sevom J-10 :DOOG">:#,_$
+  v                ># ^#   <                                           >5a*3-ay6-   g'Jwa "wor eno htron flesti sevom J-10 :DOOG">:#,_$
        >na"stcelfer O-10 :DAB"                                      >  v               > >na"wor eno htron flesti evom t'nseod J-10 :DAB"^        > >na"tsae eht ot nmuloc eno w"v
-  >01-#^O#vna"tsew eht ot nmuloc eno wor sti evom t'nseod O-10 :DAB"^v<>:#,_$1#vO8a*64aa**+g'O-#v_a"tsae eht ot nmuloc eno wor sti sevom O1 :DOOG" v  v"ed only a part of its r"<<<
+  >01-#^O#vna"tsew eht ot nmuloc eno wor sti evom t'nseod O-10 :DAB"^v<>:#,_$1#vO8a* ay    g'O-#v_a"tsae eht ot nmuloc eno wor sti sevom O1 :DOOG" v  v"ed only a part of its r"<<<
  #       > na"tsew eht ot nmuloc eno wor sti sevom O-10 :DOOG"        ^       v                <<<                                                ^ ^>>>"vom O1 :DAB"v
           >                                                         >>>na"tsew eht ot nmuloc eno wor sti fo trap a ylno devom O-10 :DAB"           v                 <
       v                                          <                             >na"stcelfer O1 :DAB"                                               v
@@ -416,24 +416,24 @@ v                        >$   >        >n"seerht owt sa kcats evael t'n"^      v
                       >'n-!#^_na"lla ta krow t'nseod L :DAB"^   >>na"llec lamron dnah-tfel teg t'nseod L :DAB"^    >#vR#[:'  -#v_$a"ecaps dnah-thgir steg R :DOOG"   >:#,_$^R  >v
                                                v                                                                     > na"stcelfer R :DAB"                                 >
   a"llec lamron dnah-thgir steg R :DOOG"       >:#,_v                        >na"krow t'nseod Q :DAB"v                D        $           >na"dnah-tfel steg R :DAB"      ^     >
-  na"llec lamron dnah-thgir teg t'nseod R :DAB"^    >a'Q#vQ#]9+:b2**\3*\g'Q-#^_na"skrow Q :DOOG"     >:#,_11x                  >'D-:#v_na"ecaps tsap sehcaer R :DAB" ^          >
+  na"llec lamron dnah-thgir teg t'nseod R :DAB"^    >a'Q#vQ#]9+ ay  \3*\g'Q-#^_na"skrow Q :DOOG"     >:#,_11x                  >'D-:#v_na"ecaps tsap sehcaer R :DAB" ^          >
                                                          > na"stcelfer Q :DAB"                       ^       # >a"pu seog T00 :DAB"v >'F-!#^_na"lla ta krow t'nseod R :DAB"^
                                                         > #;[n"llec gniwollof revo spiks Q :DAB">:#,_#;<      >na"stcelfer T :DAB" > >      ;>na"pu seog T10 :DAB"     v;v
   211x                                 v20 <                                                                  vTa"thgir seog T00 :DOOG">:#,_1Tna"hguorht seog T10 :DAB"> >:#,_
-      # >a"pu seog T20 :DAB"          v>000v     >a"stcelfer U :DAB"  v>      ;BAD;vv              p*+*a479<  > a"tfel seog T00 :DAB"# ^   < >a"nwod seog T10 :DOOG"   ^
+      # >a"pu seog T20 :DAB"          v>000v     >a"stcelfer U :DAB"  v>      ;BAD;vv              p   +1ya<  > a"tfel seog T00 :DAB"# ^   < >a"nwod seog T10 :DOOG"   ^
        >na"stcelfer T20 :FEDNU"       v    #  v12n<<                >'vw    ;was v;  00g:3-!#v_1+00p'v48a*+^     >na"hguorht seog T00 :DAB"^
-       vTa"thgir seog T20 :DAB"       >:#,_^>1-11x^                    >      ;BAD;vv              p**+a755<   >a"nwod seog T00 :DAB" ^
-       > a"tfel seog T20 :DAB"        ^v11p<0 1  vU^>5a*55a7+**g:'^\w       ;was ^;  00g:3-!#v_1+00p'v48a*+^                        v                                    <
-  v       >na"hguorht seog T20 :FEDNU"^>p0p0^    nvv                : # >     ;BAD;>  na"v^<> fo eno neeb evah dluohs ,'"5a*55a7+**g"' otni detumsnart U :DAB"v         >
-  ;     >a"nwod seog T20 :DAB"        ^  v_v#!g11 n<                >'>\w$  ;was >;  00g:3-!#v_1+00p'v48a*+716a*+*pv           >>na "...gnivael ,snoitareti DAB 02 :DAB" ^
-   v"'t execute itself after transmuting"< #^   n11  p**+7a55*a5U'        ;>  "BAD"^>#;<                         < <    p20+1 <]w*2a            :g20  $_,#! #:<
-  v"U executes itself after transmuting"_v#!  <g1<<                     >'<w;was <;  00g:3-!#v_1+00p'^48a*+3bd**p^            ^ <   >v>;#"BAD: 000p000W reflects"ap$$$<;^
+       vTa"thgir seog T20 :DAB"       >:#,_^>1-11x^                    >      ;BAD;vv              p   +1ya<   >a"nwod seog T00 :DAB" ^
+       > a"tfel seog T20 :DAB"        ^v11p<0 1  vU^>5a*ay     g:'^\w       ;was ^;  00g:3-!#v_1+00p'v48a*+^                        v                                    <
+  v       >na"hguorht seog T20 :FEDNU"^>p0p0^    nvv                : # >     ;BAD;>  na"v^<> fo eno neeb evah dluohs ,'"5a*ay1-   g"' otni detumsnart U :DAB"v         >
+  ;     >a"nwod seog T20 :DAB"        ^  v_v#!g11 n<                >'>\w$  ;was >;  00g:3-!#v_1+00p'v48a*+ ay    pv           >>na "...gnivael ,snoitareti DAB 02 :DAB" ^
+   v"'t execute itself after transmuting"< #^   n11  p   -3ya*a5U'        ;>  "BAD"^>#;<                         < <    p20+1 <]w*2a            :g20  $_,#! #:<
+  v"U executes itself after transmuting"_v#!  <g1<<                     >'<w;was <;  00g:3-!#v_1+00p'^48a*+ ay  p^            ^ <   >v>;#"BAD: 000p000W reflects"ap$$$<;^
   >""        >" :FEDNU">:#,_a,$111p      > >  >     ^                      >  ;BAD;^         >na"v^<> fo lla otni detumsnart U :DOOG">:#,_1y2%!#v_p'@faf*+689**000#vt#^Wpa"hguorht"v
   v>"nseod U"^                                                        >                                                              ^                           v<<   <           >
   " stiaw W000p000 :DABvv"deb*+25ef*+*p83a*+689**p@     v                                  "Cannot test W without Concurrent Funge-98 support."a<                >>>na"yletinifedni"
   "                               v$$$<                         >$$$pna"stcelfer W001p000 :DAB"                v                           >$$$pa"stcelfer W00-10p000 :DOOG"    v
-  >" seog W000p000 :DOOG"        ;>$#;>:#,_'@97*f92a*+*  100#vt#^Wpa"hguorht seog W001p000 :DAB"    >;#$$$$$< ;>:#,_'@6bc*+f92a*+*01-00#vt#^Wpa"hguorht seog W00-10p000 :DAB"   v
-  ;ea*27ef*+*pdf92a*+*p@                               > #< #<na#<"yletinifedni stiaw W001p000 :DOOG^v"d5*27ef*+*pc9*f92a*+*p@    > #< #<na#<"yletinifedni stiaw W00-10p000 :DABvv";
+  >" seog W000p000 :DOOG"        ;>$#;>:#,_'@97* ay1+    100#vt#^Wpa"hguorht seog W001p000 :DAB"    >;# $$$$< ;>:#,_'@6bc*+f92a*+*01-00#vt#^Wpa"hguorht seog W00-10p000 :DAB"   v
+  ;ea*27ef*+*pdf92a*+*p@                               > #< #<na#<"yletinifedni stiaw W001p000 :DOOG^v"d5* ay1-  pc9* ay    p@    > #< #<na#<"yletinifedni stiaw W00-10p000 :DABvv";
   >         ;>$$$$v;                  [                 <                                                                                                                       <
       v_,#! #:<   <                   <               >a"stcelfer Y :DAB"                     v                                >"stcelfer"     v
       >#vXva"skrow X :DOOG"                     >:#,_#^Y>a"skrow Y :DOOG"                     >:#,_" egnufeB ni Z :FEDNU">:#,_#^Z"gnihtoh seod">:#,_a,v
@@ -442,9 +442,9 @@ v                        >$   >        >n"seerht owt sa kcats evael t'n"^      v
 v  )g22g33 ,a                                                                                                                                         <
 n                              v ,a_,#! #:<"Cannot test TURT's drawing correctness in any way, both due to technical reasons and the fact that the precise results are undefined."a<
 > ay     v     >".rehto hcae ot tnecajda yllanogaid stod owt niatnoc dluohs egami gnitluser ehT"a".yltcerroc hsup/pop dna tcelfer t'nod snoitcurtsni eht taht ylno eb lliw dekcehC"^
- ^"TURT"0<     v;LRHFBPCN;     <                     >na"pop ton seod "00g98++485b**+g" :DAB"   v                      >na"pop ton seod D :DAB"    v              >     >na       v
-v              >p>00g98++485b**+g 86*585b**+p1#v 1-!#^_a"yltcerroc spop "00g98++485b**+g" :DOOG">:#,_00g:7-#v_$1#vD1-!#^_Da"yltcerroc spop D :DOOG">:#,_ 11#vT1-!#^_1-!#^_a"yltc"v
-                 ^;                            >na"stcelfer "00g98++485b**+g" :DAB"             ^     ;p00+1<    >na"stcelfer D :DAB"              ^        >na"stcelfer T :DAB"v
+ ^"TURT"0<     v;LRHFBPCN;     <                     >na"pop ton seod "00g98++ ay    g" :DAB"   v                      >na"pop ton seod D :DAB"    v              >     >na       v
+v              >p>00g98++ ay1-  g 86* ay    p1#v 1-!#^_a"yltcerroc spop "00g98++ ay1-  g" :DOOG">:#,_00g:7-#v_$1#vD1-!#^_Da"yltcerroc spop D :DOOG">:#,_ 11#vT1-!#^_1-!#^_a"yltc"v
+                 ^;                            >na"stcelfer "00g98++ ay2-  g" :DAB"             ^     ;p00+1<    >na"stcelfer D :DAB"              ^        >na"stcelfer T :DAB"v
    v"hed (1, 1)"an_v#!-1_v#!-1Qv#_,#! #:<                    "GOOD: A pushed 1"an_v#!-1:Av#_,#! #:<                    "GOOD: E pushed 1"an_v#!-1:Ev#_,#! #:<                   <
   v" push (1, 1)"an<     <              ^"instead of 1"a.$_,#! #:<"BAD: A pushed "<               ^"instead of 1"a.$_,#! #:<"BAD: E pushed "<               ^"GOOD: T pops corre"<
    s      v "BAD: Q reflects"an<        ^                             "BAD: A reflects"an<        ^                             "BAD: E reflects"an<        ^"BAD: T does not pop"<
@@ -642,7 +642,7 @@ v  )g22g33 ,a }_,#! #:<  ;>na"stcelfer I :DAB">:#,_                  ^;         
                    >na"detcelfer y8 s'dlihc htiw G :DAB"       ^
 v  )g22g33 ,a}                                                                                                          _,#! #:<
 n
-> '\7*   v   >#v#vCa"tcelfer t'nseod spamer tuohtiw C :DOOG">:#,_'4'5#vM522+-#v_a"4 sehsup 5M5'4' :DOOG">:#,_'5'7#vM722+- #v_a"4 sehsup 7M7'5'M5'4' ,krow s"                       v
+> ay     v   >#v#vCa"tcelfer t'nseod spamer tuohtiw C :DOOG">:#,_'4'5#vM522+-#v_a"4 sehsup 5M5'4' :DOOG">:#,_'5'7#vM722+- #v_a"4 sehsup 7M7'5'M5'4' ,krow s"                       v
  ^"IMAP"0<   {   >na"stcelfer spamer tuohtiw C :DAB"        ^                 >na"5 sehsup 5M5'4' :DAB" v         >na"tcelfer M7'5'M5'4' ekil stpmetta "                           v
 v  )g22g33 ,a   ;try to clear; n<Cv#     _,#! #:<  "BAD: M reflects"an<                                                    >$723+-#v_a"5 sehsup 7M7'5'M5'4' ,krow t'nod s"         v
              ^ < just in case   ^ <             ^                                                       <                          >a"4 sehsup 5 ro 4 hsup t'nseod 7M7'5'M5'4' ,p"v
@@ -667,7 +667,7 @@ v                                 >$a"krow t'nseod G :DAB"^         >$a"krow t'n
                                                                >na"deppop ton ,rotcev derots ot ylno tesffo egarots deilppa G :DAB"v              v           "BAD: W reflects"an< 7
    v                                                                  ;>na"stesffo egarots sesusim ro lla ta krow t'nseod G :DAB"v  ;      _,#! #:<     "GOOD: W works"a_v#!-6g21< -
                                              > v     >na"derots ton ,rotcev deppop ot ylno tesffo egarots deilppa G :DAB"v                        ^"BAD: W doesn't work"a<     $_^#<
-   >{05-03'}'b+*-#vG                   :' -!#^_:7- !#^_:'l-  !#^_'2-  #^_na"ylreporp stesffo egarots seilppa G :DOOG"v
+   >{05-   0ay-  #vG                   :' -!#^_:7- !#^_:'l-  !#^_'2-  #^_na"ylreporp stesffo egarots seilppa G :DOOG"v
                   >na"dtcelfer G dnoces :DAB"v >na"lla ta tesffo egarots ylppa ton did G :DAB"v
 v  )g22g33 ,a }n                             <                                         _,#! #:<                      <   <       < <
 
