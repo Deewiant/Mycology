@@ -23,6 +23,7 @@ Recent changes
 
 	2010-03-18    - Don't test o if y claims it isn't supported.
 	              - INDV: check proper storage offset application.
+	              - Test ' with a value greater than 127.
 
 For pre-2010 changes, see the full changelog at the bottom of the file.
 
