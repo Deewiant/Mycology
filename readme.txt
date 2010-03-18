@@ -21,6 +21,7 @@ Contents of this readme:
 Recent changes
 --------------
 
+	2010-03-18    - Don't test o if y claims it isn't supported.
 	2009-05-13    - MycoTRDS accepts P-values greater than 0 and reports
 	                unacceptable values as UNDEF, not BAD.
 	2009-04-04    - Made the u test not abort if the storage offset isn't (0,0).
