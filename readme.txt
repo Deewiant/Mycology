@@ -22,6 +22,8 @@ Recent changes
 --------------
 
 	2010-03-19    - Test correct form feed handling.
+	              - Made the first negative space test use (-3,-2) instead of
+	                (-1,-1).
 	2010-03-18    - Don't test o if y claims it isn't supported.
 	              - INDV: check proper storage offset application.
 	              - Test ' with a value greater than 127.
