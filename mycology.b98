@@ -189,23 +189,23 @@ v_,#! #:<"Here's how your interpreter deals with some possibilities unmentioned 
   >a"ytpme si"             ;v <                 ^  <      >  "tnemugra eht fo eulav etulosba eht sesu"   ;v;  ^    >a," ecaps fo egde eht dnuora depparw gnirts ytpme eht :FEDNU"^
                             >")secaps yllufepoh( )s(retcarahc">:#,_a,00g1\w                             > >:#,_" tnuoc evitagen a htiw ( :FEDNU">:#,_fe01-#v("tcelfer t'nseod["3a*1v
                                                                           >a"rorre ygolocyM lanretni"  > " :D" v                         v"reflects">#     ] ,,,,,,,,,,,,,,,p*+9aa+<
-                                                                                                        ^ "BA" <                         > ,,,,,,,, ^ v< v$e<
+      >n"FOE ro kaerb enil sa detaert deef mrof :DAB">:#,_a,@                                           ^ "BA" <                         > ,,,,,,,, ^ v< v$e<
                                                   >937**:')\9f*\p')\cd*\ p                                    ^               v                       nwf< w^
     v                                          ,a_^#-('g**937*9f_,#! #:<"the absolute value of the count"a_,#! #:<" and pops "<           "more than "<<
            >>    >> na"gnirts stpurroc gnirts ni etyb llun :DAB"                v                                             ^"0 times or less than "n    <
               >>   na"lauqe sa erapmoc ton od orez dna gnirts ni etyb llun :DAB"v
     >"b a"'aw0w 'bwa"lauqe sa erapmoc        orez dna gnirts ni etyb llun :DOOG"v     These are actually aligned, your editor might display NUL as more than one column wide
-v         ;^< >^ ^<;                                                     _,#! #:<
->'Ð'h2*-#v_"skrow 721 naht retaerg etyb a yb dewollof ' :DOOG"                v
-    v    > "eulav gnorw eht dehsup 721 naht retaerg etyb a yb dewollof ' :DAB">:#,_$a,
+v         ;^< >^ ^<;                                                     _,#! #:<      The below is also aligned: the form feed should be transparent to Befunge-98
+>'Ð'h2*-#v_"skrow 721 naht retaerg etyb a yb dewollof ' :DOOG"                v            v  <>"tnelaviuqe ro ecaps sa detaert deef mrof :DAB"         v
+   ;v;^  > "eulav gnorw eht dehsup 721 naht retaerg etyb a yb dewollof ' :DAB">:#,_$a,      #v^                                                        >:#,_$a,;
+                                                                                           >  "ecapS-egnuF ni tsixe ot raeppa ton seod deef mrof :DOOG"^
+    v                                                                                        >"stcelfer deef mrof :DAB"                                 ^
 
 [a  <   v"d for each fingerprint tested for, whether or not the interpreter supports it."a"If the interpreter loads the fingerprint, subsequent lines will be GOOD or BAD depending"
 [a".yltnelis liaf lliw ti ,krow ton seod ) fI .detset gnieb retfa dedaolnu eb lliw stnirpregniF"a".noitacificeps s'tnirpregnif eht ot gnidrocca sevaheb reterpretni eht rehtehw no "
 v;      >$"ettime eb lliw )hcus sa dekram ton hguoht ,FEDNU ti redisnoc( enil A"a".stnirpregnif ot no gnivoM"a".detset yletelpmoc neeb sah eroc 89-egnufeB ehT"a>:#,_#;$<
 
-
   ONLY FINGERPRINTS BELOW (and q, which obviously has to come last)
-
 
                                                                                   get fingerprint from storage and see how many chars it is (between 1 and 4)
                                                  v, <                                  >$v      >$v      >$v         >     ".dedaol ton">:#,_$a, 0b53**- \  2 ay - + x

@@ -21,6 +21,7 @@ Contents of this readme:
 Recent changes
 --------------
 
+	2010-03-19    - Test correct form feed handling.
 	2010-03-18    - Don't test o if y claims it isn't supported.
 	              - INDV: check proper storage offset application.
 	              - Test ' with a value greater than 127.
