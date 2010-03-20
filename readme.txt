@@ -21,6 +21,7 @@ Contents of this readme:
 Recent changes
 --------------
 
+	2010-03-20    - Test proper bounds shrinking by y.
 	2010-03-19    - Test correct form feed handling.
 	              - Made the first negative space test use (-3,-2) instead of
 	                (-1,-1).

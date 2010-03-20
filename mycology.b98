@@ -12,11 +12,11 @@ v   "GOOD: \ swaps"0#  <^ ># <46+"< rev"v>#^*^>" :DAB">:#,_@>#v!1-#v_55+"1 = "v 
 v68+55<>055+"stce"v>5+"paws t'nseod "v>:#,_^^"7! != 0"+_v#!773<>+"1 =! !0 :DAB"v >" ; neewteb snoitcurtsni :DOOG">:#,_         g:!#v_                    1-#^_^
 *   v_^#$< ^"23fl"]>^   $<0  "BAD: \"<^  "GOOD: 7! = 0"+<>:#,_^#"GGOO"<>:#,_@#:<
     >055+"0 =! `10"^>1\`1-#v_55+"1 = `01 :DOOG">:#,_900#vp#vg9-v       ^"BAD: "<                                                    v                      <
->" = `10 :DOOG">:#,_^      >55+"1 =! `01 :DAB"  0^      >055+    "stcelfer p"  ^                      v               >#           #<                                 2v0$$$$$$$$$<
-v"difies space"+># 5# <  ^00      "900pg doesn't get 9"+55<>5+0 \"stcelfer g"  ^^                                                  $                                p00<1$$$$$$$$$$<
->"om p :DOOG"vv5 5p:+88"^"_,#! #:<"GOOD: 900pg gets 9"+55_^#!  <                v_,#! #:<             <                             #v                 #<         ^             <
-     $_,#! #:<>+"ecaps yfidom t'nseod p :DAB">:#,_@v"GOOD: wraparound works"v###                                                $_,#! #:<"Befunge-98 detected."+550             ^###
-#                          " column 80",:+55_,#! #:<v"p skips column 80"+550< vv >"el ssorca # :FEDNU"^               ^$$$$$$$$$$                                                 ^^
+>" = `10 :DOOG">:#,_^      >55+"1 =! `01 :DAB"  0^      >055+    "stcelfer p"  ^                      v               >#           #<                                  2v0$$$$$$$$$<
+v"difies space"+># 5# <  ^00      "900pg doesn't get 9"+55<>5+0 \"stcelfer g"  ^^                                                  $                                 p00<1$$$$$$$$$$<
+>"om p :DOOG"vv5 5p:+88"^"_,#! #:<"GOOD: 900pg gets 9"+55_^#!  <                v_,#! #:<             <                             #v                 #<         ^              <
+     $_,#! #:<>+"ecaps yfidom t'nseod p :DAB">:#,_@v"GOOD: wraparound works"v###                                                $_,#! #:<"Befunge-98 detected."+550              ^###
+#                          " column 80",:+55_,#! #:<v"p skips column 80"+550< vv >"el ssorca # :FEDNU"^               ^$$$$$$$$$$                                                  ^^
 v         "GOOD: Funge-93 spaces"+55<               >"arw :DAB">:#,_@ v"skips"<  ^"ft edge skips easternmost cell in file"a        <        The above must be the easternmost cells
 v "BAD: SGML spaces in Funge-93"+55_^#$\`"  !"_,#! #:<"UNDEF: edge # "<  "hits"< ^"ft edge  hits easternmost cell in file"a          <      in the file because else the # might
 >:#,_55+"...gnittiuQ"55+".enod si etius tset ygolocyM eht fo noisrev 39-egnufe"v>                                                        v  (depending on how smart the interpreter
@@ -97,14 +97,14 @@ v92<  v"ter than"< ^ _,#! #:<"BAD: a"<v"ndprint is "0<^9"That"<v_,#! #:<"dim"<>'
 >a*+p^>"aerg si llec pot eht y retf" ^>"ah s'reterpretni eht "^>$2-#v_v      ^"en"<^_,#! #:<9"That this Funge ha"++1*aa<                              ee
 v >;#$_,#! #:<"BAD: should be 2, or we wouldn't have got this far"a0<;>0" si PI tnerruc eht fo DI eht tahT"9>:#,_\.a," si PI tnerruc eht"             ""
 >" fo rebmun maet eht tahT"9>:#,_$.a,0" ( saw PI eht fo noitisop eht tahT"9>:#,_$\:.\:.a'),, ; vx2-20<>#< v;9a*1-038*-0x                              aa
-#                                                            ;>$#;                           ;vw>    ^w>^;                v#                         <^^
-v                   @_,#! #:<"BAD: the position should have been ( 64 89 )"a0;>::2%!0aa*-0b-;$<>88*   ^; x>            ;v< ;
->0" ( saw PI eht fo atled eht tahT"9>:#,_$\:.\:.a'),,#v_1+#v_;^"BAD: should have been ( 180 800 )"a0                   $< #;v>a*a9v                                      >        v
+#                                                            ;>$#;                           ;vw>    ^w>^;  ;vpcc<;       v#                         <^^
+v                   @_,#! #:<"BAD: the position should have been ( 64 89 )"a0;>::2%!0aa*-0b-;$<>88*   ^; x>  #         ;v< ;
+>0" ( saw PI eht fo atled eht tahT"9>:#,_$\:.\:.a'),,#v_1+#v_;^"BAD: should have been ( 183 814 )"a0   $$$$$">:zz^"    $< #;v>a*a9v                                      >        v
 0" ( saw PI eht fo tesffo eht tahT"9>:#,_$\:.\:.a'),,v>$   >               0a") 0 1- ( neeb evah dluohs atled eht :DAB">:#,_>a$  #+
 >#;"BAD: the offset should have been ( 0 0 )"a0      >#<_#<_v$_,#! #:<;# <       >9>:#,_$\:.\:.a'),,v         >$    >   :^>v ^/**<*
-  9"That the least point containing a non-space cell is ( "0<> #;"rg eht tahT";<;^v"h is "0%**884:<;> 8aa**   w495**w   #;<>:#,_v8+          >" tsael ta eb dluohs :DAB">:#,_$ $1v v
-  \:.\:.a'),,1+#v_1+#v_> #;0" ( si ,tniop taht ot evitaler ,tniop tsetae"   ;<;^  >"tnom eht fo "v^          <>$    >   ^v     $<80    v ,0'<^"1, assuming 1"a0          #     <  >
-               ;>;v;$>0a") 1- 1- ( neeb evah dluohs tniop tsael :DAB">:#,_$  ^v_,#! #:<9"That t";>"yad eh"#;<^           < >$.a,4^>" si raey eht tahT"
+  9"That the least point containing a non-space cell is ( "0<> #;"rg eht tahT";<;^v"h is "0%**884:<;> 'Jb*   [w3'=* w   #;<>:#,_v8+          >" tsael ta eb dluohs :DAB">:#,_$ $1v v
+  \:.\:.a'),,2+#v_3+#v_> #;0" ( si ,tniop taht ot evitaler ,tniop tsetae"   ;<;^  >"tnom eht fo "v^          <>$    >   ^v     $<80    v ,0'<^"1, assuming 1"a0          #     <  >
+               ;>;v;$>0a") 2- 3- ( neeb evah dluohs tniop tsael :DAB">:#,_$  ^v_,#! #:<9"That t";>"yad eh"#;<^           < >$.a,4^>" si raey eht tahT"
 v#  /*:+1f\%*:+1; >   9>:#,_$.a,:f1+:*%0" si emit eht tahT"9>:#,_$\f1+:*/:f#;<>$.a,884**/:884**%0" si htnom eht tahT"9>:#,_^     >;# '.<   _^#`9:;#<
 >':,,:a\`#v_  >." :",,:a\`#v_  >.a,0" si kcats kcats eht fo ezis eht tahT"9>:#,_$:.a,:!#v_ >0" [ era sezis kcats eht tahT"9>:#,_$ > #;\.1-:#;_  a"mottob ot pot morf ]">:#,_v
 >:#v_$   ;>'0,^            >'0,^;   :#v_$                   :#v_$" llun",,,,,v         ;> #^;       x        0 -*aa   _,#! #:<   9"That the command-line arguments were: [ "< ;^#<
@@ -199,7 +199,19 @@ v         ;^< >^ ^<;                                                     _,#! #:
 >'Ð'h2*-#v_"skrow 721 naht retaerg etyb a yb dewollof ' :DOOG"                v            v  <>"tnelaviuqe ro ecaps sa detaert deef mrof :DAB"         v
    ;v;^  > "eulav gnorw eht dehsup 721 naht retaerg etyb a yb dewollof ' :DAB">:#,_$a,      #v^                                                        >:#,_$a,;
                                                                                            >  "ecapS-egnuF ni tsixe ot raeppa ton seod deef mrof :DOOG"^
-    v                                                                                        >"stcelfer deef mrof :DAB"                                 ^
+    >' 0a-6738*+*p>5b*11p>11g::' \0a-p#v_v  Clear area used for io testing separately        >"stcelfer deef mrof :DAB"                                 ^
+    v                   ;^        p11-1<;<
+   v>1-:::+\pa-:11p22p>11g::' \22gp#v_a-11p22g:2+#v_$28*:1+y\y1+#v_2+#v_
+ a,v                  ^;#      p11+1<;       p22+1<              >    >n" ( ton ,) 1- 2- ( sa tniop tsael troper dluohs y ,renroc tfel-pot gnicaps retfa :DAB">:#,_28*:1+y\y\..'),
+                                                                                                                                                  v     $<
+   >29*:1+y\y     ccg1--#v_ ed*-#v_"renroc tfel-pot gnicaps retfa yltcerroc sdnuob knurhs stroper y :DOOG">:#,_                                   >a,fa+22p>' '$5*22gp22g:#v_v
+                         >       >n" 281 ( sa tniop tsetaerg troper dluohs y ,renroc tfel-pot gnicaps retfa :DAB">:#,_ccg1-." ( ton ,)"8k,29*:1+y\y\..'),^ ^          p22-1< $
+  v                        _v#!- +8'}' _v#!--1gcc     y\y+1:*92 $;#_,#! #:<     v        n<;                                                            _v#!+2_v#!+1y\y+1:*82<
+v"greatest point as ( 181 "n<           <                                 ^"BAD: after spacing right edge, least point reported by y should not change"an<     <
+>" troper dluohs y ,egde thgir gnicaps retfa :DAB">:#,_ccg1-." ( ton ,)"8k,29*:1+y\y\..'),^                 >   n>"egnahc ton dluohs y yb detroper tniop tsael ,egde mottob "v
+  >   $"egde thgir gnicaps retfa yltcerroc sdnuob knurhs stroper y :DOOG">:#,_  >a,    ' \ccg2-p28*:1+y\y1+#^_2+#^_> #;29*:1+y\y    ccg2--#v_'}'8+-#v_v ;"BAD: after spacing"<
+                   v,)'..\y\y+1:*92,k8"), not ( ".-2gcc$_,#! #:<"BAD: after spacing bottom edge, y should report greatest point as ( 181 "n<        <
+    v            ,a<                                   $_,#! #:<"GOOD: y reports shrunk bounds correctly after spacing bottom edge"                   <
 
 [a  <   v"d for each fingerprint tested for, whether or not the interpreter supports it."a"If the interpreter loads the fingerprint, subsequent lines will be GOOD or BAD depending"
 [a".yltnelis liaf lliw ti ,krow ton seod ) fI .detset gnieb retfa dedaolnu eb lliw stnirpregniF"a".noitacificeps s'tnirpregnif eht ot gnidrocca sevaheb reterpretni eht rehtehw no "
@@ -798,3 +810,4 @@ _a".FEDNU si suht dna ,noitacificeps eht ni denoitnemnu si sihT"a".PI dlihc eht 
   '                                    ^"UNDEF: IVXLCDM didn't reflect: child IP has ROMA loaded"anMDCLXVIv#_,#! #:<"Forked into child IP."an<
   s                                    ^   "UNDEF: IVXLCDM reflected: child IP doesn't have ROMA loaded"an<         >na"daetsni @ htiw gnittiuq ,stcelfer q :DAB">:#,_@
   >"i sutats nruter eht fI .q htiw tiuq ot gniyrT"a".enod yllacitcarp si etius tset 89-egnufeB ygolocyM ehT"a>:#,_f#^q
+X
