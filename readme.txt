@@ -21,6 +21,9 @@ Contents of this readme:
 Recent changes
 --------------
 
+	2010-03-21    - Made the u complaint about the storage offset BAD, not
+	                UNDEF: in most cases it's an error and the tester should
+	                know when it isn't anyway.
 	2010-03-20    - Test proper bounds shrinking by y.
 	2010-03-19    - Test correct form feed handling.
 	              - Made the first negative space test use (-3,-2) instead of
