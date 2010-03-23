@@ -99,10 +99,10 @@ v >;#$_,#! #:<"BAD: should be 2, or we wouldn't have got this far"a0<;>0" si PI 
 >" fo rebmun maet eht tahT"9>:#,_$.a,0" ( saw PI eht fo noitisop eht tahT"9>:#,_$\:.\:.a'),, ; vx2-20<>#< v;9a*1-038*-0x                              aa
 #                                                            ;>$#;                           ;vw>    ^w>^;  ;vpcc<;       v#                         <^^
 v                   @_,#! #:<"BAD: the position should have been ( 64 89 )"a0;>::2%!0aa*-0b-;$<>88*   ^; x>  #         ;v< ;
->0" ( saw PI eht fo atled eht tahT"9>:#,_$\:.\:.a'),,#v_1+#v_;^"BAD: should have been ( 183 814 )"a0   $$$$$">:zz^"    $< #;v>a*a9v                                      >        v
+>0" ( saw PI eht fo atled eht tahT"9>:#,_$\:.\:.a'),,#v_1+#v_;^"BAD: should have been ( 183 864 )"a0   $$$$$">:zz^"    $< #;v>a*a9v                                      >        v
 0" ( saw PI eht fo tesffo eht tahT"9>:#,_$\:.\:.a'),,v>$   >               0a") 0 1- ( neeb evah dluohs atled eht :DAB">:#,_>a$  #+
 >#;"BAD: the offset should have been ( 0 0 )"a0      >#<_#<_v$_,#! #:<;# <       >9>:#,_$\:.\:.a'),,v         >$    >   :^>v ^/**<*
-  9"That the least point containing a non-space cell is ( "0<> #;"rg eht tahT";<;^v"h is "0%**884:<;> 'Jb*   [w3'=* w   #;<>:#,_v8+          >" tsael ta eb dluohs :DAB">:#,_$ $1v v
+  9"That the least point containing a non-space cell is ( "0<> #;"rg eht tahT";<;^v"h is "0%**884:<;> '`9*   [w3'=* w   #;<>:#,_v8+          >" tsael ta eb dluohs :DAB">:#,_$ $1v v
   \:.\:.a'),,2+#v_3+#v_> #;0" ( si ,tniop taht ot evitaler ,tniop tsetae"   ;<;^  >"tnom eht fo "v^          <>$    >   ^v     $<80    v ,0'<^"1, assuming 1"a0          #     <  >
                ;>;v;$>0a") 2- 3- ( neeb evah dluohs tniop tsael :DAB">:#,_$  ^v_,#! #:<9"That t";>"yad eh"#;<^           < >$.a,4^>" si raey eht tahT"
 v#  /*:+1f\%*:+1; >   9>:#,_$.a,:f1+:*%0" si emit eht tahT"9>:#,_$\f1+:*/:f#;<>$.a,884**/:884**%0" si htnom eht tahT"9>:#,_^     >;# '.<   _^#`9:;#<
@@ -620,6 +620,56 @@ n
 > ay     v     >10: :v
  ^"FPDP"0<     x-+ef:<
 v  )g22g33 ,a                                                                                        <
+
+n            v;>22gbbp33gaap#;<
+> ay     v   >#^"PSPF"4#v( #v)na"...no won morf krow lliw sdnammoc P dna F sti dna ti gnimussa ,PSPF dedaolnu dna dedaoL">:#,_v
+ ^"3DSP"0<            v;>na"!PSPF tuohtiw PSD3 tset t'naC .deliaf PSPF gnidaol :DAB"#;<
+v          v   _,#! #:<    ;>na"!PSPF elbailernu na htiw PSD3 tset t'naC .deliaf PSPF gnidaolnu :DAB"#;<
+              v_,#! #:<   "As with FPSP, all results will be printed as UNDEF, with the precisely correct result following."aa<
+              >"PSPF"4(n1F2F3F4F5F6F"PSPF"4)#vA0" ( = A htiw )6 5 4( + )3 2 1( :FEDNU">:#,_0p10p20p\"PSPF"4(ng10g20gPPP"PSPF"4)na")9 7 5( detcepxe ,)">:#,_v
+              v          "BAD: B reflects"an;>na"stcelfer A :DAB"                                                          ;<;                        ^
+              v  "), expected (4 5 6)"an)4"FPSP"PPPg02g01gn(4"FPSP"\p02p01p0_,#! #:<"UNDEF: (5 7 9) - (1 2 3) with B = ( "0B^#)4"FPSP"F3F2F1F9F7F5n(4"FPSP"<
+              >:#,_"PSPF"4(n1F2F3F4F5F6F"PSPF"4)#vC0" ( = C htiw )6 5 4( x )3 2 1( :FEDNU">:#,_0p10p20p\"PSPF"4(ng10g20gPPP"PSPF"4)na")3- 6 3-( detcepxe ,)">:#,_v
+                    v        "BAD: M reflects"an;>na"stcelfer C :DAB"                                                            ;<;                        ^
+            v_,#! #:<"), expected (4 10 18)"an)4"FPSP"PPPg02g01gn(4"FPSP"\p02p01p0_,#! #:<"UNDEF: (1 2 3) * (4 5 6) with M = ( "0M^#)4"FPSP"F6F5F4F3F2F1n(4"FPSP"<
+            >"PSPF"4(n1F2F3F4F5F6F"PSPF"4)#vD0" = D htiw )6 5 4( . )3 2 1( :FEDNU">:#,_0p"PSPF"4(ngP"PSPF"4)na")23 detcepxe(">:#,_       v
+            v"BAD: N of (4 3 0) reflected";>na"stcelfer D :DAB"                                              ;an<;           ^
+            v"), expected (0.8 0.6 0)"an)4"FPSP"PPPg02g01gn(4"FPSP"\p02p01p0_,#! #:<"UNDEF: N of (4 3 0) = ( "0N^#)4"FPSP"F0F3F4n(4"FPSP"<
+            >:#,_"PSPF"4(n9F6F3F"PSPF"4)#vV0" ( = )3 6 9( fo V :FEDNU">:#,_0p10p"PSPF"4(ng10gPP"PSPF"4)na")2 3( detcepxe ,)">:#,_v
+            v"BAD: V of (7 3 0) reflect";>na"detcelfer )3 6 9( fo V :DAB"                        ;"ed"an<;                  ^
+            v      "), expected (7 8)"an)4"FPSP"PPg01gn(4"FPSP"p01p0_,#! #:<"UNDEF: V of (7 8 0) = ( "0V^#)4"FPSP"F0F8F7n(4"FPSP"<
+            >:#,_"PSPF"4(n2F3F6F"PSPF"4)#vL0" = )6 3 2( fo L :FEDNU">:#,_0p"PSPF"4(ngP"PSPF"4)na")7 detcepxe(">:#,_                                    v
+                    v"BAD: Z reflects"an;>na"detcelfer )6 3 2( fo L :DAB"                                     ^            ;<
+            v_,#! #:<"), expected (5 10 15)"an)4"FPSP"PPPg02g01gn(4"FPSP"\p02p01p0_,#! #:<"UNDEF: 5 * (1 2 3) with Z = ( "0Z^#)4"FPSP"F3F2F1F5n(4"FPSP"<
+                                                                     >     >     >>na"yltcerrocni )3 2 1( detacilpud U :DAB"v         >     >     >v
+            >"PSPF"4(naFbFcF"PSPF"4)#vU00p10p20p01p11p21p"PSPF"4(ngcFw10gbFw20gaFw a"yltcerroc )3 2 1( detacilpud U :DOOG"  >:#,_01gcFw11gbFw21gaFw v
+                                     >na"stcelfer U :DAB"            >     >     >^                                                   >     >     >v
+            v       p00p01p02p03p10p11p12p13p20p21p22p23p30p31p32p33F+1fFfFeFdFcFbFaF9F8F7F6F5F4F3F2F1<_,#! #:<"BAD: U corrupted original vector"an<
+                              >"stcelfer X :DAB"                                                     ;^                                             <;                            v
+            >1F2F3F"PSPF"4)00#^X0" ( = X htiw )3 2 1( . ))61 51 41 31( )21 11 01 9( )8 7 6 5( )4 3 2 1(( :FEDNU">:#,_0p10p20p"PSPF"4(ng10g20gPPP"PSPF"4)na")47 64 81( detcepxe ,)"v
+            v   PPPP,k3") ( "PPPPg00g01g02g03g10g11g12g13g20g21g22g23g30g31g32g33n(4"FPSP"_,#! #:<"UNDEF: R with axis 2 and angle 30 created (( "Rv#\2)4"FPSP"F*a3n(4"FPSP"_,#! #:<
+                                                                                                                          v  "BAD: R with axis 2";>n"detcelfer 03 elgna dna "#;<
+            >" ( )"3k,PPPP" ( )"3k,PPPP"PSPF"4)"))1 0 0 0( )0 520668.0 0 5.0-( )0 0 1 0( )0 5.0 0 520668.0(( detcepxe ,))">:#,_a,                                  v
+            vPPPP,k3") ( "PPPPg00g01g02g03g10g11g12g13g20g21g22g23g30g31g32g33n(4"FPSP"_,#! #:<"UNDEF: S with (2 3 4) created (( "Sv#)4"FPSP"F4F3F2n(4"FPSP"_,#! #:<
+                                                                                                      v      "BAD: S with (2 3 4)";>n"detcelfer "#;<
+            >" ( )"3k,PPPP" ( )"3k,PPPP"PSPF"4)"))1 0 0 0( )0 4 0 0( )0 0 3 0( )0 0 0 2(( detcepxe ,))">:#,_a,                                                     v
+            vPPPP,k3") ( "PPPPg00g01g02g03g10g11g12g13g20g21g22g23g30g31g32g33n(4"FPSP"_,#! #:<"UNDEF: T with (2 3 4) created (( "Tv#)4"FPSP"F4F3F2n(4"FPSP"_,#! #:<
+                                                                                                      v      "BAD: T with (2 3 4)";>n"detcelfer "#;<
+            >" ( )"3k,PPPP" ( )"3k,PPPP"PSPF"4)"))1 0 0 0( )4 1 0 0( )3 0 1 0( )2 0 0 1(( detcepxe ,))">:#,_a,v
+                    p00p01p02p03p10p11p12p13p20p21p22p23p30p31p32p33F+1fFfFeFdFcFbFaF9F8F7F6F5F4F3F2F1(4"FPSP"<v
+            )4"FPSP"           p04p05p06p07p14p15p16p17p24p25p26p27p34p35p36p37FfFeFdFcFbFaF9F8F7F6F5F4F3F2F1Fn<        >;#" (8 9 10 11) (12 13 14 15)) with Y = (( "Yv#000408;v;
+            vPPPP,k3") ( "PPPPg08g09g0ag0bg18g19g1ag1bg28g29g2ag2bg38g39g3ag3bn(4"FPSP"_,#! #:<"UNDEF: ((1 2 3 4) (5 6 7 8) (9 10 11 12) (13 14 15 16)) . ((0 1 2 3) (4 5 6 7)"<
+                                                                                                                                     v            "BAD: Y reflected"an<
+            >" ( )"3k,PPPP" ( )"3k,PPPP"PSPF"4)"))245 484 624 863( )893 653 413 272( )452 822 202 671( )011 001 09 08(( detcepxe ,))">:#,_a,8040#vPv
+                                         v<     <     <     <     <     <     <     <     <     <     <     <     <     <     <     <            >n a"detcelfer P :DAB"
+                                        v wFfg3bwFeg3awFdg39wFcg38wFbg2bwFag2awF9g29wF8g28wF7g1bwF6g1awF5g19wF4g18wF3g0bwF2g0awF1g09wF0g08n(4"FPSP"<
+                                         v<     <     <     <     <     <     <     <     <     <     <     <     <     <     <     <
+                                         >na"yltcerrocni ))51 41 31 21( )11 01 9 8( )7 6 5 4( )3 2 1 0(( detacilpud P :DAB"v
+                                        >a"yltcerroc ))51 41 31 21( )11 01 9 8( )7 6 5 4( )3 2 1 0(( detacilpud P :DOOG"   >:#,_v
+                               v<     <     <     <     <     <     <     <     <     <     <     <     <     <     <     <
+                              v wFfg37wFeg36wFdg35wFcg34wFbg27wFag26wF9g25wF8g24wF7g17wF6g16wF5g15wF4g14wF3g07wF2g06wF1g05wF0g04<
+                               v<     <     <     <     <     <     <     <     <     <     <     <     <     <     <     <
+v ,a)gbbgaa<    )4"FPSP"    ;#<>a"xirtam lanigiro detpurroc P :DAB">:#,_#;<
 
 n                >n "stcelfer D :DAB"                                                                                                  >:#,_  v              >na"stcelfer L :DAB"v
 > ay     v     >#^D#v_a"0 si n retfa D :DOOG" >:#,_$yD00pad+y:00g-#v_n" si y retfa ezis kcats taht eerga D dna y :DOOG"                >:#,_g.>a,98765432105#^Lv

@@ -21,6 +21,7 @@ Contents of this readme:
 Recent changes
 --------------
 
+	2010-03-23    - New fingerprint: 3DSP.
 	2010-03-21    - Made the u complaint about the storage offset BAD, not
 	                UNDEF: in most cases it's an error and the tester should
 	                know when it isn't anyway.
@@ -280,6 +281,7 @@ The list of fingerprints which are tested:
 		reason, use the IP's storage offset. Thus, the tests assume the same
 		behaviour.
 
+		"3DSP"  0x33445350  3D space manipulation extension
 		"BASE"  0x42415345  I/O for numbers in other bases
 		"CPLI"  0x43504c49  Complex Integer extension
 		"DATE"  0x44415445  Date functions
