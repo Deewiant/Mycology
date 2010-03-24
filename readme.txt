@@ -21,6 +21,7 @@ Contents of this readme:
 Recent changes
 --------------
 
+	2010-03-25    - New fingerprint: REXP.
 	2010-03-23    - New fingerprint: 3DSP.
 	2010-03-21    - Made the u complaint about the storage offset BAD, not
 	                UNDEF: in most cases it's an error and the tester should
@@ -295,6 +296,7 @@ The list of fingerprints which are tested:
 		"IIPC"  0x49495043  Inter IP [sic] communicaiton [sic] extension
 		"IMAP"  0x494d4150  Instruction remap extension
 		"INDV"  0x494e4456  Pointer functions
+		"REXP"  0x52455850  Regular Expression Matching
 		"SOCK"  0x534f434b  tcp/ip [sic] socket extension
 		"STRN"  0x5354524e  String functions
 		"SUBR"  0x53554252  Subroutine extension
