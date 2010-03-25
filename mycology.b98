@@ -132,22 +132,22 @@ v "BAD: MycoRand was not loaded correctly,"                 <                   
  s                                                                                                                                                                     .      _
 vf<                                                                                                                                                                    .      -
 $u                                                                                                                                                         >" :FEDNU"v "      6
- "                                                                               >n}a"ed"v > 19f*+ p0d8*-2x >"eliaf o htiw pmt."c19f*+g"pmtocym ot gnitirw" ]        > 09b* -6v
+ "                                                                               >n}a"ed"v > 19f*+ p0d8*-2x >"eliaf o htiw pmt."c19f*+g"pmtocym ot gnitirw" ]     'B > 09b* -6v
 <^"lly exited MycoRand. Rerun a few times to ensure ? works."a"GOOD: i works in text mo" < ^*4a p +*f91  c:<^"d: can't test i in binary mode"an<           ]]p+*f91c:'<#   v!% 2/4y1
-  >" ...pmt.0pmtocym gninepO">:#,_ "pmt.0pmtocym"#vina"...etirwrevo t'noW .dedeeccus">:#,_$c 19f*+ g1+:':-#^_$a"o tset t'nac ,seman elif yraro" "pmet fo tuo nar :DAB"^^ ,a_ #x
+  >" ...pmt.0pmtocym gninepO">:#,_ "pmt.0pmtocym"#vina"...etirwrevo t'noW .dedeeccus">:#,_$c 19f*+ g1+:':-#^_$aa"o tset t'nac ,seman elif yrar" "opmet fo tuo nar :DA"^^ ,a_ #x
 " pmt."c 19f*+ g"pmtocym ot etorW">:#,_a-:00"pmt"v>na"...o htiw ti ot etirw ot gniyrT"a".deliaf" >:#,_$ a6 00 0 0"pmt."c 19f*+ g"pmtocym"     #^oa"...i htiw kcab gnidaeR"a".o htiw"
                                                  >'.c 19f*+ g"pmtocym"#vina")01- ,01-( ot atad nettirw daer :DOOG">:#,_a-2+:1-g'@v>>a"@ eb dluohs )9- ,8-( :DAB"v
 x 3*5f"BAD: couldn't read mycotmp"g+*f91 c ".tmp to (-10, 10) with i"an<v"r') or 10 (0xa, '\n')"a_v#-3_v#;>:#,_0a-ga-:#;<        >w a"@ si )9- ,8-( :DOOG"      >:#,_a-:10"pmt."c 1v
- >" i :edom txet raenil "vv_,#! #:<"BAD: (0, -10) should be 13 (0xd, '\"<v"GOOD: (0, -10) is "0  d<   a<  ^"GOOD: read data in b";>^;"inary mode to (-10, -10)"aniv#"mycotmp"g +*f9<
- ^ x1*c6"Can't test o in"<>;                                             >:#,_$.a,#;a".elif ot tuptuo era yeht rehtehw 89-egnuF dradnats nihtiw morf wonk ot yaw on ,secaps serongi"
+                          v_,#! #:<"BAD: (0, -10) should be 13 (0xd, '\"<v"GOOD: (0, -10) is "0  d<   a<  ^"GOOD: read data in b";>^;"inary mode to (-10, -10)"aniv#"mycotmp"g +*f9<
+                          >;                                             >;v;>:#,_$.a,n'[-dd+x;<
 >a"elif gnitsixe emos etirwrevo yam ,i gnikrow tuohtiw o tset t'nac :FEDNU">:#,_1y2%!#v_a"89-egnuF tnerrucnoC si siht syas y1"87x >'<v >"tiuq ot gniyrt ,pu dessem yrev eb thgim n"v
 v          ;>>v;  $_,#! #:<"1y says this is not Concurrent Funge-98, won't test t..."a<                      v       *a6<>na"q htiw "#v^#"or concurrency is very broken"a"Situatio"<
 ;v"differ"a wg5\,a.:y8_,#! #><"Child IP: ID "p+*cc1*5d '_,#!  #:<     "BAD: reflected IP didn't copy stack"a<w# <       >^  <<<<<<<<<<>" PI wen a gnitaerc tuohtiw stcelfer t :DAB"v
  >" dluohs"v>>>'va2v><p5 p*cc*47:',a.:y8_,#! #:<"Parent IP: ID " ><p*cc*ac^'_,#!  #:<"GOOD: basic concurrency seems to work"ap*cc*bb<tv"o other IP or @ is implemented as q"aq,k*cb<
 v"AD: IDs "<v+1*cc*<v           >v                              ^          "GOOD: reflected IP copied stack"a<    >f9*k,@@@@@@@@@>@<^<>"n s'ereht yllufepoh ,@ gniyrT"a"tniop siht"v
->'B>:#,_$'vv        >"$"$>>>>>>>>a"PI dlihc ot roirp detucexe PI tnerap :DAB"v                                    ^"BAD: q doesn't quit"a"Suggest manually killing the process at "<
->;#+1*cc*2a<>#;>>>p$>"^"48*9c+7*p$><4a*-3x                                   >:#,_'>75*af*2-p>>b9*-2x
-;                                >a"PI tnerap erofeb detucexe PI dlihc :DOOG"^                                                          >:#,_aa".1 ekat dluohs a' ,skcit 5 ekat dl"v
+>'B>:#,_$'vv        >"$"$>>>>>>>>a"PI dlihc ot roirp detucexe PI tnerap :DAB"v                          +----+    ^"BAD: q doesn't quit"a"Suggest manually killing the process at "<
+>;#+1*cc*2a<>#;>>>p$>"^"48*9c+7*p$><4a*-3x                                   >:#,_'>75*af*2-p>>b9*-2x   |A   |
+;                                >a"PI tnerap erofeb detucexe PI dlihc :DOOG"^                          |B NC| "A\nB[ ]\nC[\n]"         >:#,_aa".1 ekat dluohs a' ,skcit 5 ekat dl"v
  >"v"c1fa*+p 'v 6b* 1fa*+                             ><        p  '^  297**  2b7**                                    ><>p        v    v"urrency is concerned: "+2" a b"+2:" shou"<
  >"$"$>>>>> >a"skcit 0 sekat ecaps elgnis :DOOG">:#,_$' b5*>fa*>p>>a"kcit eno naht erom ekat secaps elpitlum :DAB">:#,_$'>ac* af* v     >"cnoc erehw yltcerroc krow tsum sgnirts o"v
             >a"kcit 1 sekat ecaps elgnis :DAB"  ^                 >a"skcit 0 ekat secaps elpitlum :DOOG"          ^                     v"ll continue to produce textual output, s"<
@@ -165,18 +165,18 @@ v                 ;v  <          ^  << >'>7d*dcc*+p"a  b"> 0a"skcit 5 naht ssel 
                    >^      >^                              > >    >^<v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>a"thgir PI gniylf"v  "|8
 v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<xv<< <<<<<<<<<<^v "GOOD: ] turns "<  y"f
 v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  v"BAD: ] reflects"<  y\
-v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<]<<<<<<<<<<<<                      s n
-v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   >a"tfel PI gniylf"vy ,
-v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<xv<<<<<<<<< v<^# "BAD: ] turns "<aoa
-v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 0                    st|
-v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< a                      ,
-v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< b                    ,g#
-v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< *                    2n!
-v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< -                    "i
-v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<v "BAD: \ on empty stack doesn"$"1't make stack size "<"#
+v >a'kaya8+-p42'iaya9+-10"pmt."c8f2+*g"pmtocym"#voa".edom txet raenil ni o htiw pmt."c8f2+*g"pmtocym ot etorW">:#,_'Kav^<<<<<<<<<<<<<<<<<<<<<<]<<<<<<<<<<<<                      s n
+v v     "BAD: o in linear text mode reflected"an<v"line"a_v#- 'gg00:+1_v#!-A'gg00:K'iv#"mycotmp"g*+2f8c".tmp"01p00:+ay<^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   >a"tfel PI gniylf"vy ,
+v  vgg00:<,k"&GOOD: o removed space prior to new"<        >a"enilwen ot roirp secap"v>na"detcelfer edom yranib ni i "v ^<<<<<<<<<<<<<<<<<<<<<<<<xv<<<<<<<<< v<^# "BAD: ] turns "<aoa
+v  :     ^                                            +3,k"-BAD: o doesn't remove s"<        "BAD: reading back with"< ^<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 0                    st|
+v  >a-#v_   $1+>:00gg'B-#v_1+:00gg' -#v_1+"sllec deulav-enilwen ot roirp secaps evomer t'nseod o :FEDNU;">k,a,:00gg:av v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< a                      ,
+v      >d-#v_2+^                      >"sllec deulav-enilwen ot roirp secaps sevomer o :FEDNU4"          ^  v_v#-d<  - v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< b                    ,g#
+v [  #<   #<            #<         v#                                ;#_v#- '<;                 <           2 < v_^#!< v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< *                    2n!
+v >na"etorwsim o ro daersim i :DAB"v        "UNDEF: o wrote EOL to EOF"an  <     _v#!-a::gg00+1_^#!-C'gg00:+<1 $<      v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< -                    "i
+v                 x-"'0M',a$_,#! #:< "UNDEF: o didn't write EOL to EOF"a<  ^_^#!-d<   v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<v "BAD: \ on empty stack doesn"$"1't make stack size "<"#
 v<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<v,a,a$_,#! #:<"GOOD: \ on empty stack makes"$"x stack size 2 accord"<:
 >na"PI gniylf htiw lla ta krow t'nseod ] :DAB">:#,_n:f8+#vy2-                                                ; >aa,,v;#v_"y ot gnidrocca 2 ezis kcats sekam kcats ytpme no : :DOOG"^
-                       >;#n_,#! #:<"BAD: f8+y reflects"an<;                                                    ;v   <  >"y syas ,2 ezis kcats ekam t'nseod kcats ytpme no : :DAB"#;^
+                       >;#n_,#! #:<"BAD: f8+y reflects"an<                 I                                    v   <  >"y syas ,2 ezis kcats ekam t'nseod kcats ytpme no : :DAB"#;^
                                                                               v<                              >d0#v(0a"0 tnirpregnif tnetsixenon daol ot gniyrt detcelfer evah dlu"v
                                                                           >d-!#^_0a"yltcerroc gnippop tuohtiw ";>vd;"stcelfer"                                     vv         "sho"<
   >;#"should have reflected trying to unload nonexistent fingerprint 0"a0)^#0dn_,#! #:<"GOOD: ( pops correctly"aw <                                    ;]           >" ( :DAB">:#,_@
