@@ -23,6 +23,7 @@ Recent changes
 
 	2010-03-25    - New fingerprint: REXP.
 	              - The y position error is no longer fatal.
+	              - Fixed stack misalignment in y test with bad storage offset.
 	2010-03-23    - New fingerprint: 3DSP.
 	2010-03-21    - Made the u complaint about the storage offset BAD, not
 	                UNDEF: in most cases it's an error and the tester should
