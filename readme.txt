@@ -21,7 +21,7 @@ Contents of this readme:
 Recent changes
 --------------
 
-	2010-03-25    - New fingerprint: REXP.
+	2010-03-25    - New fingerprints: REXP and FING.
 	              - The y position error is no longer fatal.
 	              - Fixed stack misalignment in y test with bad storage offset.
 	2010-03-23    - New fingerprint: 3DSP.
@@ -291,6 +291,7 @@ The list of fingerprints which are tested:
 		"DIRF"  0x44495246  Directory functions extension
 		"EVAR"  0x45564152  Environment variables extension
 		"FILE"  0x46494c45  File I/O functions
+		"FING"  0x46494e47  Operate on single fingerprint semantics
 		"FIXP"  0x46495850  Some useful math functions
 		"FPSP"  0x46505350  Single precision floating point
 		"FPDP"  0x46504450  Double precision floating point

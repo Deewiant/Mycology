@@ -99,10 +99,10 @@ v >;#$_,#! #:<"BAD: should be 2, or we wouldn't have got this far"a0<;>0" si PI 
 >" fo rebmun maet eht tahT"9>:#,_$.a,0" ( saw PI eht fo noitisop eht tahT"9>:#,_$\:.\:.a'),, ; vx2-20<>#< v;9a*1-038*-0x                              aa
 #                                                            ;>$#;                           ;vw>    ^w>^;  ;vpcc<;       v#                         <^^
 v                   $_,#! #:<"BAD: the position should have been ( 64 89 )"a0;>::2%!0aa*-0b-;$<>88*   ^; x>  #         ;v< ;
->0" ( saw PI eht fo atled eht tahT"9>:#,_$\:.\:.a'),,#v_1+#v_;^"BAD: should have been ( 183 882 )"a0   $$$$$">:zz^"    $< #;v>a*a9v                                      >        v
+>0" ( saw PI eht fo atled eht tahT"9>:#,_$\:.\:.a'),,#v_1+#v_;^"BAD: should have been ( 183 911 )"a0   $$$$$">:zz^"    $< #;v>a*a9v                                      >        v
 0" ( saw PI eht fo tesffo eht tahT"9>:#,_$\:.\:.a'),,v>$   >               0a") 0 1- ( neeb evah dluohs atled eht :DAB">:#,_>a$  #+
   ;"BAD: the offset should have been ( 0 0 )"a0  ;#$ ># _#;_v$_,#! #:<;          >9>:#,_$\:.\:.a'),,v         >$    >   :^>v ^/**<*
-  9"That the least point containing a non-space cell is ( "0<> #;"rg eht tahT";<;^v"h is "0%**884:<;> 'b9*   [w3'=* w   #;<>:#,_v8+          >" tsael ta eb dluohs :DAB">:#,_$ $1v v
+  9"That the least point containing a non-space cell is ( "0<> #;"rg eht tahT";<;^v"h is "0%**884:<;> 'd9*b+ [w3'=* w   #;<>:#,_v8+          >" tsael ta eb dluohs :DAB">:#,_$ $1v v
   \:.\:.a'),,2+#v_3+#v_> #;0" ( si ,tniop taht ot evitaler ,tniop tsetae"   ;<;^  >"tnom eht fo "v^          <>$    >   ^v     $<80    v ,0'<^"1, assuming 1"a0          #     <  >
                ;>;v;$>0a") 2- 3- ( neeb evah dluohs tniop tsael :DAB">:#,_$  ^v_,#! #:<9"That t";>"yad eh"#;<^           < >$.a,4^>" si raey eht tahT"
 v#  /*:+1f\%*:+1; >   9>:#,_$.a,:f1+:*%0" si emit eht tahT"9>:#,_$\f1+:*/:f#;<>$.a,884**/:884**%0" si htnom eht tahT"9>:#,_^     >;# '.<   _^#`9:;#<
@@ -519,6 +519,7 @@ v                        >"fridocym"#vC     ^                                   
                                                   v                                 C^".."           _,#! #:<"BAD: can C into 'mycodirf' after successful R of it"an<
                >a".R htiw 'fridocym' devomeR">:#,_v                                                                                                                  <
 v  )g22g33,a                                      <
+
 n
 > ay     v     >"HTAP"#vG" dehsup dna dekrow G"'""HTAP"'"" :FEDNU"                  >:#,_a,#vN    #vVna"dekrow VN :DAB">:#,_N1-#vV" dehsup dna dekrow V-1N :DOOG">:#,_a,v
  ^"EVAR"0<             >n"krow t'nseod G ro htap on :detcelfer G"'""HTAP"'"" :FEDNU"^       >na"stcelfer N :DAB";              v     "BAD: P reflects"an<              ;v
@@ -551,6 +552,34 @@ v  )g22g33,,aa _,#! #:<              <<   <;>na"O htiw gnidaer rof 'pmt.pmetocym
       >a,n    v        >  >  >^>0a"'zab' daer G :DOOG">:#,_$#^G#v_#v_>0a"seorez 2 dehsup G :DOOG">:#,_5a77**p1#^R5a77**g#^_0a"tcelfer t'ndid R1 :DOOG">:#,_v                      ;
      ^;^D^#"mycotemp.tmp"< v"BAD: G didn't push 2 zeroes"a0<       <                                                 v"BAD: couldn't close file with C"an< $                     ;<
 v  )g22g33 ,a <          ^ >#                             ;^_ #!<;;#                                          _,#! #:<       "GOOD: closed file with C"aC^#<;^
+
+n
+> ay     v     >a".deriuqer eb ot nesohc saw AMOR ,yticilpmis noitatnemelpmi sti roF .tnirpregnif rehtona deen ew ,ylreporp GNIF tset oT">:#,_"AMOR"4#v(na".dedaol AMOR">:#,_v
+ ^"FING"0<     v_,#! #:<                                                                                  "UNDEF: ROMA not loaded, can't test FING."an<
+v                         v"BAD: after f7+0Z, A did not reflect"anAv# Zv#0+7f_,#! #:<  "GOOD: 'X'AZ seems to have worked"a _v#!-a     Av# _v# !-aXv#                 Zv#A'X' <
+                          v                    "BAD: f7+0Z reflected"an<            ^;#             "BAD: after 'X'AZ, X did not push 10"an< ;"BAD: 'X'AZ reflected"an<
+   v"lect"anZv#0+ff_,#! #:<       "GOOD: after f7+0Z, A reflects"a$<                ^                 "BAD: after 'X'AZ, X reflected"an           <
+   >"fer to"v                                             >na"detcelfer YA' :DAB"  #^              v# "BAD: after 'X'AZ, A reflected"an<
+   v" did n"<     >na"detcelfer Z+ff0 :DOOG"      v                                 ^"BAD: after 'X'AZ, A did not push 10"an<
+   >"Z0+ff "v   >#^Zna"tcelfer ton did Z+ff0 :DAB">:#,_'A#^Y#vAa-#v_a"01 sehsup A ,YA' retfa :DOOG"     >:#,_#vY#vAa"tcelfer ton did A ,Y0 retfa :DAB"v
+    v"BAD: "<   +                                            >na"detcelfer A ,YA' retfa :DAB"     '>$   ^        >a"detcelfer A ,Y0 retfa :DOOG"   ;v;>:#,_#vY#vAa"tcelfer ton "#;<
+    "        a  :                                                 >na"01 hsup ton did A ,YA' retfa :DAB"^     >na"detcelfer Y0 :DAB"                  [;       >a"detcelfer A "#;<
+   v"flected"<v         "ROMA unloaded."a            )v#4"ROMA"Zv#B'V'Zv#0+bc_,#! #:<       "GOOD: 'yY reflected"a<          v"BAD: after 0Y, A did"<       >na"detcelfer Y0 :DAB"v
+   >"er Z0+f"vv                                "BAD: bc+0Z reflected"an<            ^"BAD: 'yY did not reflect"anY^#y'_,#! #:<;#     "GOOD: after 0Y,"<                          ;<
+   v"GOOD: f"<v                         "BAD: 'V'BZ reflected"an<
+   v<         v      "BAD: unloading ROMA reflected"an<
+   :          >:#,_ #vAa-#v_  #vB5-#v_a"5 sehsup B dna 01 sehsup A ,)4"'""AMOR"'""ZB'V'Z0+cb retfa :DOOG">:#,_'A'B#vX #vA5-#v_ #vBa-#v_a"01 sehsup B dna 5 sehsup A ,XB'A' retfa "v
+   #                 >na"detcelfer A ,)4"'""AMOR"'""ZB'V'Z0+cb retfa :DAB"                               ^         >                  na"detcelfer XB'A' :DAB"                   v"
+   ,            f         >na"01 hsup ton did A ,)4"'""AMOR"'""ZB'V'Z0+cb retfa :DAB"                    ^             >              na"detcelfer A ,XB'A' retfa :DAB"          vD
+   |            0              >na"detcelfer B ,)4"'""AMOR"'""ZB'V'Z0+cb retfa :DAB"                     ^                  >         na"5 hsup ton did A ,XB'A' retfa :DAB"     vO
+   >$           ^                   >na"5 hsup ton did B ,)4"'""AMOR"'""ZB'V'Z0+cb retfa :DAB"           ^                      >     na"detcelfer B ,XB'A' retfa :DAB"          vO
+                                                                                                                                     >na"01 hsup ton did B ,XB'A' retfa :DAB"    vG
+                                >na"detcelfer YB' :DAB"      v       >na"detcelfer YC' :DAB"      v        v                                   "BAD: 02X reflected"an <           "
+                 v"BAD: 'B'cX did not reflect"anXv#c'B'_,#! #:<      "GOOD: 'b'CX reflected"an<   #        v                 "BAD: after 02X, A did not reflect"anAv#X^#20_,#! #:<<
+                 v      "GOOD: 'B'cX reflected"an<           $^"BAD: 'b'CX did not reflect"anX^#C'b'_,#! #:<"GOOD: after 02X, A reflected and C pushed 5"a_v#!-5Cv#<
+                 >:#,_$      'B#^Ya"YB' htiw B denaelc :DOOG">:#,_'C#^Ya"YC' htiw C denaelc :DOOG">:#,_v   ^                     "BAD: after 02X, C reflected"a n<
+v  )g22g33 ,a  <                                                                                       <   ^           "BAD: after 02X, C did not push 5"an<
+
 n
 > ay     v     >b6#vA2-#v_a"2 si A6b :DOOG" >:#,_93#vOb-#v_a"11 si O39 :DOOG" >:#,_c6#vXa-#v_a"01 si X6c :DOOG" >:#,_v
  ^"FIXP"0<         >    na"stcelfer A :DAB" ^       >    na"stcelfer O :DAB"  ^       >    na"stcelfer X :DAB"  ^
