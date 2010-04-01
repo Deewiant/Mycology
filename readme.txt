@@ -21,6 +21,7 @@ Contents of this readme:
 Recent changes
 --------------
 
+	2010-04-01    - Fixed error message in bounds shrinking test.
 	2010-03-25    - New fingerprints: REXP and FING.
 	              - The y position error is no longer fatal.
 	              - Fixed stack misalignment in y test with bad storage offset.
