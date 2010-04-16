@@ -51,8 +51,8 @@ Quick summary of how to test your Befunge interpreter:
 	- Run sanity.bf and make sure it outputs "0 1 2 3 4 5 6 7 8 9 ".
 	- Run mycology.b98, make sure it outputs "0 1 2 3 4 5 6 7 " and that there
 	  are no lines beginning with "BAD:" anywhere in the output.
-	- If your interpreter is Befunge-93 only, run mycorand.bf and examine the
-	  results.
+	- If your interpreter is Befunge-93 only or is Befunge-98 and doesn't
+	  support the i instruction, run mycorand.bf and examine the results.
 	- Run mycouser.b98: for complete testing, run it a few times and try giving
 	  it both valid and invalid input.
 	- If your interpreter should support one or both of the NCRS and TERM
