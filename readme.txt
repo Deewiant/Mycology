@@ -21,6 +21,8 @@ Contents of this readme:
 Recent changes
 --------------
 
+	2011-02-07    - Make the 1k[ error message not rely on stringmode having
+	                working spaces.
 	2010-04-01    - Fixed error message in bounds shrinking test.
 	2010-03-25    - New fingerprints: REXP and FING.
 	              - The y position error is no longer fatal.
