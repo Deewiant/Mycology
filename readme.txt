@@ -285,10 +285,6 @@ The list of fingerprints which are tested:
 		an instruction should behave. Precise semantics have been inferred from
 		the RC/Funge-98 source code where not properly documented.
 
-		For all fingerprints involving vectors, RC/Funge-98 doesn't, for some
-		reason, use the IP's storage offset. Thus, the tests assume the same
-		behaviour.
-
 		"3DSP"  0x33445350  3D space manipulation extension
 		"BASE"  0x42415345  I/O for numbers in other bases
 		"CPLI"  0x43504c49  Complex Integer extension
