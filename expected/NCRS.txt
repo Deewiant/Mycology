@@ -1,0 +1,36 @@
+NCRS loaded.
+, might not work after I: using S instead, so if R and S don't work, nothing will be seen.
+Calling 1I, press enter to continue...
+[waiting for enter]
+[screen cleared]
+Testing S...
+S didn't reflect, continuing...
+Testing R...
+R didn't reflect, there should be output
+If this is visible, P works.
+If no message about P appeared, P doesn't work.
+Testing B...
+[my PC speaker is disabled so I can't know whether this works, sorry...]
+Some sort of beep should have resulted.
+Press any key to continue... if 0E and 0N worked, you don't need to press enter and the key shouldn't be echoed to the screen
+[waiting for key]
+Got 88
+GOOD: 'xUG is 120
+Press any function key to continue...
+[waiting for key]
+Got 267
+Going to test M, press enter to continue...
+[waiting for enter]
+[screen now has the following]
+This should be at the top of the screen
+
+The rest of the screen should have cleared
+
+Trying to overwrite above with M and C, press any key to continue...
+[waiting for key]
+[screen clears]
+The whole screen should have cleared
+Press any key to try to end curses mode...
+[waiting for key]
+[whatever is left on the screen afterward: a GOOD will be earned even if the 0I message is not there]
+

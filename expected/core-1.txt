@@ -1,0 +1,37 @@
+GOOD: a pushes 10
+GOOD: b-f push 11-15
+GOOD: [ turns left
+GOOD: ] turns right
+GOOD: instructions between ; are skipped
+[UNDEF: does # hit or skip easternmost cell in file]
+[UNDEF: does # hit or skip easternmost cell on line]
+GOOD: 0k^ doesn't execute ^
+GOOD: 1k[ turns left from k
+GOOD: 4k # jumps 4 times from k
+GOOD: 2k ;;;5 executes 5 thrice
+GOOD: 2k# jumps twice from k
+GOOD: ak47k$ leaves 3 fours on stack
+GOOD: 2k6 leaves 3 sixes on stack
+GOOD: putting to and getting (-3 -2) worked, assuming working negative Funge-Space
+GOOD: 9 / 2 = 4
+GOOD: 9 % 2 = 1
+About to test division by zero...
+GOOD: 1 / 0 = 0
+GOOD: 1 % 0 = 0
+GOOD: SGML spaces
+GOOD: n clears 15-cell stack: assuming it works
+GOOD: r reflects
+GOOD: 21w turns right
+GOOD: ' pushes 20
+GOOD: 'vs^ goes through
+GOOD: 'vs places v
+GOOD: z doesn't reflect
+GOOD: 3j jumps over 3 cells
+GOOD: 04-j jumps backward the right number of cells
+GOOD: 1j ^ jumps into ^
+GOOD: 10x goes east
+GOOD: 1-1x goes southwest
+GOOD: 32x sets delta to (3, 2)
+Assuming we can trust x...
+GOOD: wraparound with non-cardinal delta appears to work
+

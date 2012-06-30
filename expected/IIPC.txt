@@ -1,0 +1,19 @@
+Testing fingerprint IIPC... loaded.
+GOOD: I agrees with 8y
+GOOD: A of child agrees with 8y of parent
+GOOD: 8yL duplicates
+GOOD: L with parent's 8y works
+GOOD: G with parent's 8y works
+GOOD: another such G works
+GOOD: PL with parent's 8y works
+Child going dormant...
+GOOD: parent IP's stack was changed by P
+GOOD: L with child's 8y works
+Child should still be dormant.
+UNDEF: woke up from dormancy
+GOOD: G with child's 8y works
+Child should have woken up.
+
+The waking up bit is UNDEF because it is GOOD or BAD depending on where it
+occurs. In the above it is to be considered GOOD.
+

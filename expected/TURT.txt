@@ -1,0 +1,20 @@
+Testing fingerprint TURT... loaded.
+Cannot test TURT's drawing correctness in any way, both due to technical reasons and the fact that the precise results are undefined.
+Checked will be only that the instructions don't reflect and pop/push correctly.
+The resulting image should contain two dots diagonally adjacent to each other.
+GOOD: L pops correctly
+GOOD: R pops correctly
+GOOD: H pops correctly
+GOOD: F pops correctly
+GOOD: B pops correctly
+GOOD: P pops correctly
+GOOD: C pops correctly
+GOOD: N pops correctly
+GOOD: D pops correctly
+GOOD: T pops correctly
+GOOD: E pushed 1
+GOOD: A pushed 1
+GOOD: Q pushed (1, 1)
+[UNDEF: what U pushes]
+GOOD: I didn't push or pop (or cheated and pushed 1)
+

@@ -1,0 +1,10 @@
+Testing fingerprint REXP... loaded.
+Testing a regular expressions engine is outside the scope of Mycology: will test only that the fingerprint's commands basically work.
+[UNDEF: whether an F before a C reflects]
+GOOD: "$)\*)\]zr[aB.(\(\)\ooF(\^"2C did not reflect
+GOOD: "zab-rab oof"0E pushed correct match count 4
+GOOD: "zab-rab oof"0E pushed correct results "foo bar-baz", "foo", " bar-baz", and "-baz"
+GOOD: F didn't reflect
+[UNDEF: whether a second F reflects]
+GOOD: E after F reflected
+

@@ -1,0 +1,7 @@
+Testing fingerprint INDV... loaded.
+GOOD: G works
+GOOD: P works
+GOOD: V uses logical order
+GOOD: W works
+GOOD: G applies storage offsets properly
+

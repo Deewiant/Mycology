@@ -1,0 +1,9 @@
+Testing fingerprint IMAP... loaded.
+GOOD: C without remaps doesn't reflect
+GOOD: '4'5M5 pushes 4
+[UNDEF: whether remap chains work]
+GOOD: '5O unmapped 5 to push 5
+GOOD: mapping non-ASCII octet works
+[UNDEF: results of mapping -1 and 256]
+GOOD: C works, '6'7MC7 pushes 7
+

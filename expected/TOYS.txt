@@ -1,0 +1,43 @@
+Testing fingerprint TOYS... loaded.
+GOOD: A works
+[UNDEF: what B does, it's not clear what it should be]
+GOOD: 3DDD is zero
+GOOD: IIDD is zero
+GOOD: 123456789abcdefE is 120
+GOOD: 112345P is 120
+GOOD: 882*1-N is -127
+GOOD: 64H is 96
+GOOD: b7*03-H is 9
+[UNDEF: whether H does a signed or unsigned right shift]
+GOOD: C works as a basic copy
+GOOD: K works as a basic copy
+GOOD: M works as a basic move
+GOOD: V works as a basic move
+GOOD: overlapping copy with C works
+GOOD: overlapping copy with K works
+GOOD: overlapping move with M works
+GOOD: overlapping move with V works
+GOOD: S works
+[UNDEF: whether F pops j or i first]
+GOOD: F works
+GOOD: G works
+GOOD: 1J moves itself south one row
+GOOD: 01-J moves itself north one row
+GOOD: 01-O moves its row one column to the west
+GOOD: 1O moves its row one column to the east
+GOOD: L gets left-hand space
+GOOD: L gets left-hand normal cell
+GOOD: R gets right-hand space
+GOOD: R gets right-hand normal cell
+GOOD: Q works
+GOOD: 00T goes right
+GOOD: 01T goes down
+[UNDEF: what 02T does]
+GOOD: U transmuted into all of ><^v
+GOOD: 000p000W goes through
+GOOD: 000p100W waits indefinitely
+GOOD: 000p01-00W reflects
+GOOD: X works
+GOOD: Y works
+[UNDEF: what Z does]
+

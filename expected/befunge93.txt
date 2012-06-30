@@ -1,0 +1,17 @@
+0 1 2 3 4 5 6 7
+GOOD: , works
+GOOD: : duplicates
+GOOD: empty stack pops zero
+GOOD: 2-2 = 0
+GOOD: | works
+GOOD: 0! = 1
+GOOD: 7! = 0
+GOOD: 8*0 = 0
+GOOD: # < jumps into <
+GOOD: \ swaps
+GOOD: 01` = 0
+GOOD: 10` = 1
+GOOD: 900pg gets 9
+GOOD: p modifies space
+Befunge-98 detected.
+GOOD: wraparound works

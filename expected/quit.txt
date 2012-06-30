@@ -1,0 +1,3 @@
+The Mycology Befunge-98 test suite is practically done.
+Trying to quit with q. If the return status is 15, consider it GOOD...
+

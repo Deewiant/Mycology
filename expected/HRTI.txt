@@ -1,0 +1,7 @@
+Testing fingerprint HRTI... loaded.
+[UNDEF: G, clock granularity]
+GOOD: T reflected when called before M
+[UNDEF: S, microseconds since last second]
+[UNDEF: T, microseconds since last M and after executing y 675 times]
+GOOD: ET reflected
+

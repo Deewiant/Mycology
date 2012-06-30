@@ -1,0 +1,31 @@
+Testing fingerprint FIXP... loaded.
+GOOD: b6A is 2
+GOOD: 93O is 11
+GOOD: c6X is 10
+GOOD: C says cos(35) is 0.8192 or 0.8191
+GOOD: I says sin(35) is 0.5736 or 0.5735
+GOOD: T says tan(35) is 0.7002
+GOOD: B says acos(1) is 0
+GOOD: B says acos(0) is 90
+GOOD: B says acos(-1) is 180
+GOOD: J says asin(0.3) is 17.4576
+[UNDEF: result of 2aaaa****J]
+GOOD: U says atan(2348.2368) is 89.9756
+[UNDEF: 9 results of 3D]
+GOOD: 01-N is 1
+GOOD: 0S is 0
+GOOD: 2S is 1
+GOOD: 03-S is -1
+GOOD: 5V is 05-V
+GOOD: P says 16777216 * pi is 52707178 or 52707179
+GOOD: Q says sqrt(200) is 14
+GOOD: 23R is 8
+GOOD: 203-R is 0
+GOOD: 02-3R is -8
+GOOD: 02-03-R is 0
+GOOD: 02R is 0
+[UNDEF: result of 002-R]
+GOOD: 20R is 1
+GOOD: 02-0R is 1
+[UNDEF: result of 00R]
+
