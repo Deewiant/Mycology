@@ -1,0 +1,2 @@
+Testing fingerprint NULL... loaded.
+GOOD: all of A-Z reflected

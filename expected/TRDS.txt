@@ -1,0 +1,92 @@
+Loaded TRDS.
+Splitting IP, concurrency better work...
+GOOD: S seems to work
+GOOD: C works
+Checking if terminating the IP while time is stopped continues time...
+GOOD: apparently it does
+
+Starting to test time travel... in case of failure, q will be used to quit.
+Much of the output up to and after now, including this, will be output many times. If any of the output changes or there are other anomalies, the interpreter is confused.
+But note that if jumping backwards in time is implemented as rerunning from point zero, output during the rerun shouldn't be repeated.
+GOOD: f6*aa+D didn't reflect
+GOOD: 8d9a+**T didn't reflect
+GOOD: 01-0V didn't reflect
+UNDEF: G pushed 5896 (if everything was GOOD, should be 5896)
+UNDEF: P gave [whatever]
+GOOD: P-val is fine, jumping to tick 1976...
+GOOD: J jumps in space
+GOOD: stack retained after J
+GOOD: J appears to jump through time
+GOOD: I didn't reflect, jumping..
+GOOD: f6*aa+D didn't reflect
+GOOD: 8d9a+**T didn't reflect
+GOOD: 01-0V didn't reflect
+UNDEF: G pushed 5896 (if everything was GOOD, should be 5896)
+UNDEF: P gave [whatever]
+GOOD: P-val is fine, jumping to tick 1976...
+
+GOOD: came back with IJ, IPs with same ID can coexist
+GOOD: R didn't reflect
+GOOD: 001-E didn't reflect
+GOOD: 0aa*:*-U didn't reflect
+UNDEF: P gave [whatever]
+GOOD: P-val is fine, jumping to a @ at tick -10000, should end up at the time that P gave...
+Loaded TRDS.
+Splitting IP, concurrency better work...
+GOOD: S seems to work
+GOOD: C works
+Checking if terminating the IP while time is stopped continues time...
+GOOD: apparently it does
+
+Starting to test time travel... in case of failure, q will be used to quit.
+Much of the output up to and after now, including this, will be output many times. If any of the output changes or there are other anomalies, the interpreter is confused.
+But note that if jumping backwards in time is implemented as rerunning from point zero, output during the rerun shouldn't be repeated.
+GOOD: f6*aa+D didn't reflect
+GOOD: 8d9a+**T didn't reflect
+GOOD: 01-0V didn't reflect
+UNDEF: G pushed 5896 (if everything was GOOD, should be 5896)
+UNDEF: P gave [whatever]
+GOOD: P-val is fine, jumping to tick 1976...
+GOOD: J jumps in space
+GOOD: stack retained after J
+GOOD: J appears to jump through time
+GOOD: I didn't reflect, jumping..
+GOOD: f6*aa+D didn't reflect
+GOOD: 8d9a+**T didn't reflect
+GOOD: 01-0V didn't reflect
+UNDEF: G pushed 5896 (if everything was GOOD, should be 5896)
+UNDEF: P gave [whatever]
+GOOD: P-val is fine, jumping to tick 1976...
+
+GOOD: came back with IJ, IPs with same ID can coexist
+GOOD: R didn't reflect
+GOOD: 001-E didn't reflect
+GOOD: 0aa*:*-U didn't reflect
+UNDEF: P gave [whatever]
+
+GOOD: jump to the earliest time appears to have succeeded
+UNDEF: P gave [whatever]
+GOOD: P-val is fine, going to tick 7704 to prevent self from being born...
+Destroyed the t instruction that made me, setting Tardis with T and E and jumping back...
+
+GOOD: got back and am still alive.
+One IP about to jump back, and another jump further back to wait for the first to arrive...
+UNDEF: P gave [whatever]
+GOOD: P-val is fine for both jumps...
+Did 1st jump.
+UNDEF: P gave [whatever]
+GOOD: P-val is fine for both jumps...
+Doing 2nd jump...
+One IP about to jump back, and another jump further back to wait for the first to arrive...
+UNDEF: P gave [whatever]
+UNDEF: 1st IP didn't arrive on time
+Did 1st jump.
+UNDEF: P gave [whatever]
+GOOD: 1st IP arrived on time
+
+GOOD: returned from multiple IP testing
+Note that if the first IP didn't arrive on time both times, that is BAD.
+It arriving only the second time is fine.
+
+All done, exiting mycotrds.b98...
+

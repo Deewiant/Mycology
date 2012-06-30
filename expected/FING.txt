@@ -1,0 +1,22 @@
+Testing fingerprint FING... loaded.
+To test FING properly, we need another fingerprint. For its implementation simplicity, ROMA was chosen to be required.
+ROMA loaded.
+GOOD: 'X'AZ seems to have worked
+GOOD: after f7+0Z, A reflects
+GOOD: ff+0Z reflected
+GOOD: 0ff+Z reflected
+GOOD: after 'AY, A pushes 10
+CCBI :: Unimplemented instruction 'A' (65) (0x41) encountered at (114,563).
+GOOD: after 0Y, A reflected
+CCBI :: Unimplemented instruction 'A' (65) (0x41) encountered at (160,564).
+GOOD: after 0Y, A reflected
+GOOD: 'yY reflected
+ROMA unloaded.
+GOOD: after bc+0Z'V'BZ"ROMA"4), A pushes 10 and B pushes 5
+GOOD after 'A'BX, A pushes 5 and B pushes 10
+GOOD: after 02X, A reflected and C pushed 5
+GOOD: 'b'CX reflected
+GOOD: 'B'cX reflected
+GOOD: cleaned B with 'BY
+GOOD: cleaned C with 'CY
+

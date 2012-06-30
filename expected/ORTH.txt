@@ -1,0 +1,13 @@
+Testing fingerprint ORTH... loaded.
+GOOD: 56A pushes 4
+GOOD: 56E pushes 3
+GOOD: 56O pushes 7
+GOOD: G works
+GOOD: P works
+GOOD: Cannot test S reliably. If this line begins with "GOOD: ", it worked.
+GOOD: X seems to work
+GOOD: Y seems to work
+GOOD: V changes dx correctly
+GOOD: W changes dy correctly
+GOOD: 0Z ramps
+GOOD: 1Z doesn't ramp

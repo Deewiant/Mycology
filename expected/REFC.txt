@@ -1,0 +1,7 @@
+Testing fingerprint REFC... loaded.
+UNDEF: 12R34R56R pushed the scalars [ [3 ID numbers] ]
+GOOD: D returned first vector
+GOOD: D returned second vector
+GOOD: D returned third vector
+GOOD: D returned first vector the second time
+

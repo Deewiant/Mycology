@@ -1,0 +1,25 @@
+Loaded 'mycorand.bf' with i.
+If an infinite loop occurs or the program terminates afterward, most likely either an instruction was overwritten with a space character or one of ?p{ are exhibiting incorrect behaviour.
+
+GOOD: i pushed correct Va (60, 119)
+GOOD: i pushed correct Vb (90, 16)
+Entering MycoRand...
+
+The directions were generated in the order [permutation of ><v^]
+? was met [variable amount] times
+
+Successfully exited MycoRand. Rerun a few times to ensure ? works.
+GOOD: i works in text mode
+Opening mycotmp0.tmp... failed.
+Trying to write to it with o...
+Wrote to mycotmp0.tmp with o.
+Reading back with i...
+GOOD: read written data to (-10, -10)
+GOOD: (-8, -9) is @
+GOOD: read data in binary mode to (-10, -10)
+GOOD: (0, -10) is 13
+Wrote to mycotmp0.tmp with o in linear text mode.
+GOOD: o removed space prior to newline
+[UNDEF: whether o removes spaces prior to newline-valued cells]
+[UNDEF: whether o writes EOL to EOF]
+

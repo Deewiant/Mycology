@@ -1,0 +1,15 @@
+
+Loaded STRN: testing I. Please input: UNDEF: got "Testing, testing."
+
+Alternatively, if BASE was not loaded, it should be "z19-hhTesting, testing."
+
+!Befunge: BAD 1
+	output not preceded by line break
+UNDEF: STRN fingerprint not loaded, won't check I.
+
+*** Exited normally
+
+befunge98: GOOD 1
+
+Loaded STRN: testing I. Please input: UNDEF: got "z19-hhTesting, testing."
+

@@ -1,0 +1,20 @@
+1y says this is Concurrent Funge-98
+
+Going to test concurrent execution with 2 IPs.
+Assuming that instructions without any particular concurrency-related behaviour, such as ^>v<#, take one tick.
+Will continue to produce textual output, so strings must work correctly where concurrency is concerned: "a b" should take 5 ticks, 'a should take 1.
+
+GOOD: basic concurrency seems to work
+GOOD: reflected IP copied stack
+Parent IP: ID [undef]
+Child IP: ID [undef]
+GOOD: child IP executed before parent IP
+GOOD: single space takes 0 ticks
+GOOD: multiple spaces take 0 ticks
+GOOD: z takes 1 tick
+GOOD: jumping over code with ; takes 0 ticks
+GOOD: 5kz takes 3 ticks
+GOOD: "a  b" takes 5 ticks
+
+Done testing concurrent execution.
+

@@ -1,0 +1,4 @@
+Testing fingerprint JSTR... loaded.
+GOOD: P works
+GOOD: G works
+

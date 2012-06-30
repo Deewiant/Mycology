@@ -1,0 +1,4 @@
+Testing fingerprint BASE... loaded.
+[UNDEF: how B, H, and O output 40]
+[UNDEF: how N outputs 40 in all bases from 0 to 40]
+

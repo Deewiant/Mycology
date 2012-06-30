@@ -1,0 +1,26 @@
+Testing fingerprint FILE... loaded.
+GOOD: couldn't open 'mycotemp.tmp' for reading with O
+GOOD: opened mycotemp.tmp' for writing with O
+GOOD: L pushed 0
+Put foo\nbar\nbaz with P.
+GOOD: L pushed 11
+GOOD: closed file with C
+GOOD: reopened file in append+read mode
+Sought to beginning of file with 00S.
+GOOD: G pushed correct line length
+GOOD: G read 'foo\n'
+GOOD: 7R read bar\nbaz
+GOOD: closed file with C
+GOOD: reopened file in truncate+read mode
+Wrote bar\nbaz with W.
+Sought to beginning of file with 20S107-S.
+GOOD: G pushed correct line length
+GOOD: G read 'bar\n'
+GOOD: G pushed correct line length
+GOOD: G read 'baz'
+GOOD: G pushed 2 zeroes
+GOOD: 1R read nothing
+GOOD: closed file with C
+GOOD: deleted mycotemp.tmp with D
+GOOD: deleted mycotmp0.tmp with D
+

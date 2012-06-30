@@ -1,0 +1,14 @@
+Testing fingerprint SUBR... loaded.
+GOOD: J worked
+GOOD: set mode with O
+GOOD: J worked
+GOOD: C worked
+GOOD: C transfers stack elements correctly
+GOOD: R worked
+GOOD: R transfers stack elements correctly
+GOOD: set mode with A
+GOOD: C worked
+GOOD: C transfers stack elements correctly
+GOOD: R worked
+GOOD: R transfers stack elements correctly
+

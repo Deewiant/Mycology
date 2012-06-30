@@ -1,0 +1,9 @@
+Testing fingerprint PERL... loaded.
+[UNDEF: whether S claims that Perl is loaded or not]
+UNDEF: 0"2+2" E pushed 52 
+Perl might not be installed, so it could be the (stringified) error code for not having found Perl, or then it should be 52, the ASCII value of 4.
+UNDEF: 0"2+2" I pushed 4 
+Again, it could be an error code or 4.
+
+The two UNDEFs are expected because Perl was installed on the testing machine.
+

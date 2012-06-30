@@ -1,0 +1,30 @@
+Testing fingerprint SOCK... loaded.
+Every instruction will, of course, be tested, but not in combination with every possible parameter.
+There are too many possible things that can be done, when combined with all the possible options and parameters for each instruction, to fully test everything.
+
+GOOD: Created a PF_INET, SOCK_STREAM TCP socket with S
+[UNDEF: what S pushed]
+GOOD: set SO_REUSEADDR with O
+GOOD: bound to local port 51959 with B
+GOOD: set listening mode with backlog size 1 with L
+GOOD: created another socket with S
+[UNDEF: what S pushed]
+GOOD: converted 127.0.0.1 for C with I
+[UNDEF: what I pushed]
+GOOD: connected to local port 51959 with C
+GOOD: accepted connection with A
+[UNDEF: what A pushed]
+GOOD: A didn't overwrite original socket
+GOOD: closed original socket with K
+GOOD: sent "Foobar" with W
+GOOD: W pushed 6
+GOOD: closed socket with K
+GOOD: received data with R
+GOOD: R received correct data
+GOOD: R pushed 6
+GOOD: closed socket with K
+[UNDEF: whether SCKE is included in SOCK, and if not, try to load it]
+[UNDEF: what SCKE's H pushes]
+GOOD: P pushed 0 for socket without data
+GOOD: P pushed nonzero for socket with data
+

@@ -1,0 +1,19 @@
+Testing fingerprint DATE... loaded.
+GOOD: C pushed [2131,08,31] given 2500000
+GOOD: C pushed [-9999,04,01] given -1930544
+GOOD: J pushes 98645 given [-4444,12,24]
+GOOD: J reflects given [0,0,0]
+GOOD: J pushes 990634 given [-2001,2,29]
+GOOD: J pushes -1119007 given [-7777,2,29]
+GOOD: A claims 2008-04-01 minus 32 days is 2008-02-29
+GOOD: D claims the number of days from 2008-04-01 to 2008-02-29 is -32
+GOOD: T claims the 366th day of 2008 is 2008-12-31
+GOOD: T reflects given day 400 of 2008
+GOOD: W claims 2008-08-14 was a Thursday
+GOOD: Y claims 2008-08-14 was the 227th day of the year
+GOOD: Y reflects given [0,1,1]
+GOOD: Y reflects given [1,0,1]
+GOOD: Y reflects given [1,1,0]
+GOOD: Y reflects given [2008,15,1]
+GOOD: Y reflects given [2008,1,32]
+

@@ -1,0 +1,14 @@
+Testing fingerprint MODE... loaded.
+Hovermode:
+GOOD: ><^v seem to work in hovermode
+GOOD: |_ seem to work in hovermode
+Switchmode:
+GOOD: [] seem to work in switchmode
+GOOD: {} seem to work in switchmode
+GOOD: () seem to work in switchmode
+Invert/queuemode:
+GOOD: basic invertmode appears to work
+GOOD: basic queuemode appears to work
+GOOD: queuemode and invertmode seem to work together
+[UNDEF: whether { and the stack stack use the modes]
+

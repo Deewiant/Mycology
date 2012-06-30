@@ -1,0 +1,10 @@
+Testing fingerprint EVAR... loaded.
+UNDEF: "PATH"G worked and pushed [the path environment variable]
+GOOD: NV failed
+GOOD: N1-V worked and pushed [last environment variable]
+GOOD: put 'foo=bar' with P
+GOOD: "oof"G got "bar"
+
+The first UNDEF is expected because there is an environment variable by the
+name of PATH.
+

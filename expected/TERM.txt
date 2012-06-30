@@ -1,0 +1,34 @@
+All these tests are purely I/O related: output will consist mostly of the command used and description of what should have happened.
+TERM loaded.
+Press enter to continue...
+[waiting for enter]
+[screen cleared]
+C was called, the screen should have cleared.
+This should be right above the 02-D line
+Calling 02-D...
+Calling 1D...  This should be placed by G to the right of the 1D line
+
+There should be a blank line above this
+Calling f4G...
+
+Trying to clear the second paragraph with 5US, press enter to continue...
+[waiting for enter]
+[screen now has the following]
+C was called, the screen should have cleared.
+This should be right above the 02-D line
+Calling 02-D...
+Calling 1D...  This should be placed by G to the right of the 1D line
+
+This should now be where the second paragraph was
+
+Trying to clear the first line with HL, press enter to continue...
+[screen now has the following]
+This should now be where the first line was
+This should be right above the 02-D line
+Calling 02-D...
+Calling 1D...  This should be placed by G to the right of the 1D line
+
+This should now be where the second paragraph was
+
+Trying to clear the first line with HL, press enter to continue...
+

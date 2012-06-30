@@ -1,0 +1,8 @@
+Testing fingerprint FRTH... loaded.
+GOOD: D after n is 0
+GOOD: y and D agree that stack size after y is [UNDEF value]
+GOOD: L rolls value correctly
+GOOD: P picks value correctly
+GOOD: O overs value correctly
+GOOD: R rots value correctly
+

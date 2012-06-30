@@ -1,0 +1,6 @@
+About to test, using ROMA, whether t copies the parent IP's loaded fingerprint semantics to the child IP.
+This is unmentioned in the specification, and thus is UNDEF.
+Loaded ROMA.
+Forked into child IP.
+[UNDEF: whether child IP has ROMA]
+

@@ -1,0 +1,24 @@
+GOOD: y acts as pick instruction if given large enough argument
+GOOD: ] turns flying IP right
+GOOD: : on empty stack makes stack size 2 according to y
+GOOD: \ on empty stack makes stack size 2 according to y
+
+GOOD: ( pops correctly
+GOOD: ) pops correctly
+
+Here's how your interpreter deals with some possibilities unmentioned in the specification...
+[UNDEFs: k and ( and ) with a negative argument, empty string wrapped around edge of space]
+
+GOOD: null byte in string and zero compare as equal
+GOOD: ' followed by a byte greater than 127 works
+GOOD: form feed does not appear to exist in Funge-Space
+GOOD: y reports shrunk bounds correctly after spacing top-left corner
+GOOD: y reports shrunk bounds correctly after spacing right edge
+GOOD: y reports shrunk bounds correctly after spacing bottom edge
+
+The Befunge-98 core has been completely tested.
+Moving on to fingerprints.
+A line (consider it UNDEF, though not marked as such) will be emitted for each fingerprint tested for, whether or not the interpreter supports it.
+If the interpreter loads the fingerprint, subsequent lines will be GOOD or BAD depending on whether the interpreter behaves according to the fingerprint's specification.
+Fingerprints will be unloaded after being tested. If ) does not work, it will fail silently.
+
