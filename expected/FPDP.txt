@@ -1,0 +1,7 @@
+Testing fingerprint FPDP... loaded.
+Because floating point equality is, with epsilons, too tricky, and without them, poorly defined, and because rounding with I is too inaccurate, results of calculations will be UNDEF. The precisely correct answer will follow, to 6 decimal places: the calculated result can be compared to it.
+
+[UNDEF: testing F and R and P]
+GOOD: 8FI is 8
+[UNDEF: testing all the rest]
+

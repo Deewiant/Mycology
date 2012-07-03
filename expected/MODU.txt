@@ -1,0 +1,6 @@
+Testing fingerprint MODU... loaded.
+GOOD: a04-M pushes -2
+Assuming that "C-language integer remainder" refers to C99 C, it used to be undefined...
+GOOD: a04-R pushes 2
+GOOD: 0a-04-R pushes -2
+GOOD: 0a-04-U pushes 2

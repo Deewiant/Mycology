@@ -1,0 +1,26 @@
+Testing fingerprint STRN... loaded.
+GOOD: A works
+GOOD: C claims "foo" is greater than "Foo"
+GOOD: C claims "Bar" is less than "bar"
+GOOD: C claims "qUx" is equal to itself
+GOOD: F finds correctly
+GOOD: F pushes 0 on mismatch
+GOOD: Cannot test D reliably. If this line begins with "GOOD: ", it worked.
+GOOD: G works
+GOOD: P works
+GOOD: "zaB"2L is "Ba"
+[UNDEF: what 00L does]
+[UNDEF: what "ooF"01-L does]
+GOOD: "zaB"2R is "az"
+[UNDEF: what 00R does]
+[UNDEF: what "ooF"01-R does]
+GOOD: "zaBraBooF"34M is "BarB"
+[UNDEF: what 000M does]
+[UNDEF: what "ooF"101-M does]
+[UNDEF: what "ooF"01-1M does]
+[UNDEF: what "ooF"42M does]
+[UNDEF: what "ooF"24M does]
+GOOD: 0N is 0
+GOOD: "foo"N is 3
+GOOD: "0987654321"VS is 1234567890
+

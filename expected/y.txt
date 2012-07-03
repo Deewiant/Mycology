@@ -1,0 +1,23 @@
+y claims all of the following:
+	[UNDEF: flags, I/O bufferedness, bytes per cell, handprint, version, =]
+	[UNDEF: path separator---on Windows, expected to be \, on Linux, /]
+	That this Funge has 2 dimensions
+	[UNDEF: IP ID and team number]
+	That the position of the IP was ( 64 89 )
+	That the delta of the IP was ( -1 0 )
+	That the offset of the IP was ( 0 0 )
+	That the least point containing a non-space cell is ( -3 -2 )
+	That the greatest point, relative to that point, is ( 183 911 )
+	[date and time, vary but can be obviously wrong]
+	That the size of the stack stack is 1
+	That the stack sizes are [ 0 ] from top to bottom
+	That the command-line arguments were: [ "mycology.b98" ]
+	That the environment variables are:
+		[snip correct listing]
+Best that the above claims are manually verified to be correct.
+GOOD: 1y works
+GOOD: 5y works
+GOOD: dy works
+GOOD: 1y and 5y do not disagree about =
+No reliable cross-platform method of testing: assume = works
+

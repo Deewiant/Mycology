@@ -1,0 +1,11 @@
+GOOD: { transfers cells correctly
+GOOD: { sets storage offset correctly, and p uses it
+GOOD: } resets storage offset
+GOOD: } transfers cells correctly
+GOOD: { with negative argument works
+GOOD: } with negative argument works
+GOOD: } reflects when stack stack has only one stack
+GOOD: u reflects when stack stack has only one stack
+GOOD: u with zero count does nothing
+GOOD: u with a positive count transfers cells correctly
+GOOD: u with a negative count transfers cells correctly

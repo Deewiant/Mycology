@@ -1,0 +1,8 @@
+Testing fingerprint CPLI... loaded.
+GOOD: ( 1+2i) + (3+4i) is ( 4+6i) according to A
+GOOD: ( 3+4i) - (2+ i) is ( 1+3i) according to S
+GOOD: ( 1+2i) * (3+4i) is (10-5i) according to M
+GOOD: (88-4i) / (9+4i) is ( 8-4i) according to D
+GOOD: 34V is 5
+[UNDEF: how O outputs]
+

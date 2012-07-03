@@ -1,0 +1,12 @@
+Testing fingerprint DIRF... loaded.
+UNDEF: either C doesn't work or the 'mycodirf' directory doesn't exist
+GOOD: created 'mycodirf' with M
+GOOD: entered 'mycodirf' directory with C
+GOOD: left 'mycodirf' with a C to '..'
+GOOD: can't C into 'mycodirf' after R
+GOOD: created 'mycodirf' with M
+Removed 'mycodirf' with R.
+
+The first UNDEF is expected because the 'mycodirf' directory didn't exist
+during testing.
+

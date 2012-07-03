@@ -1,0 +1,12 @@
+About to test detailed () behaviour with two fingerprints.
+MODU and ROMA were chosen for their simplicity (for implementers) and partially overlapping instruction set.
+Loaded ROMA, then MODU.
+GOOD: M has MODU semantics
+GOOD: CDILRUVX doesn't reflect
+Unloaded ROMA.
+GOOD: M has ROMA semantics
+GOOD: RU doesn't reflect
+GOOD: all of CDILVX reflected
+Unloaded MODU.
+GOOD: R and U reflected
+

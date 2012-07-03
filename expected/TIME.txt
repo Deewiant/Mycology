@@ -1,0 +1,7 @@
+Testing fingerprint TIME... loaded.
+UNDEF: YODHMS claim that the local time is (or was a few moments ago) [the time]
+UNDEF: YODHMS claim that the GMT   time is (or was a few moments ago) [the time]
+GOOD: L seems to work
+[UNDEF: what F claims]
+[UNDEF: what W claims]
+

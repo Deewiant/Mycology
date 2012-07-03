@@ -1,0 +1,12 @@
+GOOD: 9 / 2 = 4
+GOOD: 9 % 2 = 1
+About to test division by zero...
+GOOD: 1 / 0 = 0
+GOOD: 1 % 0 = 0
+Please input a number: UNDEF: got 17 which is hopefully correct.
+Please input a character: UNDEF: got 120 'x' which is hopefully correct.
+All done checking the following instructions: / % & ~
+
+The two UNDEFs are expected: the given input is '17xyz19-hhTesting, testing.'
+(without the quotes).
+

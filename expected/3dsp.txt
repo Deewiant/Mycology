@@ -1,0 +1,9 @@
+Testing fingerprint 3DSP... loaded.
+Loaded and unloaded FPSP, assuming it and its F and P commands will work from now on...
+As with FPSP, all results will be printed as UNDEF, with the precisely correct result following.
+
+[UNDEF: testing ABCMDNVLZ]
+GOOD: U duplicated (1 2 3) correctly
+[UNDEF: testing XRSTY]
+GOOD: P duplicated ((0 1 2 3) (4 5 6 7) (8 9 10 11) (12 13 14 15)) correctly
+

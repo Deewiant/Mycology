@@ -1,0 +1,6 @@
+
+Loaded BASE fingerprint: testing I instruction.
+Assuming Befunge-98 instructions work...
+Which base to read input in? Selected base 19 
+Input a number in that base: UNDEF: got [either 340 or -340] which is hopefully correct.
+
