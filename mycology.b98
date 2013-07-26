@@ -822,12 +822,12 @@ v              >^                  >  >  >  >  >  > >>;>^;na"yltcerroc dneppa t'
                  v"BAD: C claims ""'"qUx""'" is greater than itself"a<                           v"GOOD: C claims ""'"Bar""'" is less than ""'"bar""'a$_v#`0:C"bar"0 "Bar" _,#! #:<
                  v  "BAD: C claims ""'"qUx""'" is less than itself"a_^#`0_v#:C"qUx"0 "qUx"_,#! #:<"BAD: C claims ""'"Bar""'" is greater than ""'"bar""'a_v
          v_,#! #:<       "GOOD: C claims ""'"qUx""'" is equal to itself"a$<                      ^"BAD: C claims ""'"Bar""'" and ""'"bar""'" are equal"a <
-         e                >na"stcelfer F :DAB"                                                                                                                               v
-         >\"abo"0"rabooF"#^Fv  >  >  >  > >v >>na"sgnirts woleb kcats sehcuot F :DAB"v                   >v >>na"hctam t'nod sgnirts nehw sgnirts woleb kcats sehcuot F :DAB"v
-                            >'ow'bw'aw'rw0w ew na"yltcerroc sdnif F :DOOG"           >:#,_e\"oof"0"rab"F0w ew na"hctamsim no 0 sehsup F :DOOG"                               v
-                               >  >  >  > >>;>^;na"yltcerroc dnif t'nseod F :DAB"    ^                   >>;>^;na"hctam t'nod sgnirts nehw yltcerrocni sevaheb F :DAB"       v
+         e                >na"stcelfer F :DAB"                                                                                                                                   v
+         >\"abo"0"rabooF"#^Fv  >  >  >  > >v >>na"sgnirts woleb kcats sehcuot F :DAB"    v                   >v >>na"hctam t'nod sgnirts nehw sgnirts woleb kcats sehcuot F :DAB"v
+                            >'ow'bw'aw'rw0w ew na"'rabooF' ni 'abo' sdnif F :DOOG"       >:#,_e\"oof"0"rab"F0w ew na"'rab' ni 'oof' no 0 sehsup F :DOOG"                         v
+                               >  >  >  > >>;>^;na"'rabooF' ni 'abo' dnif t'nseod F :DAB"^                   >>;>^;na"'rab' ni 'oof' gnidnif nehw yltcerrocni sevaheb F :DAB"    v
                    v< <  <  <  <  <  <                                      v                                                            "BAD: D reflects"an<
-  v"OOD: G works"an w0wr'wa'wb'wo'wo'wF'Gv#\ "' p \ (' \0:        c  _,#! #:<"Cannot test D reliably. If this line begins with ""'"GOOD: ""'", it worked."aD^#"GOOD: "_,#! #:<
+  v"OOD: G works"an w0wr'wa'wb'wo'wo'wF'Gv#\ "' p \ (' \0:        c  _,#! #:<"Cannot test D reliably. If this line begins with ""'"GOOD: ""'", it worked."aD^#"GOOD: "_,#! #:    <
    v"oesn't work"an<< <  <  <  <  <  <   >na"stcelfer G :DAB"                                                                         v
   '                                              Foobar                                                                         v"BAD: P reflects"a<
   G>"d G :DAB"v                                                                                                                       v            n      >     >     >    >v
