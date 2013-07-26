@@ -845,13 +845,13 @@ v              >^                  >  >  >  >  >  > >>;>^;na"yltcerroc dneppa t'
    >'"  v                      >  >  >  > >>na'""BraB"'"" t'nsi M43"'""FooBarBaz"'"" :DAB"v                                >  e-#v_"sorez eht stae tsuj"   v
   >     >:#,_"zaBraBooF"34#vM'Bw'aw'rw'Bw0w na'""BraB"'"" si M43"'""FooBarBaz"'"" :DOOG"  >:#,_" M000 :FEDNU">:#,_e\00#vM:#^_$e-#v_"kcats no 0 sevael"     >:#,_a,v
                                >  >  >  > >^                                                  v;>:#,_#;<               >n"stcel";>"kcats pu sessem";"fer"#;^
-                           >na"stcelfer M :DAB";                           v"'" on stack"a    < ^"leaves ""'$<                                                         ;v
+                           >na"stcelfer M :DAB";                           v"'" on stack"a    < ^"leaves ""'$<                                                       ;v
                      >na"stcelfer"    v                                    v                           "reflects"an<
    v"string"a$_v#-e:M^#1-10"Foo"\e_,#! #:<"UNDEF: ""'"ooF""'"01-1M "_,#! #:<             "eats the string"a$_^#-e:M^#-101"Foo"\e_,#! #:<"UNDEF: ""'"ooF""'"101-M "<
-  v "leaves ""'<     v                <                                 >'"" sevael">:#,_a"kcats no "'"v                                                  >'"" sevael">:#,_a"kcats"v
-   >" eht stae"      >:#,_" M24"'""Foo"'"" :FEDNU">:#,_e\"ooF"42#vM:e-!#^_$a"gnirts eht stae"          >:#,_" M42"'""Foo"'"" :FEDNU">:#,_e\"ooF"24#vM:e-!#^_$a"gnirts eht stae"v   '
-  >:#,_a"kcats no "'"^                                           >na"stcelfer"                         ^                                           >na"stcelfer"        >  v
-          v_,#! #:<"BAD: N didn't keep the string on the stack"an<< <  <  <   v_,#! #:< "GOOD: ""'"foo""'"N is 3"a0_v#!-3Nv#"foo"_,#! #:< "GOOD: 0N is 0"an_v#!Nv#\e_,#! #:<   <
+  v "leaves ""'<     v                <                                >'"" sevael">:#,_a"kcats no "'"v                                                 >'"" sevael">:#,_a"kcats"  v
+   >" eht stae"      >:#,_" M24"'""Foo"'"" :FEDNU">:#,_e\"ooF"42#vM:e-#^_$a"gnirts eht stae"          >:#,_" M42"'""Foo"'"" :FEDNU">:#,_e\"ooF"24#vM:e-#^_$a"gnirts eht stae"v     '
+  >:#,_a"kcats no "'"^                                           >na"stcelfer"                        ^                                           >na"stcelfer"       >    v
+          v_,#! #:<"BAD: N didn't keep the string on the stack"an<< <  <  <   v_,#! #:< "GOOD: ""'"foo""'"N is 3"a0_v#!-3Nv#"foo"_,#! #:< "GOOD: 0N is 0"an_v#!Nv#\e_,#! #:< <
           v                                                       w0wo'wo'wf'$<       ^"BAD: ""'"foo""'"N reflects"a0     <             ^"BAD: 0N reflects"an   <          ^"'" on"<
                         >na"stcelfer V :DAB"                     ]< <  <  <           ^"BAD: ""'"foo""'"N isn't 3" a<                   ^"BAD: 0N isn't 0" a<
                                >  >  >  >  >  >  >  >  >  > >v   >                                          v
